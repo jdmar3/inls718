@@ -1,5 +1,6 @@
 # Site settings
-title: "INLS 500: Human Information Interaction"
+title: "Human Information Interactions"
+tagline: "INLS 500-001 Fall 2015"
 author: "John D. Martin III"
 author_url: http://johndmart.in
 email: john.d.martin.iii@unc.edu
@@ -11,6 +12,7 @@ department: INLS
 course-number: "500"
 course-section: "001"
 course-term: Fall
+course-year: "2015"
 
 officehours: "Tu 1230-1430 or by appointment." 
 officeloc: "016 Manning Hall (PhDungeon)"
