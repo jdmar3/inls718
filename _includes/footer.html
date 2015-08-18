@@ -7,8 +7,16 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>Instructor: <a href="{{ site.author_url }}">{{ site.author }}</a></li>
+          <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>&nbsp;</li>
+          <li>Time: {{ site.hours }} {{ site.days }}</li>
+	      <li>Location: {{ site.location }}</li>
+		  <li>Office hours: {{ site.officehours }}</li>
+          <li>Office location: {{ site.officeloc }}</li>
+          <li>&nbsp;</li>
+          <li><a href="{{ site.unit_url }}" target="_blank">{{ site.unit }}</a></li>
+          <li><a href="{{ site.university_url }}" target="_blank">{{ site.university }}</a></li>
         </ul>
       </div>
 
@@ -46,9 +54,28 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+        <p class="text">Course description: <br/>{{ site.description }}</p>
+        <p class="text">
+          Acknowledgements: <br/>{{ site.acknowledgements }}
+        </p>
+        <p class="text">
+          License: <br/>{{ site.content_license }}
+        </p>
+<!--
+        <p class="text">
+          Acknowledgements: <br/>This syllabus and website originated with the work of Professors Barbara Wildemuth and Deborah Barreau and has benefitted from the revisions and input of Laura Sheble, Earl Bailey, Ruth Palmquist, Kaitlin Costello, Kathy Brennan, Anita Crescenzi and others. Address all comments and questions to <a href="mailto:john.d.martin.iii@unc.edu">John D. Martin III</a>.
+        </p>
+        <p class="text">
+          License: <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+        </p>-->
       </div>
     </div>
+	
+	<div class="footer-copyright">
+      <p>
+        &copy; John D. Martin III&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a
+      </p> 
+	</div>
 
   </div>
 

@@ -99,11 +99,13 @@ Bulletin](http://www.unc.edu/ugradbulletin/procedures1.html#grading "grading sec
 and the [Graduate School
 Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate School Handbook").
 
+#### Grading scale for INLS 500 (graduate students)
+
 <table class="grades">
-  <caption>Grading scale for INLS 500 (graduate students)</caption>
+  <!--<caption>Grading scale for INLS 500 (graduate students)</caption>-->
   <tr>
-    <th>Letter grade</th>
-    <th>Numeric range</th>
+    <th>Letter grade&nbsp;</th>
+    <th>Numeric range&nbsp;</th>
     <th class="description">Description of grade</th>
   </tr>  
   <tr>
@@ -132,13 +134,15 @@ Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate 
     <td>Work incomplete.</td>
   </tr>
 </table>
+<br/>
 
+#### Grading scale for INLS 500 (undergraduate students) 
 
-<!--<table class="undergrad">
-  <caption>Grading scale for INLS 500 (undergraduate students)</caption>
+<table class="undergrad">
+  <!--<caption>Grading scale for INLS 500 (undergraduate students)</caption>-->
   <tr>
-    <th scope="col">Letter grade</th>
-    <th scope="col">Numeric range</th>
+    <th scope="col">Letter grade&nbsp;</th>
+    <th scope="col">Numeric range&nbsp;</th>
     <th scope="col" class="description">Description of grade</th>
   </tr>
   <tr>
@@ -201,7 +205,8 @@ Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate 
     <td>NA</td>
     <td>Work incomplete.</td>
   </tr>
-</table>-->
+</table>
+<br/>
 
 Honor Code
 ----------
