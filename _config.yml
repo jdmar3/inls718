@@ -20,6 +20,7 @@ officeloc: "016 Manning Hall (PhDungeon)"
 favicon_url: "{{ base.url }}/images/favicon.ico"
 university: University of North Carolina at Chapel Hill
 university_url: http://unc.edu
+university_logo: "{{ base.url }}/images/small_blue_300px.png"
 
 unit: School of Information and Library Science
 unit_url: http://sils.unc.edu
