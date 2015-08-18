@@ -139,67 +139,67 @@ Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate 
   <tr>
     <th scope="col">Letter grade</th>
     <th scope="col">Numeric range</th>
-    <!--<th scope="col" class="description">Description of grade</th>-->
+    <th scope="col" class="description">Description of grade</th>
   </tr>
   <tr>
     <td>A</td>
     <td>95-100</td>
-    <!--<td>Mastery of course content at the highest level of attainment that can reasonably be expected of students at a     given stage of development.</td>-->
+    <td>Mastery of course content at the highest level of attainment that can reasonably be expected of students at a     given stage of development.</td>
   </tr>
   <tr>
     <td>A-</td>
     <td>90-94</td>
-    <!--<td>&nbsp;</td>-->
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>B+</td>
     <td>88-89</td>
-    <!--<td>&nbsp;</td>-->
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>B</td>
     <td>86-87</td>
-    <!--<td>Strong performance demonstrating a high level of attainment for a student at a given stage of development.</td>-->
+    <td>Strong performance demonstrating a high level of attainment for a student at a given stage of development.</td>
   </tr>
   <tr>
     <td>B-</td>
     <td>84-85</td>
-    <!--<td>&nbsp;</td>-->
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>C+</td>
     <td>82-83</td>
-    <!--<td>&nbsp;</td>-->
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>C</td>
     <td>80-81</td>
-    <!--<td>A totally acceptable performance demonstrating an adequate level of attainment for a student at a given stage of development. </td>-->
+    <td>A totally acceptable performance demonstrating an adequate level of attainment for a student at a given stage of development. </td>
   </tr>
   <tr>
     <td>C-</td>
     <td>78-79</td>
-    <!--<td>&nbsp;</td>-->
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>D+</td>
     <td>74-77</td>
-    <!-- <td>&nbsp;</td>-->
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>D</td>
     <td>70-73</td>
-    <!--<td>A marginal performance in the required exercises demonstrating a minimal passing level of attainment for a student at a given stage of development. </td>-->
+    <td>A marginal performance in the required exercises demonstrating a minimal passing level of attainment for a student at a given stage of development. </td>
   </tr>
   <tr>
     <td>F</td>
     <td>Below 70</td>
-    <!--<td>For whatever reasons, an unacceptable performance. The F grade indicates that the student's performance in the required exercises has revealed almost no understanding of the course content. </td>-->
+    <td>For whatever reasons, an unacceptable performance. The F grade indicates that the student's performance in the required exercises has revealed almost no understanding of the course content. </td>
   </tr>
   <tr>
     <td>IN</td>
     <td>NA</td>
-    <!--<td>Work incomplete.</td>-->
+    <td>Work incomplete.</td>
   </tr>
 </table>
 
