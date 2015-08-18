@@ -2,8 +2,8 @@
 title: "INLS 500: Human Information Interaction"
 email: john.d.martin.iii@unc.edu
 description: "Description"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://inlsjohndmart.in"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
