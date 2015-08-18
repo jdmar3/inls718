@@ -134,7 +134,7 @@ Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate 
 </table>
 
 
-<table class="undergrad">
+<!--<table class="undergrad">
   <caption>Grading scale for INLS 500 (undergraduate students)</caption>
   <tr>
     <th scope="col">Letter grade</th>
@@ -201,7 +201,7 @@ Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate 
     <td>NA</td>
     <td>Work incomplete.</td>
   </tr>
-</table>
+</table>-->
 
 Honor Code
 ----------
