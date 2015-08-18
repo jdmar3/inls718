@@ -3,23 +3,18 @@ layout: page
 title: Schedule
 ---
 
-The annotations for these readings provide insights into the articles as
-well as suggest sections on which you should focus. These readings and
-annotations are adapted from the syllabi of Barbara Wildemuth and other
-SILS faculty and instructors.
+The annotations for these readings provide insights into the articles as well as suggest sections on which you should focus. 
+These readings and annotations are adapted from the syllabi of Barbara Wildemuth and other SILS faculty and instructors.
 
 Introduction and Basic Concepts
 -------------------------------
 
 ## Tuesday, August 18
 
-### \#1: Trends in human information interaction research
+### <span id="session1"></span>\#1: Trends in human information interaction research
 
-These two brief articles were written as part of the 10th anniversary
-celebration (in 2009) of the Special Interest Group on Information
-Needs, Seeking, and Use of the American Society for Information Science
-& Technology. Together, they provide a brief historical overview of the
-general directions taken in information behavior research.
+These two brief articles were written as part of the 10th anniversary celebration (in 2009) of the Special Interest Group on Information Needs, Seeking, and Use of the American Society for Information Science & Technology. 
+Together, they provide a brief historical overview of the general directions taken in information behavior research.
 
 Wilson, T.D. (2010). Fifty years of information behavior research.
 *Bulletin of the American Society for Information Science & Technology,
@@ -35,42 +30,32 @@ Technology, 36*(3), 35-38.
 
 ## Thursday, August 20 
 
-### \#2: Theoretical perspectives and basic concepts
+### <span id="session2"></span>\#2: Theoretical perspectives and basic concepts
 
-In class: sign-up for day to present [Evidence
-Summary](/assignments/#evidencesummary)
+In class: sign-up for day to present [Evidence Summary](/assignments/#evidencesummary)
 
 Each of these two readings takes a slightly different view of our field
 and, in particular, the portion of our field surveyed in this course.
 
 Bates, M. J. (1999). The invisible substrate of information science.
 *Journal of the American Society for Information Science, 50*(12),
-1043-1050. \[[UNC
-libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/(SICI)1097-4571(1999)50:12<1043::AID-ASI1>3.0.CO;2-X)\]
+1043-1050. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/(SICI)1097-4571(1999)50:12<1043::AID-ASI1>3.0.CO;2-X)\]
 
-In this article, Bates discusses the "below-the-water-line" portion of
-information science. While she focuses more of her attention on the
-content/information of concern, she does include human-information
-interactions among her "Three Big Questions" in information science.
-Read through this article quickly, to get an overview of the field as
-background for the semester.
+In this article, Bates discusses the "below-the-water-line" portion of information science. 
+While she focuses more of her attention on the content/information of concern, she does include human-information interactions among her "Three Big Questions" in information science.
+Read through this article quickly, to get an overview of the field as background for the semester.
 
-Marchionini, G. (2008). Human-information interaction. *Library &
-Information Science Research, 30*(3), 165-174. \[[UNC
-libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.lisr.2008.07.001)\]
+Marchionini, G. (2008). Human-information interaction. *Library & Information Science Research, 30*(3), 165-174. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.lisr.2008.07.001)\]
 
-Marchionini focuses more directly on the scope of this course. Read
-through the entire article, but focus special attention on sections 2
-and 6.
+Marchionini focuses more directly on the scope of this course. Read through the entire article, but focus special attention on sections 2 and 6.
 
 [Additional readings of interest](/literature/#session2)
 
 ## Tuesday, August 25 
 
-### \#3 Cognitive approaches to information behaviors
+### <span id="session1"></span>\#3 Cognitive approaches to information behaviors
 
-Due: Title of article for [Evidence
-Summary](/assignments/#evidencesummary)
+Due: Title of article for [Evidence Summary](/assignments/#evidencesummary)
 
 Dinet, J., Chevalier, A., & Tricot, A. (2012). Information search
 activity: An overview. *Revue européene de psychologie appliqué,
@@ -93,7 +78,7 @@ information behaviors of interest to our field. The cognitive aspects of
 those information behaviors are at center stage. (Feel free to skim
 other parts of chapter 6 if you have time.)
 
-[Additional readings of interest](/literature/#session3)NO CLASS. Thanksgiving Holiday
+[Additional readings of interest](/literature/#session3)
 
 ## Thursday, August 31 
 
@@ -101,7 +86,7 @@ other parts of chapter 6 if you have time.)
 
 Kuhlthau, C., Heinström, J., & Todd, R.J. (2008). The 'information
 search process' revisited: Is the model still useful? *Information
-Research, 13*(4), Proceedings of the 7th Conference on InformationNO CLASS. Thanksgiving Holiday
+Research, 13*(4), Proceedings of the 7th Conference on Information
 Seeking in Context, Vilnius, September 2008).
 <http://informationr.net/ir/13-4/paper355.html>.
 

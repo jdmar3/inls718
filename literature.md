@@ -10,7 +10,7 @@ If you have suggestions for literature that should be added to this list, please
 This selection of articles and annotations was created by Barbara
 Wildemuth and other SILS instructors.
 
-<span id="today"></span>INTRODUCTION / BASIC CONCEPTS
+INTRODUCTION / BASIC CONCEPTS
 -----------------------------------------------------
 
 ### <span id="session1"></span>1: Trends in human information interaction research
