@@ -280,81 +280,41 @@ stimulate discussion.
 Some ideas for formulating effective discussion questions are available
 at:
 
--   [Designing effective
-    discussion questions.](http://www.stanford.edu/dept/CTL/cgi-bin/docs/ta/pdf/Master_effective_questions.pdf)
-    Stanford University Center for Teaching and Learning, \[2002\].
--   Kelly, R. [Questioning styles for more effective
-    discussion boards.](http://www.facultyfocus.com/articles/asynchronous-learning-and-trends/questioning-styles-for-more-effective-discussion-boards/)
-    *Faculty Focus,* 2009. (See the section on "Types of questions".)
--   Cashin, W.E. [Answering and
-    asking questions.](http://www.theideacenter.org/sites/default/files/Idea_Paper_31.pdf)
-    Kansas State University Center for Faculty Evaluation &
-    Development, 1995. (See Section III. Asking questions.)
--   Saxe, A. [Tapping into higher-level thinking in
-    online courses.](http://www.facultyfocus.com/articles/online-education/tapping-into-higher-level-thinking-in-online-courses/)
-    *Faculty Focus*, 2010. (See the section on "Establishing guidelins
-    for online discussions".)
--   [Discussions.](http://www.cmu.edu/teaching/designteach/design/instructionalstrategies/discussions.html)
-    Carnegie Mellon University, Eberly Center for Teaching
-    Excellence, n.d. (See the section, "Ask good questions".)
+-   [Designing effective     discussion questions.](http://www.stanford.edu/dept/CTL/cgi-bin/docs/ta/pdf/Master_effective_questions.pdf) Stanford University Center for Teaching and Learning, \[2002\].
+-   Kelly, R. [Questioning styles for more effective     discussion boards.](http://www.facultyfocus.com/articles/asynchronous-learning-and-trends/questioning-styles-for-more-effective-discussion-boards/) *Faculty Focus,* 2009. (See the section on "Types of questions".)
+-   Cashin, W.E. [Answering and asking questions.](http://www.theideacenter.org/sites/default/files/Idea_Paper_31.pdf) Kansas State University Center for Faculty Evaluation & Development, 1995. (See Section III. Asking questions.)
+-   Saxe, A. [Tapping into higher-level thinking in online courses.](http://www.facultyfocus.com/articles/online-education/tapping-into-higher-level-thinking-in-online-courses/)     *Faculty Focus*, 2010. (See the section on "Establishing guidelines for online discussions".)
+-   [Discussions.](http://www.cmu.edu/teaching/designteach/design/instructionalstrategies/discussions.html)     Carnegie Mellon University, Eberly Center for Teaching Excellence, n.d. (See the section, "Ask good questions".)
 
-You are also responsible for monitoring the discussion of your article
-over the next week after your summary is presented/posted. Continue to
-ask follow-up questions or post responses to messages from your
-classmates. In other words, actively moderate the online discussion.
+You are also responsible for monitoring the discussion of your article over the next week after your summary is presented/posted. 
+Continue to ask follow-up questions or post responses to messages from your classmates. 
+In other words, actively moderate the online discussion.
 
 ### Evaluation criteria
 
-The evidence summary will be evaluated on the accuracy of its
-description of the original article, your understanding of the
-conclusions of the study being examined (their validity, their
-pertinence to particular information practice settings), and the depth
-and validity of your commentary on the study being examined.
+The evidence summary will be evaluated on the accuracy of its description of the original article, your understanding of the conclusions of the study being examined (their validity, their pertinence to particular information practice settings), and the depth and validity of your commentary on the study being examined.
 
-The presentation and the online discussion will be evaluated on the
-clarity and quality of the information presented. In addition, finishing
-the class presentation on time and the quality of the online discussion
-questions will be considered.
+The presentation and the online discussion will be evaluated on the clarity and quality of the information presented. 
+In addition, finishing the class presentation on time and the quality of the online discussion questions will be considered.
 
 <span id="proposal"></span>Assignment 3: System/Service Proposal (35%)
 ----------------------------------------------------------------------
 
-In this assignment, you will develop a proposal for a new service for a
-particular client population of a particular information organization.
-Some examples might include the development of a public library
-instruction program for retirees in the community, new ways to track IT
-support questions related to a litigation support system in a law firm,
-or a new institutional repository intended to handle the multimedia
-materials created by performing arts faculty on a university campus.
-(These examples are intended to be suggestive, not comprehensive or
-restrictive.)
+In this assignment, you will develop a proposal for a new service for a particular client population of a particular information organization.
+Some examples might include the development of a public library instruction program for retirees in the community, new ways to track IT support questions related to a litigation support system in a law firm, or a new institutional repository intended to handle the multimedia materials created by performing arts faculty on a university campus.
+(These examples are intended to be suggestive, not comprehensive or restrictive.)
 
-The first step will be to identify the particular client population and
-learn as much about them as possible. This analysis will be
-evidence-based, i.e., it will rely on prior studies and/or descriptions
-of the client population and their information behaviors as reported in
-the literature. In class, we will discuss the role of evidence in making
-practice-based decisions and plans, based on our reading of
-Koufogiannakis' (2013) keynote address at EBLIP7.
+The first step will be to identify the particular client population and learn as much about them as possible. This analysis will be evidence-based, i.e., it will rely on prior studies and/or descriptions of the client population and their information behaviors as reported in the literature. 
+In class, we will discuss the role of evidence in making practice-based decisions and plans, based on our reading of Koufogiannakis' (2013) keynote address at EBLIP7.
 
-To support your analysis, you will be expected to assemble and assess
-the relevant literature. The methods by which you search for the
-literature to underpin your analysis will be documented in detail in
-your final paper. In addition, your final paper will include a summary
-of your findings about the population of interest.
+To support your analysis, you will be expected to assemble and assess the relevant literature. 
+The methods by which you search for the literature to underpin your analysis will be documented in detail in your final paper. 
+In addition, your final paper will include a summary of your findings about the population of interest.
 
-The next step is to plan a service or system that would be useful to the
-client population. The service or system may have been implemented with
-some other population in the past or in some other organizational
-setting; you will need to establish that it is novel for your particular
-population and setting. In particular, the rationale for your proposal
-should be clearly connected to your (new) knowledge about the client
-population.
+The next step is to plan a service or system that would be useful to the client population. 
+The service or system may have been implemented with some other population in the past or in some other organizational setting; you will need to establish that it is novel for your particular population and setting. In particular, the rationale for your proposal should be clearly connected to your (new) knowledge about the client population.
 
-The objective of this assignment is to use empirical evidence about the
-information behaviors of a client population to plan and justify a new
-and useful service or system to support the clients' information
-behaviors.
+The objective of this assignment is to use empirical evidence about the information behaviors of a client population to plan and justify a new and useful service or system to support the clients' information behaviors.
 
 ### Deliverables
 
@@ -395,180 +355,94 @@ behaviors.
         population, and the specific search strategies/terms used
         in each.
 
-Each step in this process of developing the proposal package is
-described in more detail below.
+Each step in this process of developing the proposal package is described in more detail below.
 
 ### Identify the population and setting of interest
 
-As an information professional, you will regularly be expected to
-develop a new service or system to support a particular set of clients
-to perform a particular information-related task. You'll get some
-practice with that professional responsibility while completing this
-assignment.
+As an information professional, you will regularly be expected to develop a new service or system to support a particular set of clients to perform a particular information-related task. 
+You'll get some practice with that professional responsibility while completing this assignment.
 
-For the purposes of the assignment, choose a setting and client group of
-particular interest to you. The setting might be a library in a
-particular institutional setting (e.g., a public library in a mid-sized
-town in NC or a library in an elementary school serving kindergarten
-through third grade), a system development team (e.g., the unit
-responsible for a pharmaceutical company's knowledge management
-activities or the unit responsible for a financial services company's
-human resources system), or some other setting in which information
-professionals are employed.
+For the purposes of the assignment, choose a setting and client group of particular interest to you. 
+The setting might be a library in a particular institutional setting (e.g., a public library in a mid-sized town in NC or a library in an elementary school serving kindergarten through third grade), a system development team (e.g., the unit responsible for a pharmaceutical company's knowledge management activities or the unit responsible for a financial services company's human resources system), or some other setting in which information professionals are employed.
 
 You will also choose a particular client group relevant to that setting.
-In the examples of organizations just provided, corresponding client
-groups might be the teenagers that could potentially use the public
-library, second-grade teachers, members of the pharmaceutical company's
-marketing division, and hiring managers/supervisors distributed
-throughout the financial services company. So that this assignment will
-be most useful to you, I would encourage you to select a setting and
-client group that you anticipate/hope will be part of your professional
-future.
+In the examples of organizations just provided, corresponding client groups might be the teenagers that could potentially use the public library, second-grade teachers, members of the pharmaceutical company's marketing division, and hiring managers/supervisors distributed throughout the financial services company. 
+So that this assignment will be most useful to you, I would encourage you to select a setting and client group that you anticipate/hope will be part of your professional future.
 
-<span class="assignmentname">Intermediate deliverable</span>: You will
-write one paragraph describing the setting you've selected, and one
-paragraph defining/describing the client group (based on your current
-knowledge). In addition, write one paragraph about ***why*** you
-selected this setting and client group.
+<span class="assignmentname">Intermediate deliverable</span>: You will write one paragraph describing the setting you've selected, and one paragraph defining/describing the client group (based on your current knowledge). 
+In addition, write one paragraph about ***why*** you selected this setting and client group.
 
 ### Assemble and assess the evidence related to the population and setting of interest
 
-You will begin by planning the ways in which you will assemble the
-relevant evidence. You should decide which databases/sources you will
-search and what search strategy(ies) you will use in each. You should
-specify inclusion and exclusion criteria for which studies will be
-included in your summary. You should aim for a comprehensive set of
-evidence to support your proposal. Start with those articles that are
-most core to your interests (i.e., directly addressing some aspect of
-your selected population within a similar setting) and work your way out
-from there. You may need to adjust the scope of your population as you
-learn more about them; please discuss such adjustments with me as you go
-along.
+You will begin by planning the ways in which you will assemble the relevant evidence. 
+You should decide which databases/sources you will search and what search strategy(ies) you will use in each. 
+You should specify inclusion and exclusion criteria for which studies will be included in your summary. 
+You should aim for a comprehensive set of evidence to support your proposal. 
+Start with those articles that are most core to your interests (i.e., directly addressing some aspect of your selected population within a similar setting) and work your way out from there. 
+You may need to adjust the scope of your population as you learn more about them; please discuss such adjustments with me as you go along.
 
-[Bates (1989, p.412)](schedule-500-f15.html#Bates1989) suggests a
-variety of ways to identify relevant literature; these can serve as a
-guide for your own literature searching. They of course include subject
-searches in relevant databases, but they also include footnote chasing
-and citation searching, author searching, and browsing journal tables of
-contents and bookshelves that might be particularly fruitful. You are
-expected to incorporate all or most of these methods in your own
+[Bates (1989, p.412)](/schedule/#Bates1989) suggests avariety of ways to identify relevant literature; these can serve as a guide for your own literature searching. 
+They of course include subject searches in relevant databases, but they also include footnote chasing and citation searching, author searching, and browsing journal tables of contents and bookshelves that might be particularly fruitful. 
+You are expected to incorporate all or most of these methods in your own
 searching.
 
-The process of searching the literature will help you to identify
-possibilities for a new service or system that can be the focus of your
-proposal. For example, you may have focused on elderly users of public
-libraries. Studies of their current information use may conclude that
-they are interested in accessing more information about current
-politics, but are hampered from reading current materials by decreasing
-visual abilities. In such a situation, you may propose a program for
-loaning e-readers to the library's clients, with easy interactions for
-increasing the font size.
+The process of searching the literature will help you to identify possibilities for a new service or system that can be the focus of your proposal. 
+For example, you may have focused on elderly users of public libraries. 
+Studies of their current information use may conclude that they are interested in accessing more information about current politics, but are hampered from reading current materials by decreasing visual abilities. In such a situation, you may propose a program for loaning e-readers to the library's clients, with easy interactions for increasing the font size.
 
-After you've assembled some evidence (i.e., articles or publications),
-you will need to assess them for their quality, relevance and usefulness
-for your purposes. Your quality criteria might include such
-characteristics as the validity of the research design, the quality and
-size of the sample included in the study, the validity of the analysis
-conducted, and the credibility of the conclusions as they relate to the
-underlying data. Your relevance/usefulness criteria might include such
-characteristics as the match between your population of interest and the
-study sample, and the similarity of the study context and your own
-setting of interest. Additional criteria may also apply, as you make
-decisions about which evidence to weigh most heavily in developing your
-proposal.
+After you've assembled some evidence (i.e., articles or publications), you will need to assess them for their quality, relevance and usefulness for your purposes. 
+Your quality criteria might include such characteristics as the validity of the research design, the quality and
+size of the sample included in the study, the validity of the analysis conducted, and the credibility of the conclusions as they relate to the underlying data. 
+Your relevance/usefulness criteria might include such characteristics as the match between your population of interest and the study sample, and the similarity of the study context and your own setting of interest. Additional criteria may also apply, as you make decisions about which evidence to weigh most heavily in developing your proposal.
 
-There will be a lot of variability in the number of articles and other
-materials you might use for this assignment, but here is a bit of
-guidance on scope/scale: I would expect that you might identify hundreds
-of potentially useful documents through your literature search; I would
-expect that you would closely examine the abstracts of over 100
-documents; I would expect that you would examine the full text of 30-60
-articles; I would expect that you would identify and read 20-30 articles
-to be cited in your summary of the characteristics of your selected
-population.
+There will be a lot of variability in the number of articles and other materials you might use for this assignment, but here is a bit of guidance on scope/scale: 
+-   I would expect that you might identify hundreds of potentially useful documents through your literature search; 
+-   I would expect that you would closely examine the abstracts of over 100 documents; 
+-   I would expect that you would examine the full text of 30-60 articles; 
+-   I would expect that you would identify and read 20-30 articles to be cited in your summary of the characteristics of your selected population.
 
-<span class="assignmentname">Intermediate deliverable</span>: You will
-develop a preliminary plan for identifying the literature to include in
-your review. The plan should include the list of databases/sources to be
-searched, the search strategies to be used, and the inclusion/exclusion
-criteria to be used to evaluate the literature retrieved.
+<span class="assignmentname">Intermediate deliverable</span>: You will develop a preliminary plan for identifying the literature to include in your review. 
+The plan should include the list of databases/sources to be searched, the search strategies to be used, and the inclusion/exclusion criteria to be used to evaluate the literature retrieved.
 
-<span class="assignmentname">Final deliverable</span>: In an appendix to
-your final proposal, you will list each database searched and provide
-the details of the search terms/strategies used and the number of items
-retrieved with each strategy *for each database/source*.You should also
-describe your inclusion/exclusion criteria (e.g., range of years or
-other limits you placed on your searches) and the criteria you used to
-make judgments about the relevance or usefulness of the items you
-selected. This appendix should be a bulleted list or outline format,
-rather than narrative. There's no limit on its length, but it is likely
-to be 1-3 pages, single-spaced.
+<span class="assignmentname">Final deliverable</span>: In an appendix to your final proposal, you will list each database searched and provide the details of the search terms/strategies used and the number of items retrieved with each strategy *for each database/source*. 
+You should also describe your inclusion/exclusion criteria (e.g., range of years or other limits you placed on your searches) and the criteria you used to make judgments about the relevance or usefulness of the items you selected. 
+This appendix should be a bulleted list or outline format, rather than narrative. There's no limit on its length, but it is likely to be 1-3 pages, single-spaced.
 
 ### Extracting and synthesizing knowledge
 
-As you identify and assess the relevant evidence about your population
-of interest, you will be developing your own knowledge about that
-population and their information interactions within the context of your
-chosen setting. As an appendix to your proposal, you will summarize what
-you learned. What do we know about their general characteristics? What
-do we know about their information needs, their information seeking,
-their use of information, and the context in which all these information
-behaviors occur? Begin your summary with a revised version of the
-original description/definition of the population and setting that you
-created at the beginning of this assignment, to provide a bit of
-context. Then provide a summary of what you know about that population.
-Be sure to provide details about the population that will support your
-proposal.
+As you identify and assess the relevant evidence about your population of interest, you will be developing your own knowledge about that population and their information interactions within the context of your chosen setting. 
+As an appendix to your proposal, you will summarize what you learned. 
+What do we know about their general characteristics? 
+What do we know about their information needs, their information seeking, their use of information, and the context in which all these information behaviors occur? 
+Begin your summary with a revised version of the original description/definition of the population and setting that you created at the beginning of this assignment, to provide a bit of context. 
+Then provide a summary of what you know about that population.
+Be sure to provide details about the population that will support your proposal.
 
-Intermediate deliverable: Provide a detailed outline, a concept
-map/matrix, or a similar sketch of what you've learned about the
-population. Include the preliminary list of references to the articles
-you're using as evidence.
+Intermediate deliverable: Provide a detailed outline, a concept map/matrix, or a similar sketch of what you've learned about the population. 
+Include the preliminary list of references to the articles you're using as evidence.
 
-Final deliverable: In an appendix to your final proposal, summarize our
-current knowledge about your population of interest, particularly in
-connection with your selected setting and the focus of your proposal.
-This appendix should be 4-6 pages, single-spaced. The list of references
-should be included on separate pages.
+Final deliverable: In an appendix to your final proposal, summarize our current knowledge about your population of interest, particularly in connection with your selected setting and the focus of your proposal.
+This appendix should be 4-6 pages, single-spaced. 
+The list of references should be included on separate pages.
 
 ### Proposing the development of a new system or service
 
-The purpose of the investigations you've done for this assignment is to
-understand the population of interest well enough to design and develop
-a new system or service that will be useful to them in addressing some
-of their information needs. Based on what you've learned about your
-selected population, you will propose such a system or service. It does
-not have to be the first of its type in the world, but it should be
-plausible that it has not yet been implemented within your chosen
-setting.
+The purpose of the investigations you've done for this assignment is to understand the population of interest well enough to design and develop a new system or service that will be useful to them in addressing some of their information needs. 
+Based on what you've learned about your selected population, you will propose such a system or service. It does not have to be the first of its type in the world, but it should be plausible that it has not yet been implemented within your chosen setting.
 
-As Koufogiannakis (2013) points out, information work occurs within
-organizational settings, so an initial proposal is not the same as
-agreement to implement that proposal. Thus, your proposal will need to
-"sell" your idea to your colleagues (or at least your supervisor, to
-carry forward). You must describe the system or service you're
-proposing, but you also must persuasively argue that it will serve an
-important purpose in the lives of the population of interest and that it
-will be feasible for your institution to implement it. The first of
-those sets of arguments will be based on logical connections back to the
-summary of the characteristics of the population; don't repeat all the
-details in your proposal, but do clearly connect the proposal to the
-findings in your summary of the population's characteristics. The second
-set of arguments will be based on the practical considerations within
-your imagined setting; be realistic but not pessimistic.
+As Koufogiannakis (2013) points out, information work occurs within organizational settings, so an initial proposal is not the same as agreement to implement that proposal. 
+Thus, your proposal will need to "sell" your idea to your colleagues (or at least your supervisor, to carry forward). 
+You must describe the system or service you're proposing, but you also must persuasively argue that it will serve an important purpose in the lives of the population of interest and that it will be feasible for your institution to implement it. 
+The first of those sets of arguments will be based on logical connections back to the summary of the characteristics of the population; don't repeat all the details in your proposal, but do clearly connect the proposal to the findings in your summary of the population's characteristics. 
+The second set of arguments will be based on the practical considerations within your imagined setting; be realistic but not pessimistic.
 
-The proposal will be written in the form of a memo, from you to the
-leader of your information organization. It should be no longer than 2
-single-spaced pages.
+The proposal will be written in the form of a memo, from you to the leader of your information organization. It should be no longer than 2 single-spaced pages.
 
-<span class="assignmentname">Intermediate deliverable</span>: Provide a
-one-paragraph description of the system or service you will propose.
+<span class="assignmentname">Intermediate deliverable</span>: Provide a one-paragraph description of the system or service you will propose.
 
-<span class="assignmentname">Final proposal package</span>: The final
-proposal package will consist of:
+<span class="assignmentname">Final proposal package</span>: The final proposal package will consist of:
 
--   the memo proposing the system or service
+-   the memo proposing the system or service 
 -   a summary of our current knowledge about the user population (4-6
     pages, single-spaced), plus the list of references used as evidence;
     and
@@ -579,23 +453,15 @@ proposal package will consist of:
 
 ### Evaluation criteria
 
-The final memo will be evaluated based on the thoroughness and rigor of
-the literature review methods, the quality of the synthesis of the
-literature included in the summary of your population's characteristics,
-the logic connecting those findings to your proposal, the usefulness,
-originality and feasibility of your proposal, and the clarity of
-expression of the final product.
+The final memo will be evaluated based on the thoroughness and rigor of the literature review methods, the quality of the synthesis of the literature included in the summary of your population's characteristics, the logic connecting those findings to your proposal, the usefulness, originality and feasibility of your proposal, and the clarity of expression of the final product.
 
 <span id="scholcomm"></span>Assignment 4: In-Depth Analysis of an Example of Scholarly Communication (20%)
 ----------------------------------------------------------------------------------------------------------
 
-To be completed in teams of 2-4 people. Teams will be formed in class on
-**Thursday, November 6**.
+To be completed in teams of 2-4 people. Teams will be formed in class on **Thursday, November 6**.
 
-In this assignment, you will work with your team to review and reflect
-on an example of scholarly communication. Specifically, your team will
-choose and analyze a set of related scholarly articles, including
-references and citations from, to, and among them.
+In this assignment, you will work with your team to review and reflect on an example of scholarly communication.
+Specifically, your team will choose and analyze a set of related scholarly articles, including references and citations from, to, and among them.
 
 ### Deliverables
 
@@ -606,157 +472,101 @@ references and citations from, to, and among them.
 
 ### Selecting the articles
 
-Choose a small set of articles (at least one for each member of your
-team, with a minimum of 3 articles for the team) from a concept area or
-research area of particular interest to the team. The set can include
-one or more of the articles from class (required or optional readings),
-one or more of the articles cited in something you're reading for class,
-or it can include a different set of articles altogether. Any scholarly
-articles within the scope of the topic area of INLS 500 are eligible for
-inclusion.
+Choose a small set of articles (at least one for each member of your team, with a minimum of 3 articles for the team) from a concept area or research area of particular interest to the team. 
+The set can include one or more of the articles from class (required or optional readings), one or more of the articles cited in something you're reading for class, or it can include a different set of articles altogether. 
+Any scholarly articles within the scope of the topic area of INLS 500 are eligible for inclusion.
 
-The set of articles should include several different authors or research
-groups. While some overlap in authorship is acceptable, selecting the
-entire set from the works of one principal investigator or team leader
-is not appropriate for this assignment. Please see me if you have
-questions about whether the set of articles you've selected meets this
-criterion.
+The set of articles should include several different authors or research groups. While some overlap in authorship is acceptable, selecting the entire set from the works of one principal investigator or team leader is not appropriate for this assignment. 
+Please see me if you have questions about whether the set of articles you've selected meets this criterion.
 
-The articles should have been published sometime between 1960-2010. The
-reason for  choosing older papers is that it often takes two years or
-more for  papers to be cited in the literature and their potential
-impact to be visible. In addition, one or more of the articles should
-have been deemed significant. In other words, it/they must have been
-cited at least 20 times in the scholarly literature since being
-published. It is also required that each article in the set be directly
-linked to at least one other article in the set, i.e., it must cite or
-be cited by at least one other article in the set.
+The articles should have been published sometime between 1960-2010. 
+The reason for choosing older papers is that it often takes two years or more for papers to be cited in the literature and their potential impact to be visible. 
+In addition, one or more of the articles should have been deemed significant. In other words, it/they must have been cited at least 20 times in the scholarly literature since being published. 
+It is also required that each article in the set be directly linked to at least one other article in the set, i.e., it must cite or be cited by at least one other article in the set.
 
-Intermediate deliverable: Submit a bibliography of the articles your
-team has identified for this analysis (citation and abstract).
+Intermediate deliverable: Submit a bibliography of the articles your team has identified for this analysis (citation and abstract).
 
 ### Analysis of the articles
 
-Write an analysis of each article in your set. The analysis should
-reflect your team's impressions of the paper with respect to the
-article's structure and content. The review should describe what you
-found useful in the article, what you liked about it, what the article's
-deficiencies or limitations are, and how the article has influenced your
-thinking about the field or about practice. You should relate your
-discussion to other readings or topics from the class.
+Write an analysis of each article in your set. 
+The analysis should reflect your team's impressions of the paper with respect to the article's structure and content. 
+The review should describe what you found useful in the article, what you liked about it, what the article's deficiencies or limitations are, and how the article has influenced your thinking about the field or about practice. 
+You should relate your discussion to other readings or topics from the class.
 
-Pay particular attention to the visual elements of the paper - how it is
-structured, illustrated, and how the ideas are presented. How successful
-was the author (or authors) in making an argument or conveying their
-ideas? What appealed to you about the presentation (structure,
-illustrations, writing style, length, level of detail, etc.)? How much
-of the article's appeal was due to your own point of view, preferences,
-or familiarity with the topic? Who was the intended audience for the
-paper and how is this made evident?
+Pay particular attention to the visual elements of the paper - how it is structured, illustrated, and how the ideas are presented. 
+How successful was the author (or authors) in making an argument or conveying their ideas? 
+What appealed to you about the presentation (structure, illustrations, writing style, length, level of detail, etc.)? 
+How much of the article's appeal was due to your own point of view, preferences, or familiarity with the topic? Who was the intended audience for the paper and how is this made evident?
 
-Note: It may be more fun to be critical, but one of the goals of this
-assignment is to recognize that the author is trying to make a point, to
-convey information that he/she/they believe is important, so it is
-important to appreciate that and place your comments in context.
-Consider the target audience when assessing the appropriateness of form
-and content. When the authors have failed in their effort, be precise
-about how they failed and offer suggestions for improvement.
+Note: It may be more fun to be critical, but one of the goals of this assignment is to recognize that the author is trying to make a point, to convey information that he/she/they believe is important, so it is important to appreciate that and place your comments in context.
+Consider the target audience when assessing the appropriateness of form and content. When the authors have failed in their effort, be precise about how they failed and offer suggestions for improvement.
 
 ### Analysis of the scholarly context of the article
 
-To understand the scholarly context of this article, you will analyze
-its references and the citations to this paper.
+To understand the scholarly context of this article, you will analyze its references and the citations to this paper.
 
-Begin by examining the reference lists in your selected papers. How old
-are the citations? Who wrote the work that the author(s) cited? Is the
-author's (or authors') prior work cited? In what journals or other media12/11 12pm
-were the references published? What clues do the references give you
-about the purpose of the paper or the intended audience? How much
-overlap is there between the reference lists of the several articles in
-your selected set?
+Begin by examining the reference lists in your selected papers. 
+How old are the citations? Who wrote the work that the author(s) cited? 
+Is the author's (or authors') prior work cited? 
+In what journals or other media were the references published? 
+What clues do the references give you about the purpose of the paper or the intended audience? 
+How much overlap is there between the reference lists of the several articles in your selected set?
 
-Your next step is to discover who has cited the papers you selected. You
-may check the following online citation indexes: ISI Web of Science
-(available online through the UNC Library e-research tools), Scopus
-(available online through the UNC Library e-research tools), Google
-Scholar, CiteSeer X (from Penn State University), the ACM Digital
-Library (for some technical papers), and/or other online databases that
-might include your paper and that include citation data. At a minimum,
-conduct citation searches in (1) the ISI Web of Science database or
-Scopus and (2) at least one of the other citation databases. Be sure to
-keep track of which citations were discovered in which database.
+Your next step is to discover who has cited the papers you selected. 
+You may check the following online citation indexes: ISI Web of Science (available online through the UNC Library e-research tools), Scopus (available online through the UNC Library e-research tools), Google Scholar, CiteSeer X (from Penn State University), the ACM Digital Library (for some technical papers), and/or other online databases that might include your paper and that include citation data. 
+At a minimum, conduct citation searches in (1) the ISI Web of Science database or Scopus and (2) at least one of the other citation databases. 
+Be sure to keep track of which citations were discovered in which database.
 
-Write up your citation analysis. How many times has each of the selected
-articles been cited? Who has cited each? Are there examples of
-bibliographic coupling (i.e., where two or more of your selected
-articles are citing the same article/document)? In what
-fields/disciplines are your selected articles cited? What do these
-citations tell you about the importance (or lack of importance) of this
-work? If you feel the paper has not received the attention it deserves,
-reflect on why that may be so. If the paper has received more attention
-than it deserves, reflect on why that may be so. What do the citations
-tell you about the scholarly network in which the author(s) work?
+Write up your citation analysis. 
+How many times has each of the selected articles been cited? 
+Who has cited each? 
+Are there examples of bibliographic coupling (i.e., where two or more of your selected articles are citing the same article/document)? 
+In what fields/disciplines are your selected articles cited? 
+What do these citations tell you about the importance (or lack of importance) of this work? 
+If you feel the paper has not received the attention it deserves, reflect on why that may be so. 
+If the paper has received more attention than it deserves, reflect on why that may be so. 
+What do the citations tell you about the scholarly network in which the author(s) work?
 
-Finally, examine the context of citations to your papers. Choose at
-least one citation to each of your selected papers and examine it
-directly. Find the point(s) in each paper at which the selected paper is
-cited. In which section of the paper is it cited? What does the citing
-author say about it? Is it cited in combination with any other papers?
-What does the citation context tell you about the influence of your
-selected paper? In addition, analyze in a similar way any instances that
-you found in which multiple papers from your set of selected papers were
-cited in the same article/document.
+Finally, examine the context of citations to your papers. 
+Choose at least one citation to each of your selected papers and examine it directly. 
+Find the point(s) in each paper at which the selected paper is cited. 
+In which section of the paper is it cited? 
+What does the citing author say about it? 
+Is it cited in combination with any other papers? 
+What does the citation context tell you about the influence of your selected paper? 
+In addition, analyze in a similar way any instances that you found in which multiple papers from your set of selected papers were cited in the same article/document.
 
-In evaluating the citations, what, if anything, did you learn about
-citation behaviors or about the citation sources themselves? (Feel free
-to graphically represent some of your findings, if that would be useful
-in discussing them.) Based on your analysis, are there particular
-sources, categories of readers, topics, or functions that may have found
-the paper particularly useful?
+In evaluating the citations, what, if anything, did you learn about citation behaviors or about the citation sources themselves? 
+(Feel free to graphically represent some of your findings, if that would be useful in discussing them.) 
+Based on your analysis, are there particular sources, categories of readers, topics, or functions that may have found the paper particularly useful?
 
 ### Writing up your analysis
 
-Write up what your team has learned in a brief paper, 6-8 pages,
-single-spaced. Be sure to include the references to all the specific
-papers that you'll want to discuss (i.e., the original set of papers,
-possibly one or more references from each, and several examples of
-papers citing papers in your selected set). Your writing style for this
-paper should be relatively formal/academic, in comparison with other
-assignments in this course.
+Write up what your team has learned in a brief paper, 6-8 pages, single-spaced. 
+Be sure to include the references to all the specific papers that you'll want to discuss (i.e., the original set of papers, possibly one or more references from each, and several examples of papers citing papers in your selected set). 
+Your writing style for this paper should be relatively formal/academic, in comparison with other assignments in this course.
 
 ### Evaluation criteria
 
-Grades will be based on evidence of your understanding of the selected
-papers, the depth and thoroughness of your analysis of the set of papers
-and their scholarly context, evidence of your understanding of scholarly
-communication and scholars' use of information, and clarity of
-expression.
+Grades will be based on evidence of your understanding of the selected papers, the depth and thoroughness of your analysis of the set of papers and their scholarly context, evidence of your understanding of scholarly
+communication and scholars' use of information, and clarity of expression.
 
 <span id="participation"></span>Class Participation (10%)
 ---------------------------------------------------------
 
-This class is a cooperative venture toward which you are encouraged and
-expected to contribute in a way that demonstrates your understanding of
-the material. I expect you to have read the required articles and be
-prepared for discussion. The purpose of the discussions is to help you
-to think critically about research and theory and the implications of
-research and theory for the practice of the information professions.
+This class is a cooperative venture toward which you are encouraged and expected to contribute in a way that demonstrates your understanding of the material. 
+I expect you to have read the required articles and be prepared for discussion. 
+The purpose of the discussions is to help you to think critically about research and theory and the implications of research and theory for the practice of the information professions.
 
-Read at least the required readings before each class session; dip into
-the additional readings as you are able. For each reading, as
-appropriate, consider:
+Read at least the required readings before each class session; dip into the additional readings as you are able. For each reading, as appropriate, consider:
 
 -   What are the key point(s) of the reading?
 -   What are the strengths and weaknesses of the authors' arguments?
 -   What are the implications of the reading for your area of
     professional interest?
 
-As part of your class participation, you are expected to **react to the
-evidence summaries** posted by your classmates. Plan to **respond to at
-least three** of those during the semester; your responses should be
-posted within a few days of the evidence summary presentation in class.
+As part of your class participation, you are expected to **react to the evidence summaries** posted by your classmates. Plan to **respond to at least three** of those during the semester; your responses should be posted within a few days of the evidence summary presentation in class.
 
 ### Evaluation criteria
 
-Class participation will be evaluated on the substance and quality of
-your comments, both in class and on the online discussion board.
+Class participation will be evaluated on the substance and quality of your comments, both in class and on the online discussion board.

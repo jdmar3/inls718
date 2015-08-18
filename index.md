@@ -5,26 +5,19 @@ layout: page
 Course Description
 ------------------
 
-INLS 500 is a course that surveys human information interactions through
-broad examination of information science literature. Students examine
-cognitive, social, organizational/institutional, and behavioral
-approaches to understanding interactions between people and information.
-Emphasis is placed on the role of the information professional or
-information scientist as mediator, and students are encouraged to apply
-analyze current events and situations.
+INLS 500 is a course that surveys human information interactions through broad examination of information science literature. 
+Students examine cognitive, social, organizational/institutional, and behavioral approaches to understanding interactions between people and information.
+Emphasis is placed on the role of the information professional or information scientist as mediator, and students are encouraged to apply analyze current events and situations.
 
-This course undergirds much of the SILS curriculum because it introduces
-students to core concepts that have implications for the practice of
-information science and librarianship. It is expected that it will be
-taken during the first or second semester of the student's career at
-SILS.
+This course undergirds much of the SILS curriculum because it introduces students to core concepts that have implications for the practice of information science and librarianship. 
+It is expected that it will be taken during the first or second semester of the student's career at SILS.
 
 Objectives
 ----------
 
 Students completing this course will:
 
--   become familiar with the empirical and theoretical literature
+-   become familiar with the empirical and theoretical literature 
     related to information seeking, including the recognition of
     information needs, actions taken to resolve those needs, the roles
     of intermediaries (both human and machine), and the retrieval and
@@ -44,24 +37,16 @@ Students completing this course will:
 Readings
 --------
 
-As this is a "survey" course, students will be expected to complete
-readings in preparation for each class meeting. The assigned readings
-are listed on the [course
-schedule]({{ base.url }}/schedule/ "course schedule") and will be made
-available electronically through the [UNC
-libraries](http://library.unc.edu "library website"), the [Sakai site
-for the
-course](https://sakai.unc.edu/portal/site/inls500-001-fa2015 "Sakai INLS 500-001 Fall 2015"). No
-textbook is required.
+As this is a "survey" course, students will be expected to complete readings in preparation for each class meeting. 
+The assigned readings are listed on the [course schedule]({{ base.url }}/schedule/ "course schedule") and will be made available electronically through the [UNC libraries](http://library.unc.edu "library website"), the [Sakai site for the course](https://sakai.unc.edu/portal/site/inls500-001-fa2015 "Sakai INLS 500-001 Fall 2015"). 
+No textbook is required.
 
 Assignments and Evaluation
 --------------------------
 
-Three individual assignments, one group project/paper and participation
-will be used to determine the grade for the course. The [assignment
-page]({{ base.url }}/assignments/ "Assignments page") for the course
-provides the details, due dates (preliminary and final deliverables) and
-evaluation criteria for each assignment.
+Three individual assignments, one group project/paper and participation will be used to determine the grade for the course. The [assignment page]({{ base.url }}/assignments/ "Assignments page") for the course provides the details, due dates (preliminary and final deliverables) and evaluation criteria for each assignment. 
+
+All assignments will be submitted electronically unless otherwise approved with the instructor *in advance.*
 
 1.  Diary and analysis of an information-seeking event (20%): Each
     student will keep a diary of a personal information-seeking event
@@ -88,16 +73,9 @@ evaluation criteria for each assignment.
 Grading
 -------
 
-UNC-CH graduate students are graded on the H/P/L/F scale. The following
-definitions of these grades will be used for this course. While
-assignments are not graded "on a curve," most grades for graduate
-students are expected to be Ps.
+UNC-CH graduate students are graded on the H/P/L/F scale. The following definitions of these grades will be used for this course. While assignments are not graded "on a curve," most grades for graduate students are expected to be Ps.
 
-Additional information about grading at UNC can be found in the
-[Undergraduate
-Bulletin](http://www.unc.edu/ugradbulletin/procedures1.html#grading "grading section of the Undergraduate Bulletin")
-and the [Graduate School
-Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate School Handbook").
+Additional information about grading at UNC can be found in the [Undergraduate Bulletin](http://www.unc.edu/ugradbulletin/procedures1.html#grading "grading section of the Undergraduate Bulletin") and the [Graduate School Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate School Handbook").
 
 #### Grading scale for INLS 500 (graduate students)
 
@@ -211,45 +189,32 @@ Handbook](http://handbook.unc.edu/grading.html "grading section of the Graduate 
 Honor Code
 ----------
 
-The Honor Code, which prohibits giving or receiving unauthorized aid in
-the completion of assignments, is in effect in this class.
+The Honor Code, which prohibits giving or receiving unauthorized aid in the completion of assignments, is in effect in this class.
 
-Assignments for this course are to be completed individually - except
-the group project. It is your responsibility if you have any doubt to
-confirm whether or not collaboration is permitted.
+Assignments for this course are to be completed individually - except the group project. It is your responsibility if you have any doubt to confirm whether or not collaboration is permitted.
 
-Be careful about plagiarism. Whenever you use the words or ideas of
-others, either as direct quotes or paraphrased text, they should be
-properly attributed through quotations and/or citations. APA citation
-format is required for assignments in this class. A [handout on
-plagiarism](http://writingcenter.unc.edu/handouts/plagiarism/ "UNC Writing center handout on plagiarism")
-developed by the [Writing
-Center](http://writingcenter.unc.edu "UNC Writing Center") provides an
-overview of plagiarism and offers suggestions for avoiding it.
+Be careful about plagiarism. Whenever you use the words or ideas of others, either as direct quotes or paraphrased text, they should be properly attributed through quotations and/or citations. APA citationformat is required for assignments in this class. 
+A [handout on plagiarism](http://writingcenter.unc.edu/handouts/plagiarism/ "UNC Writing center handout on plagiarism") developed by the [Writing Center](http://writingcenter.unc.edu "UNC Writing Center") provides an overview of plagiarism and offers suggestions for avoiding it.
 
-You can learn more about the UNC Honor Code at [http://honor.unc.edu](http://honor.unc.edu)
-and about the Instrument of Student Governance at
-[http://instrument.unc.edu](http://instrument.unc.edu).
+You can learn more about the UNC Honor Code at [http://honor.unc.edu](http://honor.unc.edu) and about the Instrument of Student Governance at [http://instrument.unc.edu](http://instrument.unc.edu).
 
-Please contact the instructor if you have any questions about the Honor
-Code or its application to your work in this class.
+Please contact the instructor if you have any questions about the Honor Code or its application to your work in this class.
 
 Additional Course Policies
 --------------------------
 
 Changes to the schedule will be announced in class and in Sakai.
 
-Email is the most efficient way to communicate with the instructor
-outside of class for brief questions or notes. Normally, you should
-expect a response within 24 hours. I am available during office hours
-and, by appointment, at other times.
+Email is the most efficient way to communicate with the instructor outside of class for brief questions or notes. 
+Normally, you should expect a response within 24 hours. 
+I am available during office hours and, by appointment, at other times.
 
-Assignments are due at the beginning of the class period on the
-specified due date. With the instructor's permission *in advance*, late
-assignments will be accepted with a penalty.
+Assignments are due at any time on the specified due date, unless a time is otherwise specified. 
+With the instructor's permission *in advance*, late assignments will be accepted with a penalty.
 
-Please use your laptops or other electronic devices only to support your
-class participation. Please do not engage in email or social media.
+We will be using many electronic resources in class, so it is a good idea to have your laptop with you even if you don't intend to use it to take notes. 
+Please use your laptops or other electronic devices only to support your class participation.
+Please do not engage in email or social media.
 
 You will be using SILS library and IT services during the course of the
 semester. Please remember that many of your fellow students also need to
