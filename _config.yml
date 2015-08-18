@@ -15,6 +15,7 @@ course-term: Fall
 officehours: "Tu 1230-1430 or by appointment." 
 officeloc: "016 Manning Hall (PhDungeon)"
 
+favicon_url: "{{ base.url }}/images/favicon.ico"
 university: University of North Carolina at Chapel Hill
 university_url: http://unc.edu
 
