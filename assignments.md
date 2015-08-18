@@ -1,6 +1,6 @@
---- 
+---
 layout: page 
-title: Assignments 
+title: Assignments
 ---
 
 For each assignment, detailed instructions and evaluation criteria are
