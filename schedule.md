@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule/
 ---
 
 The annotations for these readings provide insights into the articles as

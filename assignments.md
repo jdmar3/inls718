@@ -1,7 +1,6 @@
 --- 
 layout: page 
 title: Assignments 
-permalink: /assignments/ 
 ---
 
 For each assignment, detailed instructions and evaluation criteria are
