@@ -8,16 +8,16 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>Instructor: <a href="{{ site.author_url }}">{{ site.author }}</a></li>
-          <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><b>Instructor:</b> <a href="{{ site.author_url }}">{{ site.author }}</a></li>
+          <li><b>Email:</b> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           <li>&nbsp;</li>
-          <li>Time: {{ site.hours }} {{ site.days }}</li>
-	      <li>Location: {{ site.location }}</li>
-		  <li>Office hours: {{ site.officehours }}</li>
-          <li>Office location: {{ site.officeloc }}</li>
-          <li>&nbsp;</li>
+          <li><b>Time:</b> {{ site.hours }} {{ site.days }}</li>
+	      <li><b>Location:</b> {{ site.location }}</li>
+		  <li><b>Office hours:</b> {{ site.officehours }}</li>
+          <li><b>Office location:</b> {{ site.officeloc }}</li>
+          <li><b>&nbsp;</li>
           <li><a href="{{ site.unit_url }}" target="_blank">{{ site.unit }}</a></li>
-          <li><a href="{{ site.university_url }}" target="_blank">{{ site.university }}</a></li>
+          <li><a href="{{ site.university_url }}" target="_blank" title="{{ site.university }}">{% if site.university_logo %}<img src="{{ site.university_logo }}">{% else %}{{ site.university }}{% endif %}</a></li>
         </ul>
       </div>
 
@@ -55,12 +55,12 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">Course description: <br/>{{ site.description }}</p>
+        <p class="text">Course description:</b> <br/>{{ site.description }}</p>
         <p class="text">
-          Acknowledgements: <br/>{{ site.acknowledgements }}
+          Acknowledgements:</b> <br/>{{ site.acknowledgements }}
         </p>
         <p class="text">
-          License: <br/>{{ site.content_license }}
+          License:</b> <br/>{{ site.content_license }}
         </p>
 <!--
         <p class="text">
