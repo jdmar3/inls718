@@ -33,7 +33,7 @@ Summary of due dates
     -   Paper: due Thursday, 10 November at NOON
 -   [Participation](#participation) (10%)
 
-<span id="eventdiary"></span>Assignment 1: Diary and Analysis of an Information-Seeking Event (20%) {.assignment}
+<span id="eventdiary"></span>Assignment 1: Diary and Analysis of an Information-Seeking Event (20%)
 ---------------------------------------------------------------------------------------------------
 
 This assignment is based on an assignment prepared by Dr. Verna
@@ -179,7 +179,7 @@ While this paper is relatively informal in style, it should be formatted
 using APA style and should include citations to the literature as
 appropriate.
 
-<span id="teamproj2"></span>Assignment 2: Evidence Summary (15%) {.assignment}
+<span id="teamproj2"></span>Assignment 2: Evidence Summary (15%)
 ----------------------------------------------------------------
 
 This assignment is modeled on the evidence summaries regularly published
@@ -316,7 +316,7 @@ clarity and quality of the information presented. In addition, finishing
 the class presentation on time and the quality of the online discussion
 questions will be considered.
 
-<span id="proposal"></span>Assignment 3: System/Service Proposal (35%) {.assignment}
+<span id="proposal"></span>Assignment 3: System/Service Proposal (35%)
 ----------------------------------------------------------------------
 
 In this assignment, you will develop a proposal for a new service for a
@@ -586,7 +586,7 @@ the logic connecting those findings to your proposal, the usefulness,
 originality and feasibility of your proposal, and the clarity of
 expression of the final product.
 
-<span id="scholcomm"></span>Assignment 4: In-Depth Analysis of an Example of Scholarly Communication (20%) {.assignment}
+<span id="scholcomm"></span>Assignment 4: In-Depth Analysis of an Example of Scholarly Communication (20%)
 ----------------------------------------------------------------------------------------------------------
 
 To be completed in teams of 2-4 people. Teams will be formed in class on
@@ -732,7 +732,7 @@ and their scholarly context, evidence of your understanding of scholarly
 communication and scholars' use of information, and clarity of
 expression.
 
-<span id="participation"></span>Class Participation (10%) {.assignment}
+<span id="participation"></span>Class Participation (10%)
 ---------------------------------------------------------
 
 This class is a cooperative venture toward which you are encouraged and
