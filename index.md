@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Course Description
@@ -47,11 +47,11 @@ Readings
 As this is a "survey" course, students will be expected to complete
 readings in preparation for each class meeting. The assigned readings
 are listed on the [course
-schedule](schedule-500-f15.html "course schedule") and will be made
+schedule]({{ base.url }}/schedule/ "course schedule") and will be made
 available electronically through the [UNC
 libraries](http://library.unc.edu "library website"), the [Sakai site
 for the
-course](https://sakai.unc.edu/portal/site/inls500_003_f15 "Sakai"). No
+course](https://sakai.unc.edu/portal/site/inls500-001-fa2015 "Sakai INLS 500-001 Fall 2015"). No
 textbook is required.
 
 Assignments and Evaluation
@@ -59,7 +59,7 @@ Assignments and Evaluation
 
 Three individual assignments, one group project/paper and participation
 will be used to determine the grade for the course. The [assignment
-page](assignments-500-f15.html "Assignments page") for the course
+page]({{ base.url }}/assignments/ "Assignments page") for the course
 provides the details, due dates (preliminary and final deliverables) and
 evaluation criteria for each assignment.
 
