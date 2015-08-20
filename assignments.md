@@ -30,7 +30,7 @@ Summary of due dates
     -   Final deliverable: due Tuesday, 11 November
 -   [\#4, Analysis of Scholarly Communication](#scholcomm) (20%)
     -   Bibliography: due Thursday, 13 November
-    -   Paper: due Thursday, 10 November at NOON
+    -   Paper: due Thursday, 10 December at NOON
 -   [Participation](#participation) (10%)
 
 <span id="eventdiary"></span>Assignment 1: Diary and Analysis of an Information-Seeking Event (20%)
