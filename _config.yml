@@ -18,6 +18,7 @@ officehours: "Tu 1230-1430 or by appointment."
 officeloc: "016 Manning Hall (PhDungeon)"
 
 favicon_url: "images/favicon.ico"
+
 university: University of North Carolina at Chapel Hill
 university_url: http://unc.edu
 university_logo: "images/small_blue_300px.png"
@@ -33,12 +34,10 @@ dates: "18 August - 10 December 2015"
 exam: 10 December 2015
 
 acknowledgements: 'This syllabus and website originated with the work of Professors Barbara Wildemuth and Deborah Barreau and has benefitted from the revisions and input of Laura Sheble, Earl Bailey, Ruth Palmquist, Kaitlin Costello, Kathy Brennan, Anita Crescenzi and others. Address all comments and questions to <a href="mailto:john.d.martin.iii@unc.edu">John D. Martin III</a>.' 
-content_license: 'This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.'
+content_license: 'This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
 
 baseurl: ""
 url: "http://inlsjohndmart.in"
-#twitter_username: jekyllrb
-#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
