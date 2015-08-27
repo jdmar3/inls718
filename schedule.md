@@ -19,6 +19,8 @@ Class introductions. Review syllabus and course policies. Discussion of invidivi
 
 ### <span id="session2"></span>\#2: Trends in human information interaction research
 
+In class: sign-up for day to present [Evidence Summary](/assignments/#evidencesummary)
+
 These two brief articles were written as part of the 10th anniversary celebration (in 2009) of the Special Interest Group on Information Needs, Seeking, and Use of the American Society for Information Science & Technology. 
 Together, they provide a brief historical overview of the general directions taken in information behavior research.
 
@@ -38,7 +40,7 @@ Technology, 36*(3), 35-38.
 
 ### <span id="session3"></span>\#3: Theoretical perspectives and basic concepts
 
-In class: sign-up for day to present [Evidence Summary](/assignments/#evidencesummary)
+Due: Title of article for [Evidence Summary](/assignments/#evidencesummary)
 
 Each of these two readings takes a slightly different view of our field
 and, in particular, the portion of our field surveyed in this course.
@@ -60,8 +62,6 @@ Marchionini focuses more directly on the scope of this course. Read through the 
 ## Thursday, August 27 
 
 ### <span id="session4"></span>\#4 Cognitive approaches to information behaviors
-
-Due: Title of article for [Evidence Summary](/assignments/#evidencesummary)
 
 Dinet, J., Chevalier, A., & Tricot, A. (2012). Information search
 activity: An overview. *Revue européene de psychologie appliqué,
@@ -85,7 +85,7 @@ other parts of chapter 6 if you have time.)
 
 [Additional readings of interest](/literature/#session3)
 
-## Tuessday, September 1 
+## Tuesday, September 1 
 
 ### <span id="session5"></span>\#5: Affective approaches
 
@@ -205,7 +205,10 @@ the questions received at the library reference desk.
 
 ## Thursday, September 10
 
-### <span id="session8"></span>\#8: Literature searching review lab (some practice in expressing your own information needs)
+### <span id="session8"></span>\#8: Literature searching review lab (some practice in expressing your own information needs) 
+
+Due: Brief description for [Diary and Analysis of an Information Seeking
+Event](/assignments/#eventdiary)
 
 Bring your laptop to class.
 
@@ -223,8 +226,8 @@ will help us understand what we're looking for during our searching lab.
 
 ### <span id="session9"></span>\#9: Studying and analyzing information needs
 
-Due: Brief description for [Diary and Analysis of an Information Seeking
-Event](/assignments/#eventdiary)
+Due: Description of population and setting of interest for
+[System/Service Proposal](/assignments/#proposal)
 
 <span class="todo">Read and be prepared to discuss at least one
 additional article. </span> Select an article (or articles) that analyze
@@ -263,9 +266,6 @@ Information-Seeking
 ## Thursday, September 17
 
 ### <span id="session10"></span>\#10: Selection of information sources
-
-Due: Description of population and setting of interest for
-[System/Service Proposal](/assignments/#proposal)
 
 Savolainen, R. (2008). Source preferences in the context of seeking
 problem-specific information. *Information Processing & Management,
@@ -331,6 +331,8 @@ toward designing systems that will support such searches. Skim sections
 
 ### <span id="session12"></span>\#12: Assessment of information quality and value
 
+Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
+
 These two studies are examining very similar behaviors, so we'll focus
 our attention on the differences between them. Pay attention to the
 research questions asked, who is included in the study sample, what data
@@ -349,8 +351,6 @@ Information Science & Technology, 56*(4), 327-344. \[[UNC libraries](http://libp
 ## Thursday, September 29
 
 ### <span id="session13"></span>\#13: Relevance judgments
-
-Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
 
 Saracevic, T. (2007). Relevance: A review of the literature and a
 framework for thinking on the notion in information science. Part II:
