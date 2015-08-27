@@ -3,20 +3,16 @@ layout: page
 title: Assignments
 ---
 
-For each assignment, detailed instructions and evaluation criteria are
-provided as well as due dates. All assignments should be submitted to
-the Drop Box in [Sakai](https://sakai.unc.edu/portal/site/inls500-001-fa2015 "Sakai site for INLS500-001")
-before class (.pdf preferred). The main page of the syllabus contains
-additional details on the [grading
-scale]({{ baseurl }}#grading "grading scale used for INLS 500")
+For each assignment, detailed instructions and evaluation criteria are provided as well as due dates. All assignments should be submitted to the Drop Box in [Sakai](https://sakai.unc.edu/portal/site/inls500-001-fa2015 "Sakai site for INLS500-001") before class (.pdf preferred). The main page of the syllabus contains additional details on [grading
+scale]({{ baseurl }}#grading "grading scale used for INLS 500"). 
 
 Summary of due dates
 --------------------
 
--   [\#1, Diary and Analysis of an Information-Seeking
+-   [\#1, Observation and Analysis of an Information-Seeking
     Event](#eventdiary) (20%)
     -   Description: due Tuesday, 15 September
-    -   Final Diary and Analysis: due Tuesday, 13 October
+    -   Final Observation and Analysis: due Tuesday, 13 October
 -   [\#2, Evidence Summary](#evidencesummary) (15%)
     -   Sign up for presentation date: in class on Thursday, 20 August
     -   Title of article: due Tuesday, 25 August
@@ -33,6 +29,20 @@ Summary of due dates
     -   Paper: due Thursday, 10 December at NOON
 -   [Participation](#participation) (10%)
 
+## A note on style:
+
+I will expect that you complete the writing assignments using the *Style Guide of the American Psychological Association, 6th ed. (APA6)*. 
+
+I assume that most of you are familiar at this point with the basics of the MLA style guide, so you understand the mechanics of employing a style. 
+There are a number of resources available online and in the library to help you with this. 
+I will link to online guides on the [resources page]({{ baseurl }}/resources/).
+
+If you are uncertain about aspects of using a style guide, it would be a good idea to visit the [UNC Writing Center](http://writingcenter.unc.edu/). 
+
+If you have a compelling reason to wish to submit your work using another style guide, please talk to me about it. 
+One example of this is the use of the style that tends to be used in the Association for Computing Machinery (ACM) publications. 
+
+
 <span id="eventdiary"></span>Assignment 1: Diary and Analysis of an Information-Seeking Event (20%)
 ---------------------------------------------------------------------------------------------------
 
@@ -40,19 +50,13 @@ This assignment is based on an assignment prepared by Dr. Verna
 Pungitore, SLIS, Indiana University, with modifications by Professors
 Wildemuth, Barreau, Gibson and other SILS instructors.
 
-As information professionals, we are concerned with designing systems
-and services that help our clients. For this assignment, you are the
-client and you will keep a short diary over a period of hours or days
-that covers an information-seeking experience with an identifiable
-beginning and end. It does not have to be a unique event and it may or
-may not have been resolved. You will write up what you thought, felt,
-and did, and how you understand the experience based upon our readings
-and discussions in class.
+As information professionals, we are concerned with designing systems and services that help our clients. 
+For this assignment, you are the observer and you will collect observations over a short period of time that covers an information-seeking experience with an identifiable beginning and end. 
+You will work with a partner, who will be the subject of your observation.
+It does not have to be a unique event and it may or may not have been resolved. 
+You will write up what you observed, and how you understand the experience based upon our readings and discussions in class.
 
-The objective of this assignment is to observe in detail and reflect
-upon a concrete example of information-seeking and to analyse the
-information-seeking process through the application of foundational
-theories of information and library science.
+The objective of this assignment is to observe in detail and reflect upon a concrete example of information-seeking and to analyse the information-seeking process through the application of foundational theories of information and library science.
 
 ### Deliverables
 
@@ -62,7 +66,7 @@ theories of information and library science.
     how/why the event meets the required criteria.
 2.  <span class="assignmentname">Final deliverables</span> (<span
     class="due">due Tuesday, 13 October</span>)
-    -   <span class="assignmentname">Diary</span> (20%)
+    -   <span class="assignmentname">Observation (data)</span> (20%)
     -   <span class="assignmentname">Analysis of Information Seeking
         Event</span> (70%)
 
@@ -70,114 +74,90 @@ theories of information and library science.
 
 A good event to select for this assignment will:
 
--   represent a real information need that your attempted to resolve
+-   represent a real information need that your subject attempted to resolve
     through information-seeking
 -   occur while you are working on this assignment
 -   take place over a period of time (weeks vs. days).
 
-In most cases, your problem should be more complex than finding a fact,
-but there are situations when that type of problem is appropriate. For
-example, "When did Americans first land on the moon?" is a
-straightforward question that can be answered easily and it doesn't
-offer much of a challenge for deciding where and how to look. However,
-"When were the plans and strategy for America's Apollo missions to the
-moon finalized?" is a more difficult question for most people. It
-requires some knowledge of NASA's planning and approval process as well
-as a slightly broader understanding of the space program. For NASA
-historians and people who follow the space program closely, the second
-question may be as straightforward as the first one, but for most
-people, it will require more preparation.
+In most cases, your problem should be more complex than finding a fact, but there are situations when that type of problem is appropriate. 
+For example, "When did Americans first land on the moon?" is a straightforward question that can be answered easily and it doesn't offer much of a challenge for deciding where and how to look. 
+However, "When were the plans and strategy for America's Apollo missions to the moon finalized?" is a more difficult question for most people. 
+It requires some knowledge of NASA's planning and approval process as well as a slightly broader understanding of the space program. 
+For NASA historians and people who follow the space program closely, the second question may be as straightforward as the first one, but for most people, it will require more preparation.
 
-As an example, consider the hypothetical situation that I am beginning
-to plan a vacation over the winter break and I want to make my
-arrangements before the Thanksgiving Break). I have a couple of places
-in mind, but I need to do some more research about places I can go,
-things I can do and food I can eat. I search online, read a couple guide
-books and talk to people. Through an iterative process that took place
-over several weeks, I gained additional focus and eventually selected
-where to travel and my itinerary.
+As an example, consider the hypothetical situation that I am beginning to plan a vacation over the winter break and I want to make my arrangements before the Thanksgiving Break). 
+I have a couple of places in mind, but I need to do some more research about places I can go, things I can do and food I can eat. 
+I don't like cold weather and I am not interested in flying through snowstorms. 
+I search online, read a couple guide books and talk to people. 
+Through an iterative process that took place over several weeks, I gained additional focus and eventually selected where to travel and my itinerary.
 
-### The Diary
+### The Observation
 
-Start by describing your information need. Take notes or record your
-experience in some way. Try to capture as much detail about the process
-as possible.
+Start by describing your information need. 
+Think about this in terms of the kind of search that you would like for your partner to undertake. 
+You can collaborate with them on this point and use one of their actual information needs as the impetus for the observation, or you may choose something for them to do. 
+Be sure to justify your choice in doing either of these. 
+Take notes or record your subject's experience in some way. 
+Try to capture as much detail about the process as possible.
 
-Your diary should describe your information seeking event, including
-behaviors, strategies, thoughts, and motivations. Your diary should
-capture as much detail about your experience as possible, but does not
-have to be formal or very structured (it must be comprehensible at some
-level). The goal of the diary is to provide chronology and context for
-the analysis. Diary entries should be made as you are going through the
-information seeking process.
+The record of your observation (data) should describe the information seeking event, including behaviors, strategies, thoughts, and motivations. 
+Thoughts and motivations are difficult to capture, but there are ways:
+-   You can ask a series of questions of your partner after the information seeking event. 
+-   You can use the "think-aloud" protocol to elicit information about what is happening. 
+-   You might use "stimulated recall" in which you prompt yuor subject with verbal cues about specific things that you noted in your observation. 
 
-Questions to consider as you are reflecting on your experience
+There are a number of ways to do about this. 
+I recommend reading section 9 of this article on data collection techniques: 
+
+Kelly, D. (2009). Methods for Evaluating Interactive Information Retrieval Systems with Users. Foundations and Trends® in Information Retrieval, 3(1–2), 1–224. DOI: <a href="http://doi.org.libproxy.lib.unc.edu/10.1561/1500000012" target="_blank">10.1561/1500000012</a>
+
+Your notes and observation should capture as much detail about your experience as possible, but does not have to be formal or very structured (it must be comprehensible at some level). 
+The goal of the diary is to provide chronology and context for the analysis. Notes should be made as your partner is going through the information seeking process.
+
+Questions to consider in helping your subject reflecting on the experience (these might be used as the basis for stimulated recall prompts or an interview guide):
 
 -   How did you know when you needed to look for information?
 -   What steps did you take and what motivated you along the way?
--   Did you make any incidental discoveries that influenced your
-    behavior?
--   When and why did you finally stop looking (or are you still
-    looking)?
+-   Did you make any incidental discoveries that influenced your behavior?
+-   When and why did you finally stop looking (or are you still looking)?
 -   How did your emotions affect the search process?
 
-The diary does not need to be neat and orderly, but it should provide
-enough detail so that I can tell what you thought, did, and felt. It's
-more important that you record what's happening and what you're
-thinking/feeling as it's happening than that you present it neatly. It
-only needs to be neat enough so that you can interpret and remember what
-happened for your later analysis of the event.
+The observation notes do not need to be neat and orderly, but should provide enough detail so that I can tell what your subject thought, did, and felt (and your reactions and thoughts about what that might mean). 
+It's more important that you record what's happening as it's happening than that you present it neatly. 
+It only needs to be neat enough so that you can interpret and remember what happened for your later analysis of the event.
 
-While the diary is a necessary deliverable for this assignment, it will
-play only a minor role in the grading. I will refer to it, as needed, to
-understand and evaluate your analysis of the event.
+While the notes are a necessary deliverable for this assignment, it will play only a minor role in the grading. 
+You should add the notes to the final assignment submission as an appendix, along with any guides or prompts you used during the process. 
+I will refer to it, as needed, to understand and evaluate your analysis of the event.
 
 ### The Analysis
 
-Assess which (if any) of the information seeking and use models we have
-discussed in class apply to your situation - as motivation, as
-information-seeking process, or as use. Write a brief report (3-4
-single-spaced pages) that interprets the experience. Concentrate on
-analyzing what happened instead of recounting each step. The goal here
-is to demonstrate that you can use the terminology, and apply the
-concepts learned in class to your own information seeking behavior. For
-example, it is more important to hear your reactions to what you did
-than to hear what you did. Questions to consider:
+Assess which (if any) of the information seeking and use models we have discussed in class apply to your situation - as motivation, as information-seeking process, or as use. Write a brief report (3-4 single-spaced pages) that interprets the experience. 
+Concentrate on analyzing what happened instead of recounting each step. 
+The goal here is to demonstrate that you can use the terminology, and apply the concepts learned in class to your own information seeking behavior. 
+For example, it is more important to hear your reactions to what you did than to hear what you did. Questions to consider:
 
--   How important was the information to you?
+-   How important was the information to the subject?
 -   Where did you search/what sources did you consult? Why?
 -   What barriers or surprises did you experience?
--   If you consulted systems or online sources, describe the interaction
+-   If the subject consulted systems or online sources, describe the interaction
     and why it worked, or did not.
--   If you consulted other people, describe the interaction and how you
-    were able to convey your need to this person.
--   Why do you think your experience was a successful (or unsuccessful)
-    one?
--   What did you learn that you did not know beforehand?
--   What would you do differently if a similar problem arises in the
-    future?
+-   If the subject consulted other people, describe the interaction and how the subject was able to convey your need to this person.
+-   Why do you think your subject's experience was a successful (or unsuccessful) one?
+-   What did your subject learn that they did not know beforehand?
+-   What might they do differently if a similar problem arises in the future?
 
-Be sure to relate your observations to readings and discussions from
-class. Cite them as appropriate.
+Be sure to relate your observations to readings and discussions from class. Cite them as appropriate.
 
 ### Evaluation criteria
 
-Grades will be based upon the quality and depth of your analysis of the
-experience. A description of the need and what motivated it, any
-obstacles you experienced, sources used, tasks performed, and results10/14
-obtained along with your evaluation of those results should be included
+Grades will be based upon the quality and depth of your analysis of the experience. 
+A description of the need and what motivated it, any obstacles you experienced, sources used, tasks performed, and results obtained along with your evaluation of those results should be included
 in the paper.
 
-Your ability to apply multiple concepts, models and theories, and use
-the terminology learned in class to describe your information behavior
-will determine a large portion of your grade. Please remember that the
-diary will be used as a description of your search process, so large
-amounts of time/space within the analysis should not be spent on
-retelling.
+Your ability to apply multiple concepts, models and theories, and use the terminology learned in class to describe your information behavior will determine a large portion of your grade. Please remember that the diary will be used as a description of your search process, so large amounts of time/space within the analysis should not be spent on retelling.
 
-While this paper is relatively informal in style, it should be formatted
-using APA style and should include citations to the literature as
-appropriate.
+While this paper is relatively informal in style, it should be formatted using APA style and should include citations to the literature as appropriate.
 
 <span id="teamproj2"></span>Assignment 2: Evidence Summary (15%)
 ----------------------------------------------------------------
