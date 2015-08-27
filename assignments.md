@@ -74,10 +74,10 @@ The objective of this assignment is to observe in detail and reflect upon a conc
 
 A good event to select for this assignment will:
 
--   represent a real information need that your subject attempted to resolve
-    through information-seeking
--   occur while you are working on this assignment
--   take place over a period of time (weeks vs. days).
+-   represent a real information need that your subject attempts to resolve
+    through information-seeking.
+-   occur while you are working on this assignment. This should not be only a retrospective interview.
+-   take place over brief period of time (within the space of an hour or less).
 
 In most cases, your problem should be more complex than finding a fact, but there are situations when that type of problem is appropriate. 
 For example, "When did Americans first land on the moon?" is a straightforward question that can be answered easily and it doesn't offer much of a challenge for deciding where and how to look. 
@@ -89,12 +89,14 @@ As an example, consider the hypothetical situation that I am beginning to plan a
 I have a couple of places in mind, but I need to do some more research about places I can go, things I can do and food I can eat. 
 I don't like cold weather and I am not interested in flying through snowstorms. 
 I search online, read a couple guide books and talk to people. 
-Through an iterative process that took place over several weeks, I gained additional focus and eventually selected where to travel and my itinerary.
+Through an iterative process that took place, I gain additional focus and eventually selected where to travel and my itinerary. 
+
+Your observation will look at a temporally-bounded version of a similar experience, or one discrete part of a longer information seeking process. 
 
 ### The Observation
 
-Start by describing your information need. 
-Think about this in terms of the kind of search that you would like for your partner to undertake. 
+Start by describing your your information need. 
+Think about this in terms of the kind of search that you would like to observe with your partner as the subject.
 You can collaborate with them on this point and use one of their actual information needs as the impetus for the observation, or you may choose something for them to do. 
 Be sure to justify your choice in doing either of these. 
 Take notes or record your subject's experience in some way. 
