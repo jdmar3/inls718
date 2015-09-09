@@ -126,9 +126,9 @@ Information Needs
 
 Case, D.O. (2012). Information needs and information seeking. In
 *Looking for Information: A Survey of Research on Information Seeking,
-Needs, and Behavior.* 3rd edition. Boston: Academic Press, 77-93. \[book
+Needs, and Behavior.* 3rd edition. Boston: Academic Press, 77-83. \[book
 on reserve in SILS Library - ZA3075 .L665 2012\]<span
-class="amcc">\[WILL ADD TO SAKAI\]</span>
+class="amcc">\[IN SAKAI\]</span>
 
 This chapter summarizes what we know about people's information needs,
 so will provide you with a good overview.
@@ -136,7 +136,7 @@ so will provide you with a good overview.
 Taylor, R.S. (1968). Question negotiation and information seeking in
 libraries. *College & Research Libraries, 29*(3),178-194. (Read about
 the four levels of "questions," on pages 182-183; we'll come back to the
-rest in a few weeks.) <span class="amcc">\[WILL ADD TO SAKAI\]</span>
+rest in a few weeks.) <span class="amcc">\[IN SAKAI\]</span>
 
 This is a classic reading, so you'll want to eventually study it all.
 For now, we want to focus our attention on Taylor's explanation of
