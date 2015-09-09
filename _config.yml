@@ -42,4 +42,4 @@ url: "http://inls500.johndmart.in"
 # Build settings
 markdown: kramdown
 
-permalinks: /:title/
+permalink: /:title/

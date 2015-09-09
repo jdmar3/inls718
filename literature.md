@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Literature
-permalink: /:title/
 ---
 
 This selection of articles is supplemental to the literature listed in the schedule. 
