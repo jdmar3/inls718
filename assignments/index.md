@@ -18,7 +18,7 @@ Summary of due dates
     -   Title of article: due Tuesday, 25 August
     -   Evidence Summary (written, presented and online discussion): due on date selected by student
 -   [\#3, System/Service Proposal](#proposal) (35%)
-    -   Description of population and setting of interest: due Thursday, 22 September
+    -   Description of population and setting of interest: due Tuesday, 22 September
     -   Intermediate deliverables:
         -   Preliminary literature search plan: due Tuesday, 29 September
         -   Preliminary client description: due Tuesday, 20 October

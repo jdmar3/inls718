@@ -17,15 +17,15 @@ course-year: "2015"
 officehours: "Tu 1230-1430 or by appointment." 
 officeloc: "016 Manning Hall (PhDungeon)"
 
-favicon_url: "images/favicon.ico"
+favicon_url: "/images/favicon.ico"
 
 university: University of North Carolina at Chapel Hill
 university_url: http://unc.edu
-university_logo: "images/small_blue_300px.png"
+university_logo: "/images/small_blue_300px.png"
 
 unit: School of Information and Library Science
 unit_url: http://sils.unc.edu
-unit_logo: "images/ischool-unc_300px.png"
+unit_logo: "/images/ischool-unc_300px.png"
 
 location: 014 Manning Hall
 hours: "1100 - 1215"
