@@ -207,9 +207,6 @@ the questions received at the library reference desk.
 
 ### <span id="session8"></span>\#8: Literature searching review lab (some practice in expressing your own information needs) 
 
-Due: Brief description for [Diary and Analysis of an Information Seeking
-Event](/assignments/#eventdiary)
-
 Bring your laptop to class.
 
 Koufogiannakis, D. (2013). EBLIP7 Keynote: What we talk about when we
@@ -226,8 +223,8 @@ will help us understand what we're looking for during our searching lab.
 
 ### <span id="session9"></span>\#9: Studying and analyzing information needs
 
-Due: Description of population and setting of interest for
-[System/Service Proposal](/assignments/#proposal)
+Due: Brief description for [Diary and Analysis of an Information Seeking
+Event](/assignments/#eventdiary)
 
 <span class="todo">Read and be prepared to discuss at least one
 additional article. </span> Select an article (or articles) that analyze
@@ -296,6 +293,8 @@ practice.
 
 ### <span id="session11"></span>\#11: Interactive information retrieval as part of the information seeking process
 
+Due: Description of population and setting of interest for [System/Service Proposal](/assignments/#proposal)
+
 Marchionini, G. (2006). Exploratory search: From finding to
 understanding. *Communications of the ACM, 49*(4), 41-46. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1145/1121949.1121979)\]
@@ -331,8 +330,6 @@ toward designing systems that will support such searches. Skim sections
 
 ### <span id="session12"></span>\#12: Assessment of information quality and value
 
-Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
-
 These two studies are examining very similar behaviors, so we'll focus
 our attention on the differences between them. Pay attention to the
 research questions asked, who is included in the study sample, what data
@@ -348,9 +345,11 @@ Information Science & Technology, 56*(4), 327-344. \[[UNC libraries](http://libp
 
 [Additional readings of interest](/literature/#session11)
 
-## Thursday, September 29
+## Tuessday, September 29
 
 ### <span id="session13"></span>\#13: Relevance judgments
+
+Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
 
 Saracevic, T. (2007). Relevance: A review of the literature and a
 framework for thinking on the notion in information science. Part II:

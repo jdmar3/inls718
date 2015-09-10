@@ -18,14 +18,14 @@ Summary of due dates
     -   Title of article: due Tuesday, 25 August
     -   Evidence Summary (written, presented and online discussion): due on date selected by student
 -   [\#3, System/Service Proposal](#proposal) (35%)
-    -   Description of population and setting of interest: due Thursday, 17 September
+    -   Description of population and setting of interest: due Thursday, 22 September
     -   Intermediate deliverables:
-        -   Preliminary literature search plan: due Tuesday, 19 September
+        -   Preliminary literature search plan: due Tuesday, 29 September
         -   Preliminary client description: due Tuesday, 20 October
         -   Preliminary proposal description: due Tuesday, 27 October
     -   Final deliverable: due Tuesday, 11 November
 -   [\#4, Analysis of Scholarly Communication](#scholcomm) (20%)
-    -   Bibliography: due Thursday, 13 November
+    -   Bibliography: due Tuesday, 18 November
     -   Paper: due Thursday, 10 December at NOON
 -   [Participation](#participation) (10%)
 
