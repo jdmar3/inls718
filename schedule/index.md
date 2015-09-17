@@ -330,6 +330,8 @@ toward designing systems that will support such searches. Skim sections
 
 ### <span id="session12"></span>\#12: Assessment of information quality and value
 
+Due: Description of population and setting of interest for [System/Service Proposal](/assignments/#proposal)
+
 These two studies are examining very similar behaviors, so we'll focus
 our attention on the differences between them. Pay attention to the
 research questions asked, who is included in the study sample, what data
@@ -348,8 +350,6 @@ Information Science & Technology, 56*(4), 327-344. \[[UNC libraries](http://libp
 ## Tuessday, September 29
 
 ### <span id="session13"></span>\#13: Relevance judgments
-
-Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
 
 Saracevic, T. (2007). Relevance: A review of the literature and a
 framework for thinking on the notion in information science. Part II:
@@ -380,3 +380,9 @@ literature review, to see the similarities with the Saracevic articles
 and discussion (pages 60-76).
 
 [Additional readings of interest](/literature/#session12)
+
+## Tuessday, October 1
+
+
+
+Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
