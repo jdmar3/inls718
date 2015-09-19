@@ -6,6 +6,8 @@ title: Assignments
 For each assignment, detailed instructions and evaluation criteria are provided as well as due dates. All assignments should be submitted to the Drop Box in [Sakai](https://sakai.unc.edu/portal/site/inls500-001-fa2015 "Sakai site for INLS500-001") before class (.pdf preferred). The main page of the syllabus contains additional details on [grading
 scale]({{ baseurl }}#grading "grading scale used for INLS 500"). 
 
+[Spreadsheet of due dates](https://docs.google.com/spreadsheets/d/1JEAsxrYn8y9HBc9vMjAaOnC1Uiu9Gh4J5WHZ6er3L-A/edit?usp=sharing)
+
 Summary of due dates
 --------------------
 
@@ -21,11 +23,11 @@ Summary of due dates
     -   Description of population and setting of interest: due Thursday, 24 September
     -   Intermediate deliverables:
         -   Preliminary literature search plan: due Thursday, 1 October
-        -   Preliminary client description: due Tuesday, 20 October
-        -   Preliminary proposal description: due Tuesday, 27 October
-    -   Final deliverable: due Tuesday, 11 November
+        -   Preliminary client description: due Thursday, 22 October
+        -   Preliminary proposal description: due Thursday, 29 October
+    -   Final deliverable: due Thursday, 12 November
 -   [\#4, Analysis of Scholarly Communication](#scholcomm) (20%)
-    -   Bibliography: due Tuesday, 18 November
+    -   Bibliography: due Thursday, 19 November
     -   Paper: due Thursday, 10 December at NOON
 -   [Participation](#participation) (10%)
 
