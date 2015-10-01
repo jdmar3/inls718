@@ -347,7 +347,7 @@ Information Science & Technology, 56*(4), 327-344. \[[UNC libraries](http://libp
 
 [Additional readings of interest](/literature/#session11)
 
-## Tuessday, September 29
+## Tuesday, September 29
 
 ### <span id="session13"></span>\#13: Relevance judgments
 
@@ -381,8 +381,149 @@ and discussion (pages 60-76).
 
 [Additional readings of interest](/literature/#session12)
 
-## Tuessday, October 1
+## Thursday, October 1
 
-
+### <span id="session13"></span>\#13: Relevance judgments
 
 Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
+
+Saracevic, T. (2007). Relevance: A review of the literature and a
+framework for thinking on the notion in information science. Part II:
+Nature and manifestations of relevance, \[and\] Part III: Behavior and
+effects of relevance. *Journal of the American Society for Information
+Science & Technology, 58*(13), 1915-1933, 2126-2144. \[UNC libraries:
+[Part
+II](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20682),
+[Part
+III](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20681)\]
+
+Part I of this series is his 1975 article on the topic of relevance. In
+this update, he provides a really-compact overview of a huge amount of
+the literature on relevance. Read these two parts for the primary
+concepts, not necessarily for the nuanced details.
+
+Xie, I., & Benoit, E., III. (2013). Search result list evaluation versus
+document evaluation: Similarities and differences. *Journal of
+Documentation, 69*(1), 49-80. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/00220411311295324)\]
+
+Making a relevance judgment based on the snippet in a results list is
+different than making a relevance judgment based on the full document.
+Xie and Benoit looked closely at these two processes, to identify both
+the similarities and differences. Lightly skim the introduction and
+literature review, to see the similarities with the Saracevic articles
+(and also identify any new ideas); focus your reading on their results
+and discussion (pages 60-76).
+
+[Additional readings of interest](/literature/#session12)
+
+# Information Use
+
+## Tuesday, October 6
+
+### <span id="session15"></span>\#15: Ways of using information / re-finding and re-use
+
+Each of the studies below examined or proposed a different type/aspect
+of information use. I've tried to briefly state the type of information
+use with each citation. To support our class discussion today, select
+ONE of these articles and read it before coming to class.
+
+If the study examined additional information behaviors (e.g.,
+information seeking), skim those sections; focus on the sections
+discussing USE of the information.
+
+1. *Reading e-books:* ChanLin, L.-J. (2013). Reading strategy and the need
+of e-book features. *Electronic Library, 31*(3), 329-344. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/EL-08-2011-0127)\]
+
+2. *Using information from PubMed to help solve neuroscience problems:*
+Mirel, B., Tonks, J.S., Song, J., Meng, F., Xuan, W., & Ameziane, R.
+(2013). Studying PubMed usages in the field for complex problem solving:
+Implications for tool design. *Journal of the American Society for
+Information Science & Technology, 64*(5), 874-892. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22796)\]
+
+3. *Discussing found information with a physician or using it to improve
+one's health:* Warner, D., & Procaccino, J.D. (2004). Toward wellness:
+Women seeking health information. *Journal of the American Society for
+Information Science & Technology, 55*(8), 709-730. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20016)\]
+
+4. *Eight different ways that information is used within organizational
+contexts:* Choo, C.W., Bergeron, P., Detlor, B., & Heaton, L. (2008).
+Information culture and information use: An exploratory study of three
+organizations. *Journal of the American Society for Information Science
+& Technology, 59*(5), 792-804. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20797)\]
+
+5. *Packaging and sharing information with stakeholders:* Mutshewa, A.
+(2010). The use of information by environmental planners: A qualitative
+study using Grounded Theory methodology. *Information Processing &
+Management, 46*(2), 212-232. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2009.09.006)\]
+
+6. *Use of images for the information they provide or as illustrations:*
+McCay-Pett, L., & Toms, E. (2009). Image use within the work task model:
+Images as information and illustration. *Journal of the American Society
+for Information Science & Technology, 60*(12), 2416-2429. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.21202)\]
+
+7. *Use of images by four different groups of users*: Beaudoin, J.E.
+(2014). A framework of image use among archaeologists, architects, art
+historians and artists. *Journal of Documentation, 70*(1), 119-147.
+\[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/JD-12-2012-0157)\]
+
+8. *Selection and use of particular pieces of information in house
+listings:* Savolainen, R. (2009). Interpreting informational cues: An
+explorative study on information use among prospective homebuyers.
+*Journal of the American Society for Information Science & Technology,
+60*(11), 2244-2254. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.21167)\]
+
+#### Re-finding and re-use
+
+EVERYONE read both of these:
+
+Capra, R., & Pérez-Quiñones, M.A. (2005). Using Web search engines to
+find and refind information. *IEEE Computer, 38*(10), 36-42. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1109/MC.2005.355)\]
+
+Finding and refinding present different user challenges. Synthesizing
+results from one of their studies with related work, the authors propose
+a search engine use model based on prior task frequency and familiarity.
+
+Jones, W., Bruce, H., & Dumais, S. (2001). Keeping found things found on
+the Web. *Proceedings of the 10th International Conference on
+Information and Knowledge Management,* 119-126. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1145/502585.502607)\]
+
+This is one of the earliest serious studies of re-finding and re-use,
+based on observation of the methods people use to manage web information
+for re-use.
+
+Additional readings of interest: [Finding and re-finding](/literature/#session14)
+
+## Thursday, October 8
+
+### <span id="session15"></span>\#16: Information poverty and information overload
+
+Chatman, E.A. (1996). The impoverished life-world of outsiders. *Journal
+of the American Society for Information Science, 47*(3), 193-206. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/(SICI)1097-4571(199603)47:3<193::AID-ASI3>3.0.CO;2-T)\]
+
+Chatman draws on results from four previous studies to identify four
+concepts that serve as a basis for defining information poverty:
+risk-taking, secrecy, deception, and situational relevance.
+
+Bawden, D., & Robinson, L. (2009). The dark side of information:
+Overload, anxiety and other paradoxes and pathologies. *Journal of
+Information Science, 35*(2), 180-191. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1177/0165551508095781)\]
+
+This paper provides an overview of the issues associated with the
+quantity and diversity of information now available. Read the entire
+paper, but focus particular attention on sections 3 and 4 (in case
+you're feeling overloaded).
+
+Additional readings of interest: [Information poverty and overload](/literature/#session15)

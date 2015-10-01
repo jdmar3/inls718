@@ -48,8 +48,8 @@ Three individual assignments, one group project/paper and participation will be 
 
 All assignments will be submitted electronically unless otherwise approved with the instructor *in advance.*
 
-1.  Diary and analysis of an information-seeking event (20%): Each
-    student will keep a diary of a personal information-seeking event
+1.  Observation and analysis of an information-seeking event (20%): Each
+    student will observe a personal information-seeking event
     and analyze the event in terms of the concepts and ideas discussed
     in the course.
 2.  Evidence summary (15%): Each student will write an evidence summary
