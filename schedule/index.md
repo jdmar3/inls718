@@ -291,7 +291,11 @@ practice.
 
 ## Tuesday, September 22
 
-### <span id="session11"></span>\#11: Interactive information retrieval as part of the information seeking process
+### <span id="session11"></span>\#11: Information horizons and intro to IIR
+
+## Thursday, September 24
+
+### <span id="session12"></span>\#12: Interactive information retrieval as part of the information seeking process
 
 Due: Description of population and setting of interest for [System/Service Proposal](/assignments/#proposal)
 
@@ -326,9 +330,9 @@ toward designing systems that will support such searches. Skim sections
 
 [Additional readings of interest](/literature/#session10)
 
-## Thursday, September 24
+## Tuesday, September 29
 
-### <span id="session12"></span>\#12: Assessment of information quality and value
+### <span id="session13"></span>\#13: Assessment of information quality and value
 
 Due: Description of population and setting of interest for [System/Service Proposal](/assignments/#proposal)
 
@@ -347,43 +351,9 @@ Information Science & Technology, 56*(4), 327-344. \[[UNC libraries](http://libp
 
 [Additional readings of interest](/literature/#session11)
 
-## Tuesday, September 29
-
-### <span id="session13"></span>\#13: Relevance judgments
-
-Saracevic, T. (2007). Relevance: A review of the literature and a
-framework for thinking on the notion in information science. Part II:
-Nature and manifestations of relevance, \[and\] Part III: Behavior and
-effects of relevance. *Journal of the American Society for Information
-Science & Technology, 58*(13), 1915-1933, 2126-2144. \[UNC libraries:
-[Part
-II](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20682),
-[Part
-III](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20681)\]
-
-Part I of this series is his 1975 article on the topic of relevance. In
-this update, he provides a really-compact overview of a huge amount of
-the literature on relevance. Read these two parts for the primary
-concepts, not necessarily for the nuanced details.
-
-Xie, I., & Benoit, E., III. (2013). Search result list evaluation versus
-document evaluation: Similarities and differences. *Journal of
-Documentation, 69*(1), 49-80. \[[UNC
-libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/00220411311295324)\]
-
-Making a relevance judgment based on the snippet in a results list is
-different than making a relevance judgment based on the full document.
-Xie and Benoit looked closely at these two processes, to identify both
-the similarities and differences. Lightly skim the introduction and
-literature review, to see the similarities with the Saracevic articles
-(and also identify any new ideas); focus your reading on their results
-and discussion (pages 60-76).
-
-[Additional readings of interest](/literature/#session12)
-
 ## Thursday, October 1
 
-### <span id="session13"></span>\#13: Relevance judgments
+### <span id="session13"></span>\#14: Relevance judgments
 
 Due: Preliminary literature search plan for [System/Service Proposal](/assignments/#proposal)
 
