@@ -11,21 +11,21 @@ scale]({{ baseurl }}#grading "grading scale used for INLS 500").
 Summary of due dates
 --------------------
 
--   [\#1, Observation and Analysis of an Information-Seeking Event](assignments/01) (20%)
+-   [\#1, Observation and Analysis of an Information-Seeking Event]({{ base.url }}/assignments/01/) (20%)
     -   Description: due Tuesday, 15 September
     -   Final Observation and Analysis: due Tuesday, 13 October
--   [\#2, Evidence Summary](assignments/02) (15%)
+-   [\#2, Evidence Summary]({{ base.url }}/assignments/02/) (15%)
     -   Sign up for presentation date: in class on Thursday, 20 August
     -   Title of article: due Tuesday, 25 August
     -   Evidence Summary (written, presented and online discussion): due on date selected by student
--   [\#3, System/Service Proposal](assignments/03) (35%)
+-   [\#3, System/Service Proposal]({{ base.url }}/assignments/03/) (35%)
     -   Description of population and setting of interest: due Thursday, 24 September
     -   Intermediate deliverables:
         -   Preliminary literature search plan: due Thursday, 1 October
         -   Preliminary client description: due Thursday, 22 October
         -   Preliminary proposal description: due Thursday, 29 October
     -   Final deliverable: due Thursday, 12 November
--   [\#4, Analysis of Scholarly Communication](assignments/04) (20%)
+-   [\#4, Analysis of Scholarly Communication]({{ base.url }}/assignments/04/) (20%)
     -   Bibliography: due Thursday, 19 November
     -   Paper: due Thursday, 10 December at NOON
 -   [Participation](#participation) (10%)
