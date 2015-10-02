@@ -26,7 +26,7 @@
         due: "on date selected by student"
         percent: "15"
         description: ""
-    01:f
+    01:
         name: "Sign up for presentation date"
         due: "2015-08-20"
         percent: 
