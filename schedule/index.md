@@ -476,7 +476,7 @@ Additional readings of interest: [Finding and re-finding](/literature/#session14
 
 ## Thursday, October 8
 
-### <span id="session15"></span>\#16: Information poverty and information overload
+### <span id="session16"></span>\#16: Information poverty and information overload
 
 Chatman, E.A. (1996). The impoverished life-world of outsiders. *Journal
 of the American Society for Information Science, 47*(3), 193-206. \[[UNC
@@ -497,3 +497,91 @@ paper, but focus particular attention on sections 3 and 4 (in case
 you're feeling overloaded).
 
 Additional readings of interest: [Information poverty and overload](/literature/#session15)
+
+## Thursday, October 15
+
+Fall Break! No class! 
+
+# Unit 5: The Impact of Context on Information Seeking and Use
+
+## Tuesday, October 20
+
+### <span id="session18"></span>\#18: Domain, disciplinary, and organizational context
+
+Today will be a review or sorts. 
+We will begin with an overview of topics we have covered in the course so far and then move into a discussion of how context affects information behavior to develop a better sense of what we should be looking for in our research. 
+
+There are no readings for this session. 
+We will consider the following studies to contextualize our discussion in small groups. 
+
+1. Rieh, S.Y. (2004). On the Web at home: Information seeking and web
+searching in the home environment. *Journal of the American Society for
+Information Science and Technology, 55*(8), 743-753. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20018)\]
+
+2. Ellis, D., Cox, D., & Hall, K. (1993). A comparison of the information
+seeking patterns of researchers in the physical and social sciences.
+*Journal of Documentation, 49*(4), 356-369. \[SILS Library\]<span
+class="amcc">\[WILL ADD TO SAKAI\]</span>
+
+3. Baldwin, N.S., & Rice, R.E. (1997). Information-seeking behavior of
+securities analysts: Individual and institutional influences,
+information sources and channels, and outcomes. *Journal of the
+American Society for Information Science, 48*(8), 674-693. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/(SICI)1097-4571(199708)48:8<674::AID-ASI2>3.0.CO;2-P)\]
+    
+4. Sahu, H.K., & Singh, S.N. (2013). Information seeking behaviour of
+astronomy/astrophysics scientists. *Aslib Proceedings,
+65*(2), 109-142. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/00012531311313961)\]
+    
+5. Costello, K. L., & Murillo, A. P. (2014). “I want your kidney!” Information seeking, sharing, and disclosure when soliciting a kidney donor online. *Patient Education and Counseling, 94*(3), 423–426. http://doi.org/10.1016/j.pec.2013.11.009
+
+6. Potnis, D. D. (2015). Beyond Access to Information: Understanding the Use of Information by Poor Female Mobile Users in Rural India. *The Information Society, 31*(1), 83–93. http://doi.org/10.1080/01972243.2014.976687
+
+7. Veinot, T.C. (2013). Regional HIV/AIDS information environments and
+information acquisition success. *The Information Society,
+29*(2), 88-112. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1080/01972243.2012.757261)\]
+
+## Thursday, October 22
+
+### <span id="session19"></span>\#19: Domain, disciplinary, and organizational context, continued
+
+Cool, C. (2001). The concept of situation in information science.
+*Annual Review of Information Science & Technology, 35,* 5-42*.* \[SILS
+Library Reference - Z699.A1 A65 v.35\]<span class="amcc">\[WILL ADD TO
+SAKAI\]</span>
+
+ARIST chapters are comprehensive literature reviews in a particular
+area. Of interest to us in this chapter is the section on "Situation,
+context, and interaction with information," pages 7-9. It will introduce
+you to a bit of the terminology in this area. The chapter, as a whole,
+is organized around several theoretical perspectives on situation: the
+problematic situation, social interaction theory, situated action,
+situation awareness, the person-in-situation model, and situation as
+information environment.
+
+Sonnenwald, D.H. (1999). Perspectives of human information behaviour:
+Contexts, situations, social networks and information horizons. In
+*Exploring the Contexts of Information Behaviour: Proceedings of the
+Second International Conference on Research in Information Needs,
+Seeking and Use in Different Contexts (August 13-15, 1998, Sheffield,
+UK).* Taylor Graham, 176-190. <span class="amcc">\[WILL ADD TO
+SAKAI\]</span>
+
+This paper provides some foundational definitions. Read the sections on
+context and situations, p178-180.
+
+Taylor, R.S. (1991). Information use environments. *Progress in
+Communication Sciences, 10,* 217-255. \[Davis Library - P87 .P74
+v10\]<span class="amcc">\[WILL ADD TO SAKAI\]</span>
+
+This is a classic reading that examines the effects of context on
+information behaviors. Read Section II (p221-233). Then read about one
+of the three information use environments studied (engineers,
+legislators, or physicians), based on the following schedule: last name
+beginning with A-D, engineers; last name beginning with G-K,
+legislators; last name beginning with M-S, physicians.
+
+[Additional readings of interest](/literature/#session16)
