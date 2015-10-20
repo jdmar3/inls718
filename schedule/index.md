@@ -522,7 +522,7 @@ libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.2
 2. Ellis, D., Cox, D., & Hall, K. (1993). A comparison of the information
 seeking patterns of researchers in the physical and social sciences.
 *Journal of Documentation, 49*(4), 356-369. \[SILS Library\]<span
-class="amcc">\[WILL ADD TO SAKAI\]</span>
+class="amcc">\[IN SAKAI\]</span>
 
 3. Baldwin, N.S., & Rice, R.E. (1997). Information-seeking behavior of
 securities analysts: Individual and institutional influences,
@@ -550,8 +550,7 @@ libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1080/01972
 
 Cool, C. (2001). The concept of situation in information science.
 *Annual Review of Information Science & Technology, 35,* 5-42*.* \[SILS
-Library Reference - Z699.A1 A65 v.35\]<span class="amcc">\[WILL ADD TO
-SAKAI\]</span>
+Library Reference - Z699.A1 A65 v.35\]<span class="amcc">\[IN SAKAI\]</span>
 
 ARIST chapters are comprehensive literature reviews in a particular
 area. Of interest to us in this chapter is the section on "Situation,
@@ -567,15 +566,14 @@ Contexts, situations, social networks and information horizons. In
 *Exploring the Contexts of Information Behaviour: Proceedings of the
 Second International Conference on Research in Information Needs,
 Seeking and Use in Different Contexts (August 13-15, 1998, Sheffield,
-UK).* Taylor Graham, 176-190. <span class="amcc">\[WILL ADD TO
-SAKAI\]</span>
+UK).* Taylor Graham, 176-190. <span class="amcc">\[IN SAKAI\]</span>
 
 This paper provides some foundational definitions. Read the sections on
 context and situations, p178-180.
 
 Taylor, R.S. (1991). Information use environments. *Progress in
 Communication Sciences, 10,* 217-255. \[Davis Library - P87 .P74
-v10\]<span class="amcc">\[WILL ADD TO SAKAI\]</span>
+v10\]<span class="amcc">\[IN SAKAI\]</span>
 
 This is a classic reading that examines the effects of context on
 information behaviors. Read Section II (p221-233). Then read about one
