@@ -550,7 +550,7 @@ libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1080/01972
 
 Cool, C. (2001). The concept of situation in information science.
 *Annual Review of Information Science & Technology, 35,* 5-42*.* \[SILS
-Library Reference - Z699.A1 A65 v.35\]<span class="amcc">\[IN SAKAI\]</span>
+Library Reference - Z699.A1 A65 v.35\]<span class="amcc">\[[IN SAKAI](https://sakai.unc.edu/access/content/group/93cbd932-8e11-4297-8da4-d2775bdfe6ab/Resources%20not%20available%20elesewhere/Cool2001.pdf)\]</span>
 
 ARIST chapters are comprehensive literature reviews in a particular
 area. Of interest to us in this chapter is the section on "Situation,
@@ -566,14 +566,14 @@ Contexts, situations, social networks and information horizons. In
 *Exploring the Contexts of Information Behaviour: Proceedings of the
 Second International Conference on Research in Information Needs,
 Seeking and Use in Different Contexts (August 13-15, 1998, Sheffield,
-UK).* Taylor Graham, 176-190. <span class="amcc">\[IN SAKAI\]</span>
+UK).* Taylor Graham, 176-190. <span class="amcc">\[[IN SAKAI](https://sakai.unc.edu/access/content/group/93cbd932-8e11-4297-8da4-d2775bdfe6ab/Resources%20not%20available%20elesewhere/Sonnenwald1999.pdf)\]</span>
 
 This paper provides some foundational definitions. Read the sections on
 context and situations, p178-180.
 
 Taylor, R.S. (1991). Information use environments. *Progress in
 Communication Sciences, 10,* 217-255. \[Davis Library - P87 .P74
-v10\]<span class="amcc">\[IN SAKAI\]</span>
+v10\]<span class="amcc">\[[IN SAKAI](https://sakai.unc.edu/access/content/group/93cbd932-8e11-4297-8da4-d2775bdfe6ab/Resources%20not%20available%20elesewhere/Taylor1991.pdf)\]</span>
 
 This is a classic reading that examines the effects of context on
 information behaviors. Read Section II (p221-233). Then read about one
@@ -583,3 +583,165 @@ beginning with A-D, engineers; last name beginning with G-K,
 legislators; last name beginning with M-S, physicians.
 
 [Additional readings of interest](/literature/#session16)
+
+### Tuesday, October 27 (session \#20): Everyday life information seeking
+
+Due: Preliminary client/population description for [System/Service
+Proposal](/assignments/#proposal)
+
+Savolainen, R. (1995). Everyday life information seeking: Approaching
+information seeking in the context of "way of life". *Library &
+Information Science Research, 17*(3), 259-294. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/0740-8188(95)90048-9)\]
+
+This is the seminal article on everyday life information seeking, which
+is now an important area of information behavior research. One question
+for us is which types of everyday life information needs are we likely
+to be able to address via our current information institutions or
+systems. See the "additional readings" for Savolainen's book on this
+research area, and the Givens (2002) paper on that list for an
+investigation of how much students' academic and everyday information
+needs overlap.
+
+Fisher, K.E., & Naumer, C.M. (2006). Information grounds: Theoretical
+basis and empirical findings on information flow in social settings. In
+Spink, A., & Cole, C. (eds.), *New Directions in Human Information
+Behavior.* Springer, 93-111. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://www.springerlink.com/content/wt562p022j224760/fulltext.pdf)\]
+
+Fisher and her students have been developing the concept of an
+information ground. This chapter reviews several of her studies that
+address the definition of this concept. For an example of a single
+well-developed study of information grounds, see the JASIST (2004)
+article on the "additional readings" list.
+
+McKenzie, P.J. (2003). A model of information practices in accounts of
+everyday-life information seeking. *Journal of Documentation, 59*(1),
+19-40. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/00220410310457993)\]
+
+The model proposed by McKenzie adds a social dimension to our thinking
+about everyday life information seeking behaviors.
+
+[Additional readings of interest](/literature/#session18)
+
+### Thursday, October 29 (session \#21): Incidental information acquisition; Browsing and serendipity
+
+Bawden, D. (2011). Encountering on the road to Serendip? Browsing in new
+information environments. In Foster, A., & Rafferty, P. (eds.),
+*Innovations in Information Retrieval: Perspectives for Theory and
+Practice.* London: Facet Publishing, 1-22. \[SILS Library - Z699 .I56
+2011\]<span class="amcc">\[WILL ADD TO SAKAI\]</span>
+
+Bawden argues that browsing behaviors pre-Web may have different
+characteristics that browsing on the Web. He provides an extensive
+review of the relevant literature.
+
+Bates, M.J. (1989). The design of browsing and berrypicking techniques
+for the online search interface. *Online Review, 13*(5), 407-424. <span
+class="amcc">\[WILL ADD TO SAKAI\]</span>
+
+Skim quickly, to get her idea of berrypicking as a metaphor for
+information seeking. Also, pay special attention to the techniques
+listed on page 412; you're expected to incorporate all of them in your
+searching for Assignment 3.
+
+Bates, M.J. (2007). What is browsing -- really? A model drawing from
+behavioural science research. *Information Research, 12*(4), Paper 330.
+\[<http://informationr.net/ir/12-4/paper330.html>\]
+
+Bates take a very fine-grained look at browsing behaviors and finds a
+series of four steps: "1) glimpsing a field of vision, 2) selecting or
+sampling a physical or informational object within the field of vision,
+3) examining the object, 4) acquiring the object (conceptually and/or
+physically) or abandoning it."
+
+[Additional readings of interest](/literature/#session19)
+
+### Tuesday, November 3 (session \#22): Collaborative search and delegated or imposed queries
+
+Due: Preliminary proposal description for [System/Service
+Proposal](/assignments/#proposal)
+
+Talja, S., & Hansen, P. (2006). Information sharing. In Spink, A., &
+Cole, C. (eds.), *New Directions in Human Information Behavior, Vol. 8.*
+Springer, 113-134. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1007/1-4020-3670-1_7)\]
+
+After providing some context and definitions, Talja and Hansen review
+the research that has been conducted on collaborative information
+behaviors/practices, then conclude with a discussion of CIB as a social
+practice. Skim sections 1 and 2, then focus your reading on section 3.
+500-optionalreading.html
+Evans, B.M., & Chi, E.H. (2010). An elaborated model of social search.
+*Information Processing & Management, 46*(6), 656-678. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2009.10.012)\]
+
+Based on two surveys of Mechanical Turkers, the authors propose a social
+model of user activities before, during, and after a search episode.
+Skim the first 3 sections; read section 4 closely enough so that you
+understand Figure 2.
+
+Gross, M. (1995). The imposed query. *RQ, 35*(2), 236-243. <span
+class="amcc">\[WILL ADD TO SAKAI\]</span>
+
+This is Gross's seminal work on the imposed query, defined as "the
+acquisition of information in service to or on behalf of someone else"
+(p.236). If you have time, also skim through one of the articles on
+health information seeking in the "additional readings" list.
+
+[Additional readings of interest](/literature/#session20)
+
+Unit 6: Intermediation and Dis-intermediation in Information-Seeking
+--------------------------------------------------------------------
+
+### Thursday, November 5 (session \#23): Human intermediaries: Reference and help desk services
+
+Crabtree, A., O'Neill, J., Tolmie, P., Castellani, S., Colombino, T., &
+Grasso, A. (2006). The practical indispensability of articulation work
+to immediate and remote help-giving. *CSCW '06: Proceedings of the 2006
+Concference on Computer Supported Cooperative Work,* 219-228. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1145/1180875.1180910)\]
+
+This paper argues that the design of remote help-giving systems should
+be grounded in the methodical ways in which help-givers and help-seekers
+coordinate their problem solving activities. They call this coordination
+process, "articulation work".
+
+Agosto, D.E., Rozaklis, L., MacDonald, C., & Abels, E.G. (2011). A model
+of the reference and information service process: An educators'
+perspective. *Reference & User Services Quarterly, 50*(3), 235-244.
+\[[UNC
+libraries](https://auth.lib.unc.edu/ezproxy_auth.php?url=http://search.ebscohost.com/login.aspx?direct=true&db=eft&AN=503013635&site=ehost-live&scope=site)\]
+
+Based on focus groups and town hall meetings, six trends in reference
+services were identified. Of particular interest to us for today's
+discussion are the results related to reference services as a
+collaborative process (p239), but do make sure you understand the other
+trends, too.
+
+Ellis, D., Wilson, T.D., Ford, N., Foster, A., Lam, H.M., Burton, R., &
+Spink, A. (2002). Information seeking and mediated searching. Part 5.
+User-intermediary interaction. *Journal of the American Society for
+Information Science & Technology, 53*(11), 883-893. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.10133)\]
+
+Twenty-five interactions between information seekers and intermediaries
+were examined. The interaction had a positive impact on the search
+process. Specifically, the intermediary helped the users to identify
+their search terms more clearly and focus on the references obtained.
+Focus your reading on the study itself; just skim the literature review.
+
+Shah, C., & Kitzie, V. (2012). Social Q&A and virtual reference --
+Comparing apples and oranges with the help of experts and users.
+*Journal of the American Society for Information Science & Technology,
+63*(10), 2020-2036. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22699)\]
+
+Both experts and users were interviewed about their experiences with
+asking questions online. In particular, they were asked to evaluate
+their experiences with both social Q&A site and virtual reference
+services, in relation to relevance, quality, and satisfaction. This
+reading foreshadows an upcoming discussion.
+
+[Additional readings of interest](/literature/#session21)
