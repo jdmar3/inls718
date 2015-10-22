@@ -22,11 +22,11 @@ Summary of due dates
     -   Description of population and setting of interest: due Thursday, 24 September
     -   Intermediate deliverables:
         -   Preliminary literature search plan: due Thursday, 1 October
-        -   Preliminary client description: due Thursday, 22 October
-        -   Preliminary proposal description: due Thursday, 29 October
-    -   Final deliverable: due Thursday, 12 November
+        -   Preliminary client description: due Tuesday, 27 October
+        -   Preliminary proposal description: due Tuesday, 3 November
+    -   Final deliverable: due Tuesday, 17 November
 -   [\#4, Analysis of Scholarly Communication]({{ base.url }}/assignments/04/) (20%)
-    -   Bibliography: due Thursday, 19 November
+    -   Bibliography: due Tuesday, 24 November
     -   Paper: due Thursday, 10 December at NOON
 -   [Participation](#participation) (10%)
 

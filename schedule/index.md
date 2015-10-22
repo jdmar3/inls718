@@ -160,7 +160,7 @@ are listed among the optional readings for today.
 
 Belkin, N. (1980). Anomalous states of knowledge as a basis for
 information retrieval. *Canadian Journal of Information Science,
-5*,133-143. <span class="amcc">\[WILL ADD TO SAKAI\]</span>
+5*,133-143. <span class="amcc">\[IN SAKAI\]</span>
 
 This, along with his 1982 *Journal of Documentation* article with Oddy
 and Brooks, are the classic works explaining this concept. It's a
@@ -584,10 +584,12 @@ legislators; last name beginning with M-S, physicians.
 
 [Additional readings of interest](/literature/#session16)
 
-### Tuesday, October 27 (session \#20): Everyday life information seeking
+## Tuesday, October 27
+
+### \#20: Everyday life information seeking
 
 Due: Preliminary client/population description for [System/Service
-Proposal](/assignments/#proposal)
+Proposal](/assignments/03/)
 
 Savolainen, R. (1995). Everyday life information seeking: Approaching
 information seeking in the context of "way of life". *Library &
@@ -625,13 +627,15 @@ about everyday life information seeking behaviors.
 
 [Additional readings of interest](/literature/#session18)
 
-### Thursday, October 29 (session \#21): Incidental information acquisition; Browsing and serendipity
+## Thursday, October 29
+
+### \#21: Incidental information acquisition; Browsing and serendipity
 
 Bawden, D. (2011). Encountering on the road to Serendip? Browsing in new
 information environments. In Foster, A., & Rafferty, P. (eds.),
 *Innovations in Information Retrieval: Perspectives for Theory and
 Practice.* London: Facet Publishing, 1-22. \[SILS Library - Z699 .I56
-2011\]<span class="amcc">\[WILL ADD TO SAKAI\]</span>
+2011\]<span class="amcc">\[IN SAKAI\]</span>
 
 Bawden argues that browsing behaviors pre-Web may have different
 characteristics that browsing on the Web. He provides an extensive
@@ -639,7 +643,7 @@ review of the relevant literature.
 
 Bates, M.J. (1989). The design of browsing and berrypicking techniques
 for the online search interface. *Online Review, 13*(5), 407-424. <span
-class="amcc">\[WILL ADD TO SAKAI\]</span>
+class="amcc">\[IN SAKAI\]</span>
 
 Skim quickly, to get her idea of berrypicking as a metaphor for
 information seeking. Also, pay special attention to the techniques
@@ -658,10 +662,12 @@ physically) or abandoning it."
 
 [Additional readings of interest](/literature/#session19)
 
-### Tuesday, November 3 (session \#22): Collaborative search and delegated or imposed queries
+## Tuesday, November 3
+
+### \#22: Collaborative search and delegated or imposed queries
 
 Due: Preliminary proposal description for [System/Service
-Proposal](/assignments/#proposal)
+Proposal](/assignments/03/)
 
 Talja, S., & Hansen, P. (2006). Information sharing. In Spink, A., &
 Cole, C. (eds.), *New Directions in Human Information Behavior, Vol. 8.*
@@ -683,7 +689,7 @@ Skim the first 3 sections; read section 4 closely enough so that you
 understand Figure 2.
 
 Gross, M. (1995). The imposed query. *RQ, 35*(2), 236-243. <span
-class="amcc">\[WILL ADD TO SAKAI\]</span>
+class="amcc">\[IN SAKAI\]</span>
 
 This is Gross's seminal work on the imposed query, defined as "the
 acquisition of information in service to or on behalf of someone else"
@@ -692,10 +698,11 @@ health information seeking in the "additional readings" list.
 
 [Additional readings of interest](/literature/#session20)
 
-Unit 6: Intermediation and Dis-intermediation in Information-Seeking
---------------------------------------------------------------------
+# Unit 6: Intermediation and Dis-intermediation in Information-Seeking
 
-### Thursday, November 5 (session \#23): Human intermediaries: Reference and help desk services
+## Thursday, November 5 
+
+### \#23: Human intermediaries: Reference and help desk services
 
 Crabtree, A., O'Neill, J., Tolmie, P., Castellani, S., Colombino, T., &
 Grasso, A. (2006). The practical indispensability of articulation work
