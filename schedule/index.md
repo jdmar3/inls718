@@ -169,7 +169,7 @@ attention to his explanation of the specifiability of an information
 need, p136-139, with Figure 3.
 
 Sparck-Jones, K., Robertson, S.E., & Sanderson, M. (2007). Ambiguous
-requests: Implications for retrieval tests, systems and theories*. ACM
+requests: Implications for retrieval tests, systems and theories. *ACM
 SIGIR Forum, 41*(2), 8-17. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1145/1328964.1328965)\]
 
