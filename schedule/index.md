@@ -696,6 +696,10 @@ acquisition of information in service to or on behalf of someone else"
 (p.236). If you have time, also skim through one of the articles on
 health information seeking in the "additional readings" list.
 
+Shah, C., Capra, R., Hansen, P. (2014). Collaborative information seeking [Guest editor's introduction]. *IEEE Computer 47*(3). http://www.computer.org/csdl/mags/co/2014/03/mco2014030022.pdf
+
+This is just for reference in case you want to look at it during class.
+
 [Additional readings of interest](/literature/#session20)
 
 # Unit 6: Intermediation and Dis-intermediation in Information-Seeking
