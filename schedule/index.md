@@ -678,7 +678,7 @@ After providing some context and definitions, Talja and Hansen review
 the research that has been conducted on collaborative information
 behaviors/practices, then conclude with a discussion of CIB as a social
 practice. Skim sections 1 and 2, then focus your reading on section 3.
-500-optionalreading.html
+
 Evans, B.M., & Chi, E.H. (2010). An elaborated model of social search.
 *Information Processing & Management, 46*(6), 656-678. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2009.10.012)\]
