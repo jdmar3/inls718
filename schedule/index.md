@@ -756,3 +756,33 @@ services, in relation to relevance, quality, and satisfaction. This
 reading foreshadows an upcoming discussion.
 
 [Additional readings of interest](/literature/#session21)
+
+## Tuesday, November 10 
+
+### \#24: Information retrieval systems as intermediaries
+
+Marchionini, G., & White, R. (2007). Find what you need, understand what
+you find. *International Journal of Human-Computer Interaction, 23*(3),
+205-238. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1080/10447310701702352)\]
+
+Using Marchionini's model of the information seeking process as a
+framework, this article reviews many aspects of today's IR systems that
+are intended to help searchers succeed.
+
+White, R.W. (2009). Designing information-seeking support systems. In
+*Information Seeking Support Systems: An Invitational Workshop (June
+26-27, 2008, Chapel Hill, NC),* 55-58.
+<http://ils.unc.edu/ISSS/ISSS_final_report.pdf>.
+
+White's very brief paper outlines some of the key challenges yet to be
+addressed in designing information-seeking support systems. Consider
+which of these have been addressed (five years later) and which remain
+as opportunities for design and development.
+
+Parser, E. (2011). Beware online "filter bubbles". TED Talk.
+<http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles.html>.
+
+Parser warns about the dark side of algorithmic search personalization.
+
+[Additional readings of interest](/literature/#session22)
