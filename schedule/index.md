@@ -21,16 +21,16 @@ Class introductions. Review syllabus and course policies. Discussion of invidivi
 
 In class: sign-up for day to present [Evidence Summary](/assignments/#evidencesummary)
 
-These two brief articles were written as part of the 10th anniversary celebration (in 2009) of the Special Interest Group on Information Needs, Seeking, and Use of the American Society for Information Science & Technology. 
+These two brief articles were written as part of the 10th anniversary celebration (in 2009) of the Special Interest Group on Information Needs, Seeking, and Use of the American Society for Information Science &amp; Technology. 
 Together, they provide a brief historical overview of the general directions taken in information behavior research.
 
 Wilson, T.D. (2010). Fifty years of information behavior research.
-*Bulletin of the American Society for Information Science & Technology,
+*Bulletin of the American Society for Information Science &amp; Technology,
 36*(3), 27-34.
 [http://www.asis.org/Bulletin/Feb-10/FebMar10\_Wilson.pdf.](http://www.asis.org/Bulletin/Feb-10/FebMar10_Wilson.pdf)
 
-Wildemuth, B.M., & Case, D.O. (2010). Early information behavior
-research. *Bulletin of the American Society for Information Science &
+Wildemuth, B.M., &amp; Case, D.O. (2010). Early information behavior
+research. *Bulletin of the American Society for Information Science &amp;
 Technology, 36*(3), 35-38.
 <http://www.asis.org/Bulletin/Feb-10/FebMar10_Wildemuth_Case.pdf>.
 
@@ -53,7 +53,7 @@ In this article, Bates discusses the "below-the-water-line" portion of informati
 While she focuses more of her attention on the content/information of concern, she does include human-information interactions among her "Three Big Questions" in information science.
 Read through this article quickly, to get an overview of the field as background for the semester.
 
-Marchionini, G. (2008). Human-information interaction. *Library & Information Science Research, 30*(3), 165-174. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.lisr.2008.07.001)\]
+Marchionini, G. (2008). Human-information interaction. *Library &amp; Information Science Research, 30*(3), 165-174. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.lisr.2008.07.001)\]
 
 Marchionini focuses more directly on the scope of this course. Read through the entire article, but focus special attention on sections 2 and 6.
 
@@ -63,7 +63,7 @@ Marchionini focuses more directly on the scope of this course. Read through the 
 
 ### <span id="session4"></span>\#4 Cognitive approaches to information behaviors
 
-Dinet, J., Chevalier, A., & Tricot, A. (2012). Information search
+Dinet, J., Chevalier, A., &amp; Tricot, A. (2012). Information search
 activity: An overview. *Revue européene de psychologie appliqué,
 62*(2)*,* 49-62. (Read sections 2.1-2.2.1.) \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.erap.2012.03.004)\]
 
@@ -71,7 +71,7 @@ A number of models of information seeking are briefly reviewed here. Of
 particular interest are those described in sections 2.1-2.2.1 (as
 background for understanding the Ingwersen and Järvelin model.)
 
-Ingwersen, P., & Järvelin, K. (2005). *The Turn: Integration of
+Ingwersen, P., &amp; Järvelin, K. (2005). *The Turn: Integration of
 Information Seeking and Retrieval in Context.*Springer. \[[UNC libraries
 - electronic
 resource](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org.libproxy.lib.unc.edu/10.1007/1-4020-3851-8)\]
@@ -89,7 +89,7 @@ other parts of chapter 6 if you have time.)
 
 ### <span id="session5"></span>\#5: Affective approaches
 
-Kuhlthau, C., Heinström, J., & Todd, R.J. (2008). The 'information
+Kuhlthau, C., Heinström, J., &amp; Todd, R.J. (2008). The 'information
 search process' revisited: Is the model still useful? *Information
 Research, 13*(4), Proceedings of the 7th Conference on Information
 Seeking in Context, Vilnius, September 2008).
@@ -103,9 +103,9 @@ process. The model itself is summarized in Figure 1; to read the
 original work on it, see the two Kuhlthau articles listed as optional
 reading, plus her book.
 
-Lopatovska, I., & Arapakis, I. (2011). Theories, methods and current
+Lopatovska, I., &amp; Arapakis, I. (2011). Theories, methods and current
 research on emotions in library and information science, information
-retrieval and human-computer interaction. *Information Processing &
+retrieval and human-computer interaction. *Information Processing &amp;
 Management, 47*(4), 575-592. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2010.09.001)\]
 
 This literature review provides a strong foundation for moving forward
@@ -134,7 +134,7 @@ This chapter summarizes what we know about people's information needs,
 so will provide you with a good overview.
 
 Taylor, R.S. (1968). Question negotiation and information seeking in
-libraries. *College & Research Libraries, 29*(3),178-194. (Read about
+libraries. *College &amp; Research Libraries, 29*(3),178-194. (Read about
 the four levels of "questions," on pages 182-183; we'll come back to the
 rest in a few weeks.) <span class="amcc">\[IN SAKAI\]</span>
 
@@ -144,7 +144,7 @@ visceral, conscious, formalized, and compromised needs.
 
 Savolainen, R. (2006). Information use as gap-bridging: The viewpoint of
 sense-making methodology. *Journal of the American Society for
-Information Science & Technology, 57*(8), 1116-1125. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20400)\]
+Information Science &amp; Technology, 57*(8), 1116-1125. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20400)\]
 
 Brenda Dervin has proposed a Sense-Making Theory to explain how people
 experience information needs and act on them. In this article,
@@ -168,7 +168,7 @@ relatively straightforward concept; I'd like you to pay special
 attention to his explanation of the specifiability of an information
 need, p136-139, with Figure 3.
 
-Sparck-Jones, K., Robertson, S.E., & Sanderson, M. (2007). Ambiguous
+Sparck-Jones, K., Robertson, S.E., &amp; Sanderson, M. (2007). Ambiguous
 requests: Implications for retrieval tests, systems and theories. *ACM
 SIGIR Forum, 41*(2), 8-17. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1145/1328964.1328965)\]
@@ -178,7 +178,7 @@ worries for those of us who want to design effective information
 retrieval systems. You'll enjoy reading this relatively recent
 discussion of the problem by three of the field's leaders.
 
-Nückles, M., & Ertelt, A. (2006). The problem of describing a problem:
+Nückles, M., &amp; Ertelt, A. (2006). The problem of describing a problem:
 Supporting laypersons in presenting their queries to the internet-based
 helpdesk. *International Journal of Human-Computer Studies, 64*(8),
 648-669. (Read sections 1-3, p648-651.) \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ijhcs.2006.01.001)\]
@@ -246,8 +246,8 @@ function of their information needs; Part 2, listed in our optional
 readings, provides more detail on other aspects of their information
 needs.
 
-Gabridge, C., Gaskell, M., & Stout, A. (2008). Information seeking
-through students' eyes: The MIT Photo Diary Study. *College & Research
+Gabridge, C., Gaskell, M., &amp; Stout, A. (2008). Information seeking
+through students' eyes: The MIT Photo Diary Study. *College &amp; Research
 Libraries, 69*(6), 510-523. \[[UNC
 libraries](http://crl.acrl.org/content/69/6/510.full.pdf+html)\]
 
@@ -265,7 +265,7 @@ Information-Seeking
 ### <span id="session10"></span>\#10: Selection of information sources
 
 Savolainen, R. (2008). Source preferences in the context of seeking
-problem-specific information. *Information Processing & Management,
+problem-specific information. *Information Processing &amp; Management,
 44*(1): 274-293. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2007.02.008)\]
 
@@ -274,10 +274,10 @@ information pathway to study the sources people use in resolving
 everyday information needs. You'll want to read the entire paper, to get
 a good feel for both the concepts and his findings.
 
-Lu, L, & Yuan, Y.C. (2011). Shall I Google it or ask the competent
+Lu, L, &amp; Yuan, Y.C. (2011). Shall I Google it or ask the competent
 villain down the hall? The moderating role of information need in
 information source selection. *Journal of the American Society for
-Information Science & Technology, 62*(1), 133-145. \[[UNC
+Information Science &amp; Technology, 62*(1), 133-145. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.21449)\]
 
 This study looks at the tradeoffs that people make when selecting an
@@ -308,16 +308,16 @@ fact retrieval, known item searches, etc.) and incorporates searches
 conducted for the purposes of learning and investigating. A few examples
 of systems that support exploratory search are presented.
 
-Vakkari, P., & Huuskonen, S. (2012). Search effort degrades search
+Vakkari, P., &amp; Huuskonen, S. (2012). Search effort degrades search
 output but improves task outcome. *Journal of the American Society for
-Information Science & Technology, 63*(4), 657-670. \[[UNC
+Information Science &amp; Technology, 63*(4), 657-670. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.21683)\]
 
 Unlike most studies of searching, this study goes beyond the link
 between search behaviors and search results and also examines the link
 between search results and task outcomes.
 
-Saarinen, K., & Vakkari, P. (2013). A sign of a good book: Readers'
+Saarinen, K., &amp; Vakkari, P. (2013). A sign of a good book: Readers'
 methods of accessing fiction in the public library. *Journal of
 Documentation, 69*(5), 736-754. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/JD-04-2012-0041)\]
@@ -343,11 +343,11 @@ were collected, and what conclusions were drawn.
 
 Rieh, S.Y. (2002). Judgment of information quality and cognitive
 authority in the Web. *Journal of the American Society for Information
-Science & Technology, 53*(2), 145-161. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.10017)\]
+Science &amp; Technology, 53*(2), 145-161. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.10017)\]
 
-Tombros, A., Ruthven, I., & Jose, J.M. (2005). How users assess web
+Tombros, A., Ruthven, I., &amp; Jose, J.M. (2005). How users assess web
 pages for information seeking. *Journal of the American Society for
-Information Science & Technology, 56*(4), 327-344. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20106)\]
+Information Science &amp; Technology, 56*(4), 327-344. \[[UNC libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20106)\]
 
 [Additional readings of interest](/literature/#session11)
 
@@ -361,7 +361,7 @@ Saracevic, T. (2007). Relevance: A review of the literature and a
 framework for thinking on the notion in information science. Part II:
 Nature and manifestations of relevance, \[and\] Part III: Behavior and
 effects of relevance. *Journal of the American Society for Information
-Science & Technology, 58*(13), 1915-1933, 2126-2144. \[UNC libraries:
+Science &amp; Technology, 58*(13), 1915-1933, 2126-2144. \[UNC libraries:
 [Part
 II](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20682),
 [Part
@@ -372,7 +372,7 @@ this update, he provides a really-compact overview of a huge amount of
 the literature on relevance. Read these two parts for the primary
 concepts, not necessarily for the nuanced details.
 
-Xie, I., & Benoit, E., III. (2013). Search result list evaluation versus
+Xie, I., &amp; Benoit, E., III. (2013). Search result list evaluation versus
 document evaluation: Similarities and differences. *Journal of
 Documentation, 69*(1), 49-80. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/00220411311295324)\]
@@ -407,20 +407,20 @@ of e-book features. *Electronic Library, 31*(3), 329-344. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/EL-08-2011-0127)\]
 
 2. *Using information from PubMed to help solve neuroscience problems:*
-Mirel, B., Tonks, J.S., Song, J., Meng, F., Xuan, W., & Ameziane, R.
+Mirel, B., Tonks, J.S., Song, J., Meng, F., Xuan, W., &amp; Ameziane, R.
 (2013). Studying PubMed usages in the field for complex problem solving:
 Implications for tool design. *Journal of the American Society for
-Information Science & Technology, 64*(5), 874-892. \[[UNC
+Information Science &amp; Technology, 64*(5), 874-892. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22796)\]
 
 3. *Discussing found information with a physician or using it to improve
-one's health:* Warner, D., & Procaccino, J.D. (2004). Toward wellness:
+one's health:* Warner, D., &amp; Procaccino, J.D. (2004). Toward wellness:
 Women seeking health information. *Journal of the American Society for
-Information Science & Technology, 55*(8), 709-730. \[[UNC
+Information Science &amp; Technology, 55*(8), 709-730. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20016)\]
 
 4. *Eight different ways that information is used within organizational
-contexts:* Choo, C.W., Bergeron, P., Detlor, B., & Heaton, L. (2008).
+contexts:* Choo, C.W., Bergeron, P., Detlor, B., &amp; Heaton, L. (2008).
 Information culture and information use: An exploratory study of three
 organizations. *Journal of the American Society for Information Science
 & Technology, 59*(5), 792-804. \[[UNC
@@ -428,14 +428,14 @@ libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.2
 
 5. *Packaging and sharing information with stakeholders:* Mutshewa, A.
 (2010). The use of information by environmental planners: A qualitative
-study using Grounded Theory methodology. *Information Processing &
+study using Grounded Theory methodology. *Information Processing &amp;
 Management, 46*(2), 212-232. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2009.09.006)\]
 
 6. *Use of images for the information they provide or as illustrations:*
-McCay-Pett, L., & Toms, E. (2009). Image use within the work task model:
+McCay-Pett, L., &amp; Toms, E. (2009). Image use within the work task model:
 Images as information and illustration. *Journal of the American Society
-for Information Science & Technology, 60*(12), 2416-2429. \[[UNC
+for Information Science &amp; Technology, 60*(12), 2416-2429. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.21202)\]
 
 7. *Use of images by four different groups of users*: Beaudoin, J.E.
@@ -447,7 +447,7 @@ libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/JD-12
 8. *Selection and use of particular pieces of information in house
 listings:* Savolainen, R. (2009). Interpreting informational cues: An
 explorative study on information use among prospective homebuyers.
-*Journal of the American Society for Information Science & Technology,
+*Journal of the American Society for Information Science &amp; Technology,
 60*(11), 2244-2254. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.21167)\]
 
@@ -455,7 +455,7 @@ libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.2
 
 EVERYONE read both of these:
 
-Capra, R., & Pérez-Quiñones, M.A. (2005). Using Web search engines to
+Capra, R., &amp; Pérez-Quiñones, M.A. (2005). Using Web search engines to
 find and refind information. *IEEE Computer, 38*(10), 36-42. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1109/MC.2005.355)\]
 
@@ -463,7 +463,7 @@ Finding and refinding present different user challenges. Synthesizing
 results from one of their studies with related work, the authors propose
 a search engine use model based on prior task frequency and familiarity.
 
-Jones, W., Bruce, H., & Dumais, S. (2001). Keeping found things found on
+Jones, W., Bruce, H., &amp; Dumais, S. (2001). Keeping found things found on
 the Web. *Proceedings of the 10th International Conference on
 Information and Knowledge Management,* 119-126. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1145/502585.502607)\]
@@ -486,7 +486,7 @@ Chatman draws on results from four previous studies to identify four
 concepts that serve as a basis for defining information poverty:
 risk-taking, secrecy, deception, and situational relevance.
 
-Bawden, D., & Robinson, L. (2009). The dark side of information:
+Bawden, D., &amp; Robinson, L. (2009). The dark side of information:
 Overload, anxiety and other paradoxes and pathologies. *Journal of
 Information Science, 35*(2), 180-191. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1177/0165551508095781)\]
@@ -519,23 +519,23 @@ searching in the home environment. *Journal of the American Society for
 Information Science and Technology, 55*(8), 743-753. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20018)\]
 
-2. Ellis, D., Cox, D., & Hall, K. (1993). A comparison of the information
+2. Ellis, D., Cox, D., &amp; Hall, K. (1993). A comparison of the information
 seeking patterns of researchers in the physical and social sciences.
 *Journal of Documentation, 49*(4), 356-369. \[SILS Library\]<span
 class="amcc">\[IN SAKAI\]</span>
 
-3. Baldwin, N.S., & Rice, R.E. (1997). Information-seeking behavior of
+3. Baldwin, N.S., &amp; Rice, R.E. (1997). Information-seeking behavior of
 securities analysts: Individual and institutional influences,
 information sources and channels, and outcomes. *Journal of the
 American Society for Information Science, 48*(8), 674-693. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/(SICI)1097-4571(199708)48:8<674::AID-ASI2>3.0.CO;2-P)\]
     
-4. Sahu, H.K., & Singh, S.N. (2013). Information seeking behaviour of
+4. Sahu, H.K., &amp; Singh, S.N. (2013). Information seeking behaviour of
 astronomy/astrophysics scientists. *Aslib Proceedings,
 65*(2), 109-142. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/00012531311313961)\]
     
-5. Costello, K. L., & Murillo, A. P. (2014). “I want your kidney!” Information seeking, sharing, and disclosure when soliciting a kidney donor online. *Patient Education and Counseling, 94*(3), 423–426. http://doi.org/10.1016/j.pec.2013.11.009
+5. Costello, K. L., &amp; Murillo, A. P. (2014). “I want your kidney!” Information seeking, sharing, and disclosure when soliciting a kidney donor online. *Patient Education and Counseling, 94*(3), 423–426. http://doi.org/10.1016/j.pec.2013.11.009
 
 6. Potnis, D. D. (2015). Beyond Access to Information: Understanding the Use of Information by Poor Female Mobile Users in Rural India. *The Information Society, 31*(1), 83–93. http://doi.org/10.1080/01972243.2014.976687
 
@@ -549,7 +549,7 @@ libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1080/01972
 ### <span id="session19"></span>\#19: Domain, disciplinary, and organizational context, continued
 
 Cool, C. (2001). The concept of situation in information science.
-*Annual Review of Information Science & Technology, 35,* 5-42*.* \[SILS
+*Annual Review of Information Science &amp; Technology, 35,* 5-42*.* \[SILS
 Library Reference - Z699.A1 A65 v.35\]<span class="amcc">\[[IN SAKAI](https://sakai.unc.edu/access/content/group/93cbd932-8e11-4297-8da4-d2775bdfe6ab/Resources%20not%20available%20elesewhere/Cool2001.pdf)\]</span>
 
 ARIST chapters are comprehensive literature reviews in a particular
@@ -592,7 +592,7 @@ Due: Preliminary client/population description for [System/Service
 Proposal](/assignments/03/)
 
 Savolainen, R. (1995). Everyday life information seeking: Approaching
-information seeking in the context of "way of life". *Library &
+information seeking in the context of "way of life". *Library &amp;
 Information Science Research, 17*(3), 259-294. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/0740-8188(95)90048-9)\]
 
@@ -605,9 +605,9 @@ research area, and the Givens (2002) paper on that list for an
 investigation of how much students' academic and everyday information
 needs overlap.
 
-Fisher, K.E., & Naumer, C.M. (2006). Information grounds: Theoretical
+Fisher, K.E., &amp; Naumer, C.M. (2006). Information grounds: Theoretical
 basis and empirical findings on information flow in social settings. In
-Spink, A., & Cole, C. (eds.), *New Directions in Human Information
+Spink, A., &amp; Cole, C. (eds.), *New Directions in Human Information
 Behavior.* Springer, 93-111. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://www.springerlink.com/content/wt562p022j224760/fulltext.pdf)\]
 
@@ -632,7 +632,7 @@ about everyday life information seeking behaviors.
 ### \#21: Incidental information acquisition; Browsing and serendipity
 
 Bawden, D. (2011). Encountering on the road to Serendip? Browsing in new
-information environments. In Foster, A., & Rafferty, P. (eds.),
+information environments. In Foster, A., &amp; Rafferty, P. (eds.),
 *Innovations in Information Retrieval: Perspectives for Theory and
 Practice.* London: Facet Publishing, 1-22. \[SILS Library - Z699 .I56
 2011\]<span class="amcc">\[IN SAKAI\]</span>
@@ -669,7 +669,7 @@ physically) or abandoning it."
 Due: Preliminary proposal description for [System/Service
 Proposal](/assignments/03/)
 
-Talja, S., & Hansen, P. (2006). Information sharing. In Spink, A., &
+Talja, S., &amp; Hansen, P. (2006). Information sharing. In Spink, A., &amp;
 Cole, C. (eds.), *New Directions in Human Information Behavior, Vol. 8.*
 Springer, 113-134. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1007/1-4020-3670-1_7)\]
@@ -679,8 +679,8 @@ the research that has been conducted on collaborative information
 behaviors/practices, then conclude with a discussion of CIB as a social
 practice. Skim sections 1 and 2, then focus your reading on section 3.
 
-Evans, B.M., & Chi, E.H. (2010). An elaborated model of social search.
-*Information Processing & Management, 46*(6), 656-678. \[[UNC
+Evans, B.M., &amp; Chi, E.H. (2010). An elaborated model of social search.
+*Information Processing &amp; Management, 46*(6), 656-678. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2009.10.012)\]
 
 Based on two surveys of Mechanical Turkers, the authors propose a social
@@ -708,7 +708,7 @@ This is just for reference in case you want to look at it during class.
 
 ### \#23: Human intermediaries: Reference and help desk services
 
-Crabtree, A., O'Neill, J., Tolmie, P., Castellani, S., Colombino, T., &
+Crabtree, A., O'Neill, J., Tolmie, P., Castellani, S., Colombino, T., &amp;
 Grasso, A. (2006). The practical indispensability of articulation work
 to immediate and remote help-giving. *CSCW '06: Proceedings of the 2006
 Concference on Computer Supported Cooperative Work,* 219-228. \[[UNC
@@ -719,9 +719,9 @@ be grounded in the methodical ways in which help-givers and help-seekers
 coordinate their problem solving activities. They call this coordination
 process, "articulation work".
 
-Agosto, D.E., Rozaklis, L., MacDonald, C., & Abels, E.G. (2011). A model
+Agosto, D.E., Rozaklis, L., MacDonald, C., &amp; Abels, E.G. (2011). A model
 of the reference and information service process: An educators'
-perspective. *Reference & User Services Quarterly, 50*(3), 235-244.
+perspective. *Reference &amp; User Services Quarterly, 50*(3), 235-244.
 \[[UNC
 libraries](https://auth.lib.unc.edu/ezproxy_auth.php?url=http://search.ebscohost.com/login.aspx?direct=true&db=eft&AN=503013635&site=ehost-live&scope=site)\]
 
@@ -731,10 +731,10 @@ discussion are the results related to reference services as a
 collaborative process (p239), but do make sure you understand the other
 trends, too.
 
-Ellis, D., Wilson, T.D., Ford, N., Foster, A., Lam, H.M., Burton, R., &
+Ellis, D., Wilson, T.D., Ford, N., Foster, A., Lam, H.M., Burton, R., &amp;
 Spink, A. (2002). Information seeking and mediated searching. Part 5.
 User-intermediary interaction. *Journal of the American Society for
-Information Science & Technology, 53*(11), 883-893. \[[UNC
+Information Science &amp; Technology, 53*(11), 883-893. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.10133)\]
 
 Twenty-five interactions between information seekers and intermediaries
@@ -743,25 +743,13 @@ process. Specifically, the intermediary helped the users to identify
 their search terms more clearly and focus on the references obtained.
 Focus your reading on the study itself; just skim the literature review.
 
-Shah, C., & Kitzie, V. (2012). Social Q&A and virtual reference --
-Comparing apples and oranges with the help of experts and users.
-*Journal of the American Society for Information Science & Technology,
-63*(10), 2020-2036. \[[UNC
-libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22699)\]
-
-Both experts and users were interviewed about their experiences with
-asking questions online. In particular, they were asked to evaluate
-their experiences with both social Q&A site and virtual reference
-services, in relation to relevance, quality, and satisfaction. This
-reading foreshadows an upcoming discussion.
-
 [Additional readings of interest](/literature/#session21)
 
 ## Tuesday, November 10 
 
 ### \#24: Information retrieval systems as intermediaries
 
-Marchionini, G., & White, R. (2007). Find what you need, understand what
+Marchionini, G., &amp; White, R. (2007). Find what you need, understand what
 you find. *International Journal of Human-Computer Interaction, 23*(3),
 205-238. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1080/10447310701702352)\]
@@ -786,3 +774,47 @@ Parser, E. (2011). Beware online "filter bubbles". TED Talk.
 Parser warns about the dark side of algorithmic search personalization.
 
 [Additional readings of interest](/literature/#session22)
+
+## Thursday, November 12
+
+### \#25: Social intermediation: Recommender systems, social Q&amp;A, etc.
+
+In class: Form teams for [In-Depth Analysis of an Example of Scholarly
+Communication](/assignments/#scholcomm)
+
+Eysenbach, G. (2007). From intermediation to disintermediation and
+apomediation: New models for consumers to access and assess the
+credibility of health information in the age of Web 2.0. In *MEDINFO
+2007 Proceedings.* IOS Press, 162-166. \[SILS Library - R858 .A2 M4157
+2007\]<span class="amcc">\[WILL ADD TO SAKAI\]</span>
+
+Through the social process of disintermediation, traditional
+intermediaries are replaced by what Eysenbach calls apomediaries (online
+tools and peers that will guide information seekers to trustworthy
+information). While Eysenbach is focused on the medical domain, his
+views may apply equally well to other domains.
+
+Shah, C., &amp; Kitzie, V. (2012). Social Q&amp;A and virtual reference --
+Comparing apples and oranges with the help of experts and users.
+*Journal of the American Society for Information Science &amp; Technology,
+63*(10), 2020-2036. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22699)\]
+
+This study examined both social Q&amp;A systems and libraries' virtual
+reference systems, from the perspectives of librarians and students in
+relation to the relevance, quality, and satisfication of interacting
+with each type of system. You read this article for last week, so you
+just need to refresh your memory of it.
+
+Wakeling, S., Clough, P., Sen, B., &amp; Connaway, L.S. (2012). "Readers who
+borrowed this also borrowed...": Recommender systems in UK libraries.
+*Library Hi Tech, 30*(1), 134-150. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1108/07378831211213265)\]
+
+The authors first review different models of recommender systems
+(content-based, collaborative filtering, and knowledge-based) and the
+report on a study comparing several existing recommender systems for
+libraries. For more on the technology of recommender systems, read the
+Schafer et al. (2007) chapter on the additional readings list.
+
+[Additional readings of interest](/literature/#session23)
