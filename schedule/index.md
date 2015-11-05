@@ -731,6 +731,18 @@ discussion are the results related to reference services as a
 collaborative process (p239), but do make sure you understand the other
 trends, too.
 
+Shah, C., &amp; Kitzie, V. (2012). Social Q&amp;A and virtual reference --
+Comparing apples and oranges with the help of experts and users.
+*Journal of the American Society for Information Science &amp; Technology,
+63*(10), 2020-2036. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22699)\]
+
+Both experts and users were interviewed about their experiences with
+asking questions online. In particular, they were asked to evaluate
+their experiences with both social Q&amp;A site and virtual reference
+services, in relation to relevance, quality, and satisfaction. This
+reading foreshadows an upcoming discussion.
+
 Ellis, D., Wilson, T.D., Ford, N., Foster, A., Lam, H.M., Burton, R., &amp;
 Spink, A. (2002). Information seeking and mediated searching. Part 5.
 User-intermediary interaction. *Journal of the American Society for
