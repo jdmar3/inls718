@@ -869,11 +869,88 @@ provides a higher-level view of the scientific/research enterprise.
 
 You will have today off to work on your final assignment planning with your group. 
 
-### \#27: 
-
 ## Tuesday, November 24
 
-### \#28: 
+### \#27: Metrics of scholarly productivity; The invisible college: discovery and representation
+
+Due: List of articles for [In-Depth Analysis of an Example of Scholarly
+Communication](/assignments/#scholcomm)
+
+Read the first two articles and each group will read one of the last five listed for today, based on your method for the final project.
+
+Smith, L.C. (1981). Citation analysis. *Library Trends, 30*(1), 83-106.
+<span class="amcc">\[WILL ADD TO SAKAI\]</span>
+
+Though this article is older, it is not really outdated as a clear
+introduction to the use of citation data for both assessing scholarly
+productivity and for mapping the relationships among scholars.
+
+Chang, Y.-W. (2013). The influence of Taylor's paper,
+*Question-Negotiation and Information-Seeking in Libraries. Information
+Processing & Management, 49*(5), 983-994. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2013.03.003)\]
+
+Chang conducted a bibliometric analysis of a paper with which you're vey
+familiar by now: Taylor's 1968 paper. Your completion of Assignment 4
+will be similar to Chang's work, though on a much smaller scale.
+
+Priem, J., & Hemminger, B.M. (2010). Scientometrics 2.0: Toward new
+metrics of scholarly impact on the social Web. *First Thursday, 15*(7).
+<http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2874/2570>.
+
+The evaluation of scholarly productivity with citation (i.e.,
+bibliometric) data is often called scientometrics. In this paper, the
+authors describe and discuss several alternative metrics (based on
+social bookmarking or microblogging) that could provide a more complete
+picture of a scholar's impact.
+
+Priem, J. (2013). Scholarship: Beyond the paper. *Nature, 495*(7442),
+437-440.
+<http://www.nature.com/nature/journal/v495/n7442/full/495437a.html>.
+
+Priem argues that the journal and article are being superseded by
+algorithms that filter, rate and disseminate scholarship as it happens.
+
+Goodrum, A.A., McCain, K.W., Lawrence, S., & Giles, C.L. (2001).
+Scholarly publishing in the internet age: A citation analysis of
+computer science literature. *Information Processing & Management,
+37*(5), 661-675. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/S0306-4573(00)00047-9)\]
+
+Data on citations to the computer science literature were collected
+through CiteSeer and through Web of Science (then, SCISEARCH). The goal
+was to develop an overall description of the computer science
+literature. For this article, skim section 1, focus a bit on the methods
+they used (section 2) and their findings (section 3) and skim section 4.
+
+White, H.D. (2003). Pathfinder networks and author cocitation analysis:
+A remapping of paradigmatic information scientists. *Journal of the
+American Society for Information Science & Technology, 54*(5), 423-434.
+\[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.10228)\]
+
+Updates his earlier work with Kate McCain, visualizing information
+science. He briefly reviews the methods used in the previous work, but
+focuses on introducing the advantages of a new approach to cocitation
+analysis: Pathfinder networks. Focus your reading on two sections: "ACA
+Mapping" and "PFNETs and Their Advantages." Also study the figures, and
+skim the text around them in enough depth to get a basic understanding
+of what the figures mean.
+
+Haythornthwaite, C. (1996). Social network analysis: An approach and
+technique for the study of information exchange. *Library & Information
+Science Research, 18,* 323-342. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/S0740-8188(96)90003-1)\]
+
+This is a fairly brief tutorial on the basic concepts and methods of
+social network analysis, with a discussion of how they can be used to
+study the exchange of information. Be sure you understand all the basic
+concepts described on pages 323-331; then you can skim lightly to page
+338, then focus on the last section (pages 338-340).
+
+Additional readings of interest:
+[metrics](/literature/#session25) and
+[future](/literature/#session26)
 
 ## Thursday, November 26
 
@@ -881,7 +958,23 @@ You will have today off to work on your final assignment planning with your grou
 
 ## Tuesday, December 1
 
-### \#29: 
+### \#28: Diffusion theory, information, the future
+
+Rogers, E. (1995). *Diffusion of Innovations.* 4th ed. New York: Free
+Press. \[SILS Library Reserves - HM101 .R57 1995\]<span
+class="amcc">\[WILL ADD TO SAKAI\]</span>: a copy of relevant sections
+of Chapter 1 and Chapter 10 in Sakai Resources
+
+We'll read only a portion of the first chapter (page 5, beginning with
+the section on "What is diffusion?" through page 31, before the "hybrid
+corn" example; skip the "scurvy" boxed example if you need to limit your
+time on this). This is an overview chapter and introduces most of the
+basic concepts of diffusion theory. Also examine Figure 5-1 on page 163;
+it provides an overview of the stages of the innovation decision
+process. If you have any extra time at all, also read pages 389-400,
+"The innovation process in organizations".
+
+[Additional readings of interest](/literature/#session27)
 
 ## Thursday, December 3
 
@@ -893,5 +986,7 @@ You will have today off to work on your final assignment planning with your grou
 
 ## Thursday, December 10
 
-*EXAM DAY*
+*SCHEDULED EXAM DAY*
+
+Final assignment due at NOON.
 
