@@ -830,3 +830,68 @@ libraries. For more on the technology of recommender systems, read the
 Schafer et al. (2007) chapter on the additional readings list.
 
 [Additional readings of interest](/literature/#session23)
+
+# Scholarly Communication
+
+## Tuesday, November 17
+
+### \#26: Scholarly work and the role of scholarly communication
+
+Bush, V. (1945). As we may think. *Atlantic Monthly, 176*(1), 101-108.
+\[Reprinted in [*interactions, 3*(2), 35-46, March
+1996](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1145/227181.227186)\]
+
+This is the famous article in which Bush outlines his ideas for the
+Memex, a personal knowledge base to be used by scientists. His ideas
+about the way a scientist could record an "intricate web of trails" that
+reflect his/her thinking foreshadow the development of hypertext and,
+later, the Web. It is primarily of historic interest, but every
+well-educated ILS professional should have read it. So take a look. If
+you've read it before, focus your attention on sections 5-6 (p41-44).
+
+Bornmann, L., & Marx, W. (2012). The Anna Karenina principle: A way of
+thinking about success in science. *Journal of American Society for
+Information Science & Technology*, *63*(10), 2037-2051. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22661)\]
+
+This article focuses on success in science in terms of peer review,
+citations, and new scientific discoveries. The authors argue that the
+scientific enterprise can be successful only if several key
+prerequisites for the allocation of resources (e.g., journal space,
+funds, reception, and recognition) are fulfilled. Overall, this article
+provides a higher-level view of the scientific/research enterprise.
+
+[Additional readings of interest](/literature/#session24)
+
+## Thursday, November 19
+
+*WORK DAY*
+
+You will have today off to work on your final assignment planning with your group. 
+
+### \#27: 
+
+## Tuesday, November 24
+
+### \#28: 
+
+## Thursday, November 26
+
+*NO CLASS: Thanksgiving*
+
+## Tuesday, December 1
+
+### \#29: 
+
+## Thursday, December 3
+
+*READING DAY*
+
+## Tuesday, December 8
+
+*READING DAY*
+
+## Thursday, December 10
+
+*EXAM DAY*
+
