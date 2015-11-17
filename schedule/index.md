@@ -861,6 +861,30 @@ prerequisites for the allocation of resources (e.g., journal space,
 funds, reception, and recognition) are fulfilled. Overall, this article
 provides a higher-level view of the scientific/research enterprise.
 
+I will discuss the following articles, but you do not have to read them unless you want more depth on this topic:
+
+Palmer, C.L. (2005). Scholarly work and the shaping of digital access.
+*Journal of American Society for Information Science & Technology*,
+*56*(11), 1140-1153. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20204)\]
+
+Palmer analyzes scholarly work in terms of two general modes of
+information access, one used primarily by scientists and one used
+primarily by humanities scholars. Once useful resources are discovered,
+the scholar assembles them into thematic research collections and uses
+those collections to create new knowledge. It would be worthwhile for
+you to read this entire article, but if you're short on time, start on
+page 1143, with the section on "Digital Access by Scholars".
+
+Evans, J.A. (2008, July 18). Electronic publication and the narrowing of
+science and scholarship. *Science, 321*(5887), 395-399. \[[UNC
+libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1126/science.1150473)\]
+
+As scientists have become more heavily dependent on online journals,
+there is evidence that they are citing fewer journals and articles, and
+that more of those citations were to fewer journals and articles
+(narrowing their field of vision).
+
 [Additional readings of interest](/literature/#session24)
 
 ## Thursday, November 19
@@ -873,8 +897,8 @@ You will have today off to work on your final assignment planning with your grou
 
 ### \#27: Metrics of scholarly productivity; The invisible college: discovery and representation
 
-Due: List of articles for [In-Depth Analysis of an Example of Scholarly
-Communication](/assignments/#scholcomm)
+*Due: List of articles for [In-Depth Analysis of an Example of Scholarly
+Communication](/assignments/04/)*
 
 Read the first two articles and each group will read one of the last five listed for today, based on your method for the final project.
 
