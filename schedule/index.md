@@ -849,9 +849,9 @@ later, the Web. It is primarily of historic interest, but every
 well-educated ILS professional should have read it. So take a look. If
 you've read it before, focus your attention on sections 5-6 (p41-44).
 
-Bornmann, L., & Marx, W. (2012). The Anna Karenina principle: A way of
+Bornmann, L.,&amp;Marx, W. (2012). The Anna Karenina principle: A way of
 thinking about success in science. *Journal of American Society for
-Information Science & Technology*, *63*(10), 2037-2051. \[[UNC
+Information Science&amp;Technology*, *63*(10), 2037-2051. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.22661)\]
 
 This article focuses on success in science in terms of peer review,
@@ -864,7 +864,7 @@ provides a higher-level view of the scientific/research enterprise.
 I will discuss the following articles, but you do not have to read them unless you want more depth on this topic:
 
 Palmer, C.L. (2005). Scholarly work and the shaping of digital access.
-*Journal of American Society for Information Science & Technology*,
+*Journal of American Society for Information Science&amp;Technology*,
 *56*(11), 1140-1153. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.20204)\]
 
@@ -911,15 +911,19 @@ productivity and for mapping the relationships among scholars.
 
 Chang, Y.-W. (2013). The influence of Taylor's paper,
 *Question-Negotiation and Information-Seeking in Libraries. Information
-Processing & Management, 49*(5), 983-994. \[[UNC
+Processing&amp;Management, 49*(5), 983-994. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/j.ipm.2013.03.003)\]
 
 Chang conducted a bibliometric analysis of a paper with which you're vey
 familiar by now: Taylor's 1968 paper. Your completion of Assignment 4
 will be similar to Chang's work, though on a much smaller scale.
 
-Priem, J., & Hemminger, B.M. (2010). Scientometrics 2.0: Toward new
-metrics of scholarly impact on the social Web. *First Thursday, 15*(7).
+Priem, J., &amp; Costello, K. L. (2010). How and why scholars cite on Twitter. In *Proceedings of the American Society for Information Science and Technology 2010* (Vol. 47, pp. 1–4). Pittsburgh, PA. http://doi.org/10.1002/meet.14504701201
+
+Priem and Costello conducted a study of scholars citation practices on Twitter. They found that though Twitter citations are different from traditional citations, interviews suggested that scholars see Twitter as a legitimate conduit of scholarly impact. 
+
+Priem, J.,&amp;Hemminger, B.M. (2010). Scientometrics 2.0: Toward new
+metrics of scholarly impact on the social Web. *First Monday, 15*(7).
 <http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2874/2570>.
 
 The evaluation of scholarly productivity with citation (i.e.,
@@ -935,9 +939,9 @@ Priem, J. (2013). Scholarship: Beyond the paper. *Nature, 495*(7442),
 Priem argues that the journal and article are being superseded by
 algorithms that filter, rate and disseminate scholarship as it happens.
 
-Goodrum, A.A., McCain, K.W., Lawrence, S., & Giles, C.L. (2001).
+Goodrum, A.A., McCain, K.W., Lawrence, S.,&amp;Giles, C.L. (2001).
 Scholarly publishing in the internet age: A citation analysis of
-computer science literature. *Information Processing & Management,
+computer science literature. *Information Processing&amp;Management,
 37*(5), 661-675. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/S0306-4573(00)00047-9)\]
 
@@ -949,7 +953,7 @@ they used (section 2) and their findings (section 3) and skim section 4.
 
 White, H.D. (2003). Pathfinder networks and author cocitation analysis:
 A remapping of paradigmatic information scientists. *Journal of the
-American Society for Information Science & Technology, 54*(5), 423-434.
+American Society for Information Science&amp;Technology, 54*(5), 423-434.
 \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1002/asi.10228)\]
 
@@ -962,7 +966,7 @@ skim the text around them in enough depth to get a basic understanding
 of what the figures mean.
 
 Haythornthwaite, C. (1996). Social network analysis: An approach and
-technique for the study of information exchange. *Library & Information
+technique for the study of information exchange. *Library&amp;Information
 Science Research, 18,* 323-342. \[[UNC
 libraries](http://libproxy.lib.unc.edu/login?url=http://dx.doi.org/10.1016/S0740-8188(96)90003-1)\]
 
