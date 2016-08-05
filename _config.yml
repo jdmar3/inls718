@@ -37,7 +37,7 @@ acknowledgements: 'This syllabus and website originated with the work of Profess
 content_license: 'This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
 
 baseurl: ""
-url: "http://ils.unc.edu/courses/2015_fall/inls500_001"
+url: "//ils.unc.edu/courses/2015_fall/inls500_001"
 
 # Build settings
 #markdown: kramdown
