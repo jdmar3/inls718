@@ -17,7 +17,7 @@ days:
   varlong: "Monday and Wednesday"
 location: 
   icon: ico-library
-  var: "304 Manning Hall"
+  var: "208 Manning Hall"
 sakai:
   icon: ico-target
   alt: "UNC Sakai site for this course"
