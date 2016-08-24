@@ -1,0 +1,14 @@
+begin:
+  dow: Wednesday
+  date: "2016-08-24"
+end: 
+  dow: Wednesday
+  date: "2016-12-07"
+exam:
+  date: "2016-12-16"
+  time: "8:00-11:00"
+office: 
+  dow: Monday
+  time: "12:30-14:00"
+  location: "016 Manning Hall"
+  note: "or by appointment."

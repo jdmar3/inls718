@@ -1,7 +1,0 @@
----
-layout: assignment
-title: ""
-date: ""
-weight: ""
-exclude: true
----
