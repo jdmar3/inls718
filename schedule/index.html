@@ -27,7 +27,7 @@ weight: 5
           <a href="{{ post.url | prepend: site.baseurl }}" ><h1 class="contrast">{{ post.title }}</h1></a>
           <span class="larger">{{ post.date | date: "%A, %-d %B %Y" }}</span><span class="smaller date contrast" id="todaymark"></span>
           <br/>
-          <h2>Assigned reading:</h2>
+          <!--<h2>Assigned reading:</h2>-->
           {% bibliography --template bibliography-annote --query @*[keywords ^= {{ post.session }}] %}
           <div>{{ post.excerpt }}</div>
           <br/>
