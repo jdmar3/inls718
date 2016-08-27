@@ -25,13 +25,13 @@
   {% if ass.first == "1" %}
   <tr>
     <td colspan="5">
-      <i>{% if ass.deliverable == "int" %}Intermediate{% elsif ass.deliverable == "fin" %}Final{% endif %} deliverables:</i>
+      <strong><i>{% if ass.deliverable == "int" %}Intermediate{% elsif ass.deliverable == "fin" %}Final{% endif %} deliverables:</i></strong>
     </td> 
   </tr>
   {% endif %}
   <tr {% if ass.deliverable == "main" %}class=cmid{% else %}{% endif %}>
     <td>
-      {% if ass.deliverable == "main" %}<strong>{{ ass.title }}</strong>{% else %}{{ ass.title }}{% endif %}
+      <a href="/assignments#{{ ass.title | slugify }}">{% if ass.deliverable == "main" %}<strong>{{ ass.title }}</strong>{% else %}{{ ass.title }}{% endif %}</a>
     </td>
     <td>
       {% if ass.shortdesc %}{{ ass.shortdesc }}{% endif %}

@@ -1,0 +1,27 @@
+{% for ass in site.data.assignments %}
+
+{% if ass.first = "1" %}<h2>{% if ass.deliverable == "int" %}Intermediate{% elsif ass.deliverable == "fin" %}Final{% endif %} deliverables</h2>{% endif %}
+{% if ass.deliverable == "main" %}
+  {% if ass.title %}<h1>{{ ass.title }}&nbsp;({{ ass.percent }}%)</h1>{% endif %}
+{% elsif ass.deliverable == "rec" %}
+  {% if ass.title %}<h2>{{ ass.title }}</h2>{% endif %}
+{% elsif ass.deliverable == "int" or ass.deliverable == "int" %}
+{% endif %}
+    <p>
+       {% if ass.due %}Due: <strong>{{ ass.due}}</strong>{% endif %}{% if ass.points %}({{ ass.points }}{% if ass.weight %} total points, weighted {{ ass.weight }}% of overall grade){% else %} points){% endif %}{% endif %}
+    </p>
+    {% if ass.description %}
+    <p>
+      {{ ass.description }}
+    </p>
+  {% else %}
+    <p>
+      {{ site.shortdesc }} 
+    </p>
+  {% endif %}
+  {% if ass.eval %}<h2>Evaluation criteria</h2>
+      <p>
+        {{ ass.eval }}
+      </p>  
+  {% endif %}
+{% endfor %}

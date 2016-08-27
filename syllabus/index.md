@@ -32,12 +32,12 @@ No textbook is required.
 ## Session Notes
 
 Pay attention to the [schedule]({{ site.url }}/schedule/). 
-Session notes will be posted prior to each class and you would do well to look over them before coming to class. 
+Session notes will be posted just prior to each class and you would do well to look over them before coming to class. 
 
 These are, however, not a substitute for lectures, discussions, or any other in-class activity.
 They are meant to provide an overview and summary of the readings and concepts discussed in class.
 
-Readings for the upcoming session will be included on the previous session's notes. 
+Readings for the upcoming session will be included in the schedule and in the session notes. 
 
 {% include syllabus-nav.html %}
 
@@ -81,13 +81,15 @@ All of the tasks are interconnected, so it is important to complete the tasks in
 
 See [this page]({{ site.url }}/assignments/) for a list of assignments and links to individual assignment instructions. 
 
+## Assignment Breakdown
+
 {% include assignment-table.md %} 
 
 ## Due Dates
 
 Each task is due by the end of the day (midnight) on the date specified. 
 It would be a good idea to complete assignments before that deadline so that you can get a jump on the next section. 
-The final assignment will be due before the final exam day, but will be presented during the exam day session itself. You will have one chance to make changes after submission. 
+The final assignment will be due at noon on the final exam day ({{ site.data.dates.exam.date | date: "%-d&nbsp;%B" }}). 
 
 ## Submitting Assignments
 
@@ -108,14 +110,17 @@ For example:
 
 ## Participation
 
-In addition to the 6 tasks, participation will be evaluated and included in the evaluation scheme. 
+In addition to the major assignments, participation will be evaluated and included in the evaluation scheme. 
 Participation, of course, means coming to class: that is mandatory. 
-It also means bringing something to the class by way of discussion or links shared with the rest of the class. 
-Since we are a small class this summer, we will decide on the first day how best to accomplish the sharing of resources. 
+It also means contributing to discussions both in class and online.
 
 ## Attendance
 
-Attendance is mandatory. Absence will affect your grade in the class. There is no way to make up for this.
+Attendance is mandatory. 
+Absence will affect your grade in the class. 
+There is no way to make up for this. 
+
+Attendance is graded out of 25 points (one per session). 
 
 {% include syllabus-nav.html %}
 
@@ -143,13 +148,11 @@ We will use the standard UNC grading scale for this course.
 Assignment tasks are rubricated and points will be assigned by the instructor after the completion of each task. 
 Rubrics are not published, but are based on the assignment descriptions. 
 
-Grades will be made available on a rolling basis.
+Grades will be made available on a rolling basis via Sakai.
 
 {% include syllabus-nav.html %}
 
 # Course Policies
-
-## What it means to us
 
 Instructors and students at the University of North Carolina at Chapel Hill adhere to the Code of Student Conduct. 
 Accordingly, you all should recognize that most software applications available in the computer lab are copyrighted and cannot be copied.
@@ -229,5 +232,9 @@ Symbolic violence is real and can be committed very easily.
 It is usually not recognized as such by those committing it.
 Take care that your words and actions are not marginalizing those who find themselves regularly marginalized. 
 Instead, use your words to empower and avocate for each other.  
+
+## Dinosaurs
+
+Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu&">click here</a> to email me a picture of a dinosaur.
 
 {% include syllabus-nav.html %}
