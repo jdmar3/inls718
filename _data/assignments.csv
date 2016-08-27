@@ -1,0 +1,29 @@
+category,title,shortdesc,description,eval,weight,deliverable,first,points,due
+participation,Participation,Come to class; Be prepared; Speak up; Share resources,,,20,main,,50,
+participation,Attendance,Attendance is mandatory.  ,Attendance is mandatory. Absences will negatively impact your participation grade. You are expected to be on time and to use electronic devices responsibly in class. ,Your attendance will be evaluated out of 25 sessions. There are actually 28 total sessions. This means that you have some wiggle room in case you miss a day. You will still be fully responsible for the content on any days you miss. ,,rec,,1 (25),
+participation,Discussions,Take part in class discussions and activities.,You will be expected to prepare for class by reading the assigned materials. You are also expected to actively participate in class discussions and take part in classroom-based activities that are designed to deeped your understand of information science research and help orient you within the field.,Evaluation of in-class discussion will be based on the quantity and quality of your contributions in ,,rec,,1 (25),
+classroom,In-class reflections,Reading and understanding research and theory,,,10,main,,10,
+classroom,Summary notes,"Structured, in-class note-taking and summarizing","From time to time, we will conduct a rapid-reading exercise in small groups in class. This activity is designed to help you learn to read scientific research and extract salient information in an efficient and effective manner. I will give you a handout on these days and you will turn it in at the end of class. ",Your notes and reflection will be evaluated based on how well you describe and demonstrate understanding of evidence and the conclusions of the study you are reading in the short time alotted. You will still be responsible for this activity if you miss class on one of these days. It is your responsibility to make it up. ,,rec,,2 (10),
+online,Online engagement,Online discussion and mini-assignments,"In addition to in-class participation, you are expected to engage in some regular activities outside of class. These will take several forms. ",,5,main,,40,
+online,Online discussions,Sakai discussion forums,,,,rec,,1 (10),
+online,"""What is your library science?""",Draft audio recording (post to Sakai),,,,int,1,15,2016-08-31
+online,"""What is your library science?""",Final audio recording (post on open web),,,,fin,1,15,2016-11-30
+observation,Observation and analysis,Understanding the information seeking research process ,,,20,main,,40,
+observation,Choose partner / topic,"Choose a partner, topic, and set a date/time for the study",,,,int,1,5,2016-09-12
+observation,Description ,"Write a description of the information seeking event (data = detailed notes, summary)",,,,int,,15,2016-09-28
+observation,Analysis,"Using relevant literature, write an analysis from your collected data",,,,fin,1,20,2016-10-12
+proposal,System/Service proposal,Propose a system or service to address an information need,,,25,main,,50,
+proposal,Context and population,Outline and describe the setting and population you intend to study,,,,int,1,5,2016-09-20
+proposal,Preliminary search plan and bibliography,Define systematic queries to find and delimit relevant literature and give a bibliography based on this,,,,int,,5,2016-09-26
+proposal,Preliminary population data,A detailed outline and concept map/matrix describing what you know about the population of interest. ,,,,int,,20,2016-10-26
+proposal,Description of system/service,A rough description of your proposed system/service,,,,int,,10,2016-10-31
+proposal,Proposal memo and appendices,Write a brief memo describing the proposed system or service and attach appendices based on background research,,,,fin,1,10,2016-11-16
+communication,Analysis of scholarly communication,Understanding research and theory in and outside the field,,,20,main,,40,
+communication,Topic selection,Select a topic from those listed in the assignment description,,,,int,1,2,2016-10-03
+communication,Search parameters,Define systematic queries to find and delimit relevant literature,,,,int,,3,2016-10-10
+communication,Preliminary bibliography,Compile a list of the target articles and a bibliography of literature relevant to the topic,,,,int,,2,2016-11-21
+communication,Preliminary analysis of articles,Group members will each write an analysis of one of the core articles,,,,int,,3,2016-11-28
+communication,Bibliographic analysis of articles,Demonstrate the overall context and connections between the articles in your list,,,,fin,1,10,2016-12-10
+communication,Analysis of scholarly context,Situate all of the core articles and synthesize information about them based on the individual preliminary analyses,,,,fin,,10,2016-12-10
+communication,Refined search parameters,Include an appendix that explains how you found relevant literature and inclusion/exclusion criteria,,,,fin,,5,2016-12-10
+communication,Final bibliography,Finalize your bibiliography and include it,,,,fin,,5,2016-12-10

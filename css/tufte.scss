@@ -210,7 +210,11 @@ th, td{ font-size: 1rem; //1.2rem;
         line-height: 1.71428571; 
 				vertical-align: top !important; }
 
-.booktabs th.cmid, th { border-bottom: 1px solid lighten($border-color, 25%); }
+.booktabs th.cmid, th { border-bottom: 1px solid $border-color; }
+
+tr.cmid td { border-top: 1px solid $border-color; }
+
+//.booktabs tr.cmid { border-top: 1px solid lighten($border-color, 25%); }
 
 .booktabs th.nocmid { border-bottom: none; }
 
