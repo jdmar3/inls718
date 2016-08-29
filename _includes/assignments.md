@@ -8,7 +8,7 @@
   {% if ass.first == "1" %}
 ## {% if ass.deliverable == "int" %}Intermediate{% elsif ass.deliverable == "fin" %}Final{% endif %} deliverables: 
   {% endif %}
-  - <a id="{{ ass.title | slugify }}"></a>{{ ass.title }}<br/>({% if ass.points %}{{ ass.points }} points{% endif %}{% if ass.due %}, **due: {{ ass.due | date: "%-d %b" }}**{% endif %})<br/><br/>{% if ass.description %}{{ ass.description }}{% elsif ass.shortdesc %}{{ ass.shortdesc }}{% endif %}
+  1. <a id="{{ ass.title | slugify }}"></a>{{ ass.title }}<br/>({% if ass.points %}{{ ass.points }} points{% endif %}{% if ass.due %}, **due: {{ ass.due | date: "%-d %b" }}**{% endif %})<br/><br/>{% if ass.description %}{{ ass.description }}{% elsif ass.shortdesc %}{{ ass.shortdesc }}{% endif %}
 {% endif %}
 {% if ass.deliverable == "main" %}
 {{ ass.points }} points total, {{ ass.weight }}% of final grade
