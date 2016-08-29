@@ -128,19 +128,7 @@ Attendance is graded out of 25 points (one per session).
 
 {% marginnote 'tab2' '*Table 2*: Course grades<br/><br/>Explanation of UNC grading systems: http://registrar.unc.edu/academic-services/grades/explanation-of-grading-system/.' %}
 
-| Percentage            | Grade UG            | Grade G           | What it means |  
-|:-------|:---------|:--------|:------------- |  
-| 95>    | A        | H       | Highest level mastery of course content |
-| 92-94  | A-       | H       | |
-| 87-91  | B+       | P       | |
-| 83-86  | B        | P       | Totally acceptable performance |
-| 80-82  | B-       | P       | |
-| 77-79  | C+       | P       | |
-| 73-76  | C        | P       | |
-| 70-72  | C-       | L       | Marginal performance in course requirements |  
-| 67-69  | D+       | L       | |
-| 60-66  | D        | L       | |
-| \<60   | F        | F       | For whatever reasons, an unacceptable performance | 
+{% include grades-table.md %}
 
 ## Grades and Progress
 
