@@ -128,19 +128,19 @@ Attendance is graded out of 25 points (one per session).
 
 {% marginnote 'tab2' '*Table 2*: Course grades<br/><br/>Explanation of UNC grading systems: http://registrar.unc.edu/academic-services/grades/explanation-of-grading-system/.' %}
 
-| Percentage            | Grade UG            | Grade G           | What it means |  
-|:-------|:---------|:--------|:------------- |  
-| 95>    | A        | H       | Highest level mastery of course content |
-| 92-94  | A-       | H       | |
-| 87-91  | B+       | P       | |
-| 83-86  | B        | P       | Totally acceptable performance |
-| 80-82  | B-       | P       | |
-| 77-79  | C+       | P       | |
-| 73-76  | C        | P       | |
-| 70-72  | C-       | L       | Marginal performance in course requirements |  
-| 67-69  | D+       | L       | |
-| 60-66  | D        | L       | |
-| \<60   | F        | F       | For whatever reasons, an unacceptable performance | 
+| Percentage            | Grade UG            | Grade G           | What it means |  
+|:-------|:---------|:--------|:------------- |  
+| 95>    | A        | H       | Highest level mastery of course content |
+| 92-94  | A-       | H       | |
+| 87-91  | B+       | P       | |
+| 83-86  | B        | P       | Totally acceptable performance |
+| 80-82  | B-       | P       | |
+| 77-79  | C+       | P       | |
+| 73-76  | C        | P       | |
+| 70-72  | C-       | L       | Marginal performance in course requirements |  
+| 67-69  | D+       | L       | |
+| 60-66  | D        | L       | |
+| \<60   | F        | F       | For whatever reasons, an unacceptable performance | 
 
 ## Grades and Progress
 
@@ -225,16 +225,16 @@ None of us are perfect.
 We all make mistakes. 
 But: if you don't know what you're doing, you can't make mistakes.
 You don't have any parameters for understanding what is and isn't a mistake. 
-We are learning together and that entails accepting our ignorance and working through it toward something better: knowledge.  
+We are learning together and that entails accepting our ignorance and working through it toward something better: knowledge.  
 
 Think, before you speak or act, about how your words and actions affect those around you. 
 Symbolic violence is real and can be committed very easily. 
 It is usually not recognized as such by those committing it.
 Take care that your words and actions are not marginalizing those who find themselves regularly marginalized. 
-Instead, use your words to empower and avocate for each other.  
+Instead, use your words to empower and avocate for each other.  
 
 ## Dinosaurs
 
-Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu&">click here</a> to email me a picture of a dinosaur.
+Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu">click here</a> to email me a picture of a dinosaur.
 
 {% include syllabus-nav.html %}
