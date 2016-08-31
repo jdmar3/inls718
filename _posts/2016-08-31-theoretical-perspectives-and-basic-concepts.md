@@ -4,7 +4,10 @@ layout: post
 session: "03"
 tags: 
   - information behavior
-  - human information interactions
+  - theory
+  - discipline
+  - field
+  - values
 ---
 
 ## Assigned reading:
