@@ -24,11 +24,9 @@ weight: 5
           <hr class="slender">
           {% capture datestamp %}{{post.date | date: "%F"}}{% endcapture %}
           {% capture today %}{{site.time | date: "%F"}}{% endcapture %}
-          <a href="{{ post.url | prepend: site.baseurl }}" ><h1 class="contrast">{{ post.title }}</h1></a>
-          <span class="larger">{{ post.date | date: "%A, %-d %B %Y" }}</span><span class="smaller date contrast" id="todaymark"></span>
+          <a href="{{ post.url | prepend: site.baseurl }}" ><h1 class="contrast" {% if datestamp == today  %}id="today"{% endif %}>{{ post.title }}</h1></a>
+          <p class="subtitle">{{ post.date | date: "%A, %-d %B %Y" }}{% if datestamp == today  %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="smaller date contrast">TODAY</span>{% endif %}</p
           <br/>
-          <!--<h2>Assigned reading:</h2>-->
-          {% bibliography --template bibliography-annote --query @*[keywords ^= {{ post.session }}] %}
           <div>{{ post.excerpt }}</div>
           <br/>
           <ul class="tags">

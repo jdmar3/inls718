@@ -1,5 +1,5 @@
 ---
-title: Theoretical perspectives and basic concepts
+title: Affective approaches to information behavior research
 layout: post
 session: "04"
 tags: 
