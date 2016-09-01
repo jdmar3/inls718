@@ -5,13 +5,14 @@
     <input type='checkbox' id='info' class='margin-toggle'/>
 <span class='marginnote'>{{ entry.annote }}</span>
 {% endif %}
-{% if entry.doi %}
-<a href="http://dx.doi.org{% if site.libproxy %}.{{site.libproxy}}{% endif%}/{{entry.doi}}"{{reference}}</a>
+{{ reference }}
+<!--{% if entry.doi %}
+<a href="http://dx.doi.org{% if site.libproxy %}.{{site.libproxy}}{% endif%}/{{entry.doi}}">{{reference}}</a>
 {% elsif entry.url %}
-<a href="{{entry.url}}"{{reference}}</a>
+<a href="{{entry.url}}">{{reference}}</a>
 {% else %}
 {{reference}}
-{% endif %}
+{% endif %}-->
 
 
 

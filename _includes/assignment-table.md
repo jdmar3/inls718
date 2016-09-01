@@ -34,13 +34,13 @@
       <a href="/assignments#{{ ass.title | slugify }}">{% if ass.deliverable == "main" %}<strong>{{ ass.title }}</strong>{% else %}{{ ass.title }}{% endif %}</a>
     </td>
     <td>
-      {% if ass.shortdesc %}{{ ass.shortdesc }}{% endif %}
+    {% if ass.shortdesc %}{% if ass.deliverable == "main" %}<strong>{% endif %}{{ ass.shortdesc }}{% if ass.deliverable == "main" %}</strong>{% endif %}{% endif %}
     </td>
     <td style="text-align:right">
-      {% if ass.points %}{{ ass.points}}{% endif %}
+      {% if ass.points %}{% if ass.deliverable == "main" %}<strong>Total:&nbsp;{% endif %}{{ ass.points}}{% if ass.deliverable == "main" %}</strong>{% endif %}{% endif %}
     </td>
     <td style="text-align:right">
-      {% if ass.weight %}{{ ass.weight }}%{% endif %}
+      {% if ass.weight %}<strong>{{ ass.weight }}%</strong>{% endif %}
     </td>
     <td>
       {% if ass.due %}{{ ass.due | date: "%b&nbsp;%-d" }}{% endif %}

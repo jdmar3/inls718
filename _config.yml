@@ -60,15 +60,15 @@ scholar:
   group_order: ascending
 
   source: ./_bibliography
-  bibliography: inls500-fall2015.bib
+  bibliography: inls500-fall2016.bib
 #  bibliography_template: "{{reference}}" #<abbr>[{{key}}]</abbr>"
-  bibliography_template: bibliography
+#E  bibliography_template: bibliography
   bibliography_list_tag: ul
 
   replace_strings: true
   join_strings:    true
 
-  use_raw_bibtex_entry: true
+  use_raw_bibtex_entry: false
   bibtex_filters:
   - markdown
   - latex

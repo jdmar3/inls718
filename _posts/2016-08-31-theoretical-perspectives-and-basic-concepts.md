@@ -62,7 +62,7 @@ What do we mean by these things?
 # Values
 
 Information science has largely been understood as a "value neutral" field in the way of other sciences and engineering fields are viewed. 
-Librarianship tends to be oriented toward service (Bates, 1999, p. 1049)
+Librarianship tends to be oriented toward service and empowerment (Bates, 1999, p. 1049)
 
 How are these orientations at odds with one another? 
 
