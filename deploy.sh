@@ -26,8 +26,8 @@ cd $TEMPDIR
 # Clone repository into TEMPDIR
 git clone --single-branch --branch=$BUILDBRANCH  $REMOTEUSERNAME@$REMOTEADDR:$GITHUBUSERNAME/$REPONAME.git $TEMPDIR
 # Remove files and commit to clear changes
-rm -r $TEMPDIR/*
-git commit -a -m "Clear previous build"
+#rm -r $TEMPDIR/*
+#git commit -a -m "Clear previous build"
 # Build Jekyll site
 jekyll build -s $WORKDIR -d $TEMPDIR
 # Add new build to git 
