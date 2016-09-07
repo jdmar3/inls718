@@ -1,0 +1,35 @@
+SESSION,DATE,CATEGORY,TITLE,TAGS
+01,2016-08-24,Basic concepts,What is information behavior?,"information behavior, rapid reading"
+02,2016-08-29,Basic concepts,Trends in human information interaction research,"information behavior, history, human information interactions, human v. system approaches"
+03,2016-08-31,Basic concepts,Theoretical perspectives and basic concepts,"information behavior, theory, meta-field, discipline, values"
+Break,2016-09-05,,Labor day,
+04,2016-09-07,Basic concepts,Affective approaches to information behavior research,"information behavior, affective, research"
+05,2016-09-12,Basic concepts,Cognitive approaches to information behavior research,"information behavior, cognitive, research"
+06,2016-09-14,Information needs,Experiencing an information need,"information needs, users, experience"
+07,2016-09-19,Information needs,Expressing information needs,"information needs, users, expression, communication"
+08,2016-09-21,Information needs,Studying/analyzing information needs,"information needs, users, observation, research"
+09,2016-09-26,Information seeking,Information source horizons,"information seeking, source selection, horizons"
+10,2016-09-28,Information seeking,Incidental information acquisition: Browsing and serendipity,"information seeking, serendipity, browsing"
+11,2016-10-03,Information seeking,Interactive information retrieval as part of the information seeking process,"information seeking, interactive information retrieval"
+12,2016-10-05,Information seeking,Assessment of information quality/value,"information seeking, assessment, relevance, quality"
+13,2016-10-10,Information seeking,Relevance judgments,"information seeking, relevance, affective, topical, social aspects"
+14,2016-10-12,Information use,Ways of using information,information use
+15,2016-10-17,Information use,Re-using and re-finding information,"information use, finding, re-finding"
+16,2016-10-19,,Work day: meet in groups,
+17,2016-10-24,Impact of context on information seeking and use,Situation and context: social paradigms of information behavior,"context, social aspects"
+18,2016-10-26,Impact of context on information seeking and use,"Information poverty, small worlds, and community contexts","context, social aspects, information poverty, overload, community, small worlds"
+19,2016-10-31,Impact of context on information seeking and use,"Domain, disciplinary, and organizational context","context, discipline, organization, community"
+20,2016-11-02,Impact of context on information seeking and use,Everyday life information seeking,"context, ELIS, everyday"
+21,2016-11-07,Intermediation and dis-intermediation in information seeking,Human intermediaries and imposed queries,"intermediation, queries"
+22,2016-11-09,Intermediation and dis-intermediation in information seeking,Information retrieval systems as intermediaries,"disintermediation, systems, interactive information retrieval"
+23,2016-11-14,Intermediation and dis-intermediation in information seeking,"Social intermediation: Recommender systems, social Q&A, collaborative search","apomediation, systems, social aspects, community"
+24,2016-11-16,Scholarly communication,Scholarly work and the role of scholarly communication,scholarly communication
+25,2016-11-21,Scholarly communication,Metrics of scholarly productivity,"scholarly communication, bibliometrics, citation analysis"
+Break,2016-11-23,,Thanksgiving break,
+26,2016-11-28,Scholarly communication,Scholarly publishing as an industry,"scholarly communication, publishing, industry"
+27,2016-11-30,Scholarly communication,The invisible college and diffusion theory: the spread of ideas,"scholarly communication, invisible college, diffusion"
+28,2016-12-05,Future,"The future of information, part 1",
+29,2016-12-07,Future,"The future of information, part 2",
+Reading,2016-12-12,,,
+Reading,2016-12-14,,,
+Exam,2016-12-16,Exam day,,

@@ -50,7 +50,7 @@ excerpt_separator: <excerpt/>  # you can specify your own separator, of course.
 libproxy: libproxy.lib.unc.edu
 # Jekyll scholar settings
 scholar:
-  style: apa
+  style: apa.csl
   locale: en
 
   sort_by: none
@@ -60,9 +60,9 @@ scholar:
   group_order: ascending
 
   source: ./_bibliography
-  bibliography: inls500-fall2016.bib
+  bibliography: readings.bib
 #  bibliography_template: "{{reference}}" #<abbr>[{{key}}]</abbr>"
-#E  bibliography_template: bibliography
+  bibliography_template: bibliography-annote-margin
   bibliography_list_tag: ul
 
   replace_strings: true
@@ -70,9 +70,7 @@ scholar:
 
   use_raw_bibtex_entry: false
   bibtex_filters:
-  - markdown
   - latex
-  - superscript
 
   details_dir:    bibliography
   details_layout: bibtex.html
