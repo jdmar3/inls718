@@ -32,6 +32,6 @@ layout: default
 <p>
   <br/>
   <ul class="tags">
-    {% for tag in page.tags %}<li><a href="/topics#{{ tag }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
+    {% for tag in page.tags %}<li><a href="/topics#{{ tag | cgi_escape }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
   </ul> 
 </p>
