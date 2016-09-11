@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reference
-weight: 9
+title: Literature
+weight: 11
 nav_include: true
 ---
 
