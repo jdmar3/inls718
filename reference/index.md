@@ -39,9 +39,19 @@ The following guides might help you in scoping and conducting your literature re
 
 {% bibliography --template bibliography-annote --query @article[author ^= Pautasso] %}
 
+<a target="_blank" href="./files/emerald-lit-review-infographic.pdf">How to... Write a Literature Review - Emerald Publishing</a>
+
+## Concept matrices
+
 <a target="_blank" href="https://writingcenter.fiu.edu/resources/synthesis-matrix-2.pdf">Writing a Literature Review and Using a Synthesis Matrix - FIU</a>
 
-<a target="_blank" href="./files/emerald-lit-review-infographic.pdf">How to... Write a Literature Review - Emerald Publishing</a>
+<a target="_blank" href="http://www2.smumn.edu/deptpages/tcwritingcenter/forms_of_writing/litrevmatrix_tc.pdf">Literature reviews: Using a matrix to organize research</a>
+
+The following article is a particularly good resource for understanding and structuring literature review.
+
+{% bibliography --template bibliography-annote --query @article[author ^= Lubbe] %}
+
+## Memo and proposal writing
 
 Related to literature review, another important aspect of your assignments will be to write a memo for the system/service proposal. 
 This set of guides and tutorials by Dr. Raul Pacheco-Vega may be helpful. 

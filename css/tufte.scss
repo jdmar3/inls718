@@ -437,7 +437,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             div.table-wrapper { border-right: 1px solid #efefef; }
 														table { max-width: 100%; }
                             img { max-width: 100%; } 
-														article ul { width: 87.5%; }
+														article ul, article ol { width: 87.5%; }
                           }
 /*--- End of Basic Layout stuff from tufte.css ---*/
 
