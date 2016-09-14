@@ -45,7 +45,7 @@ The following guides might help you in scoping and conducting your literature re
 
 <a target="_blank" href="https://writingcenter.fiu.edu/resources/synthesis-matrix-2.pdf">Writing a Literature Review and Using a Synthesis Matrix - FIU</a>
 
-<a target="_blank" href="http://www2.smumn.edu/deptpages/tcwritingcenter/forms_of_writing/litrevmatrix_tc.pdf">Literature reviews: Using a matrix to organize research</a>
+<a target="_blank" href="http://www2.smumn.edu/deptpages/tcwritingcenter/forms_of_writing/litrevmatrix_tc.pdf">Literature reviews: Using a matrix to organize research - The Writing Center at Saint Mary's University of Minnesota</a>
 
 The following article is a particularly good resource for understanding and structuring literature review.
 
