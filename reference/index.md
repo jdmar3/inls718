@@ -39,6 +39,10 @@ The following guides might help you in scoping and conducting your literature re
 
 {% bibliography --template bibliography-annote --query @article[author ^= Pautasso] %}
 
+This is probably the most succinct, straightforward, and complete guide I have come across: 
+
+<a target="_blank" href="http://www.raulpacheco.org/2016/06/how-to-do-a-literature-review-citation-tracing-concept-saturation-and-results-mind-mapping/">How to do a literature review: Citation tracing, concept saturation and results’ mind-mapping - Raul Pacheco-Vega</a>
+
 <a target="_blank" href="./files/emerald-lit-review-infographic.pdf">How to... Write a Literature Review - Emerald Publishing</a>
 
 ## Concept matrices
@@ -77,7 +81,7 @@ For a more comprehensive matrix comparing reference managers, check out this Wik
 
 You can download the readings for this course in their current state as a BIB file. This file can be used to import the readings into your reference manager. 
 
-<a target="_blank" href="./files/readings.bib">BIB database of readings for INLS500 [readings.bib]</a>
+<a target="_blank" href="./files/inls500-readings.bib">BIB database of readings for INLS500 [readings.bib]</a>
 
 # Workflow and time management
 
@@ -107,3 +111,25 @@ There are epistemological reasons that underlie the development and use of a giv
 The article below will help to give you a sense of what that means for our purposes (<a target="_blank" href="http://www.unm.edu/~wac/History-Legacy/Fall2005/LanguagePsychology.pdf">PDF available here</a>).
 
 {% bibliography --template bibliography-annote --query @article[keywords ^= APA-style] %}
+
+# Research tools
+
+Since you will be conducting some original research for this class, there will be things that I or others in the class find helpful in this process. 
+I will place links to them here. 
+
+## Screen capture software
+
+Here are a few links to different screencap software.Here
+
+### Windows
+<a target="_blank" href="I will place links to them here. ">CamStudio (Windows; GPL)</a>
+
+<a target="_blank" href="http://getgreenshot.org/">Greenshot (Windows; GPL)(</a>
+
+### Mac
+
+<a target="_blank" href="http://www.hongkiat.com/blog/free-mac-screen-recording-tools/">Free Mac screen recording tools - Hongkiat</a>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=Fnuqk76uPk8">How to video screen capture for free using a mac - thereallyupsetgamer (YouTube)</a>
+
+

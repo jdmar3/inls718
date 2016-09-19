@@ -57,7 +57,7 @@ scholar:
   group_by: none
   group_order: ascending
 
-  source: ./_bibliography
+  source: ./_data
   bibliography: readings.bib
 #  bibliography_template: "{{reference}}" #<abbr>[{{key}}]</abbr>"
   bibliography_template: bibliography-annote-margin
