@@ -17,7 +17,6 @@
 {% endif %}
 
 {% if ass.deliverable == "main" or ass.deliverable == "rec" %}
-{% if ass.due %}Due: {{ ass.due }}{% endif %}
 
 {% if ass.description %}{{ ass.description }}{% endif %}
 

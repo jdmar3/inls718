@@ -1,4 +1,4 @@
-{% marginnote 'tab1' '*Table 1*: List of required course tasks with grade breakdown' %}
+{% marginnote 'tab1' '*Table 1*: Chronological list of required deliverables for course tasks with points' %}
 
 <table>
   <thead>
@@ -18,13 +18,14 @@
   </tr>
   </thead>
   <tbody>
-  {% for ass in site.data.assignments | sort: date %}
+  {% assign sorted = (site.data.assignments | sort: 'due') %}
+  {% for ass in sorted %}
   {% if ass.due == "0" %}
     {% continue %}
   {% else %}
   <tr>
     <td>{{ ass.due | date: "%b&nbsp;%-d" }}</td>
-    <td><a href="/assignments#{{ ass.title | slugify }}">{{ ass.title }}</a> ({% if ass.deliverable == "int" %}Intermediate {% elsif ass.deliverable == "fin" %}Final {% endif %}deliverable for <i>{{ ass.cattitle }}</i>)</td>
+    <td><a href="/assignments/chronological#{{ ass.title | slugify }}">{{ ass.title }}</a> <small>({% if ass.deliverable == "int" %}Intermediate {% elsif ass.deliverable == "fin" %}Final {% endif %}deliverable for <i>{{ ass.cattitle }}</i>)</small></td>
     <td>{{ ass.shortdesc }}</td>
     <td>{{ ass.points }}</td>
   </tr> 
