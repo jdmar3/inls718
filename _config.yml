@@ -4,7 +4,7 @@ subtitle: "INLS 500-001 (Fall)"
 description: "The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information."
 baseurl: ""
 url: "https://inls500.johndmart.in"
-enforce-ssl: "inls500.johndmart"
+enforce-ssl: "inls500.johndmart.in"
 
 mainicon: "/assets/img/500icon.png"
 
