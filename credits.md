@@ -17,5 +17,10 @@ nav_exclude: true
 {% if site.license %}
 # License
 
-This work is licensed under a {{ site.license }} and copyright {{ site.data.info.instructor.var }}.
+All content is copyright {{ site.data.info.instructor.var }}.
+
+{{ site.license }}
+
+{{ site.license-summary }}
+
 {% endif %}
