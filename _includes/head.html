@@ -21,21 +21,12 @@
   {% if site.data.options.mathjax %}
     <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   {% endif %}
-  
-  <!-- Load Moment.js for dates if option set in /_data/optins.yml file-->
-  {% if site.data.options.moment %}
-    <script type="text/javascript" src="//momentjs.com/downloads/moment.js"></script> 
-  {% endif %} 
-  
-  {% if site.data.options.datejs %}
-    <script type="text/javascript" src="//storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/datejs/date.js"></script>
-  {% endif %}
 
-  <link rel="stylesheet" href="{{ "/css/tufte.css" | prepend: site.baseurl }}"> 
+  <link rel="stylesheet" href="{{ '/css/tufte.css' | prepend: site.baseurl }}"> 
   
-  <link rel="icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon" />
+  <link rel="icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl }}" type="image/x-icon" />
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
 </head>
