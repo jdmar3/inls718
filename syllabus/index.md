@@ -96,16 +96,21 @@ The final assignment will be due at noon on the final exam day ({{ site.data.dat
 
 All of your assignments will be submitted using the assignments feature in Sakai.
 
-All written assignments will be uploaded in PDF format. 
-DOCX or other formats will not be accepted.
+All written assignments will be uploaded in PDF format or submitted using the text interface in Sakai. 
+
+*Final deliverables must be uploaded in PDF.*
+
+**DOCX or other formats will not be accepted.**
 
 You will use the following format in uploading your files:
 
-`SURNAME-REVERSE_ORDER_DATE-ASSIGNMENT_NUMBER-ASSIGNMENT_PART-SHORT_DESCRIPTION.FILE_EXTENSION`
+`SURNAME-REVERSE_ORDER_DATE-ASSIGNMENT-SHORT_DESCRIPTION-DELIVERABLE.FILE_EXTENSION`
 
 For example: 
 
-`Martin-20160830-Assignment1-Part2-Analysis_final.pdf`
+`Martin-20160815-Observation-Description-intermediate.pdf`
+
+`Martin-20160830-Observation-Analysis-final.pdf`
 
 {{[Information about individual assignments is listed here](/assignments/) | prepend: site.baseurl | prepend: site.url }}.
 
