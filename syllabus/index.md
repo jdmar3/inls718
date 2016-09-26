@@ -112,8 +112,6 @@ For example:
 
 `Martin-20160830-Observation-Analysis-final.pdf`
 
-{{[Information about individual assignments is listed here](/assignments/) | prepend: site.baseurl | prepend: site.url }}.
-
 ## Participation
 
 In addition to the major assignments, participation will be evaluated and included in the evaluation scheme. 
