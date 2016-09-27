@@ -17,7 +17,7 @@ nav_exclude: true
 {% if site.license %}
 # License
 
-All content is copyright {{ site.author }}.
+All content is copyright {{ site.data.info.instructor.var }} and licensed 
 
 {{ site.license }}
 
