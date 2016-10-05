@@ -25,7 +25,7 @@ nav_include: true
           <hr class="slender">
           {% capture datestamp %}{{post.date | date: "%F"}}{% endcapture %}
           {% capture today %}{{site.time | date: "%F"}}{% endcapture %}
-          <a href="{{ post.url | prepend: site.baseurl }}" ><h1 class="contrast" {% if datestamp == today  %}id="today"{% endif %}>{% unless post.category == "Break" %}{{ post.session }}. {% endunless %}{{ post.title }}</h1></a>
+          <a href="{{ post.url | prepend: site.baseurl }}" ><h1 class="contrast" {% if datestamp >= today  %}id="today"{% endif %}>{% unless post.category == "Break" %}{{ post.session }}. {% endunless %}{{ post.title }}</h1></a>
           <p class="subtitle">{{ post.date | date: "%A, %-d %B %Y" }}{% if datestamp == today  %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="smaller date contrast">TODAY</span>{% endif %}</p>
 
 {% for ass in site.data.assignments %} 
