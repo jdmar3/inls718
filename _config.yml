@@ -62,7 +62,7 @@ scholar:
   style: apa.csl
   locale: en
 
-  sort_by: author
+  sort_by: year
   order: ascending
 
   group_by: none
