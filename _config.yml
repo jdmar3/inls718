@@ -1,7 +1,7 @@
 # Site settings
-title: Human Information Interactions
-subtitle: "INLS 500-001 (Fall)"
-description: "The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information."
+title: User Interface Design
+subtitle: "INLS 718-001 (Spring)"
+description: ""
 baseurl: ""
 url: "https://inls500.johndmart.in"
 enforce-ssl: "inls500.johndmart.in"
@@ -17,14 +17,14 @@ unit_url: http://sils.unc.edu
 unit_logo: "/assets/img/ischool-unc_300px.png"
 
 department: INLS
-course-number: "500"
+course-number: "718"
 course-section: "001"
-course-term: Fall
-course-year: "2016"
-dates: "24 August 2016 - 7 December 2016"
-exam: "16 December 2016 (8:00-11:00)"
+course-term: Spring
+course-year: "2017"
+#dates: "24 August 2016 - 7 December 2016"
+#exam: "16 December 2016 (8:00-11:00)"
 
-acknowledgements: 'This syllabus originated with the work of Barbara Wildemuth and Deborah Barreau and has benefitted from the revisions and input of Amelia Gibson, Laura Sheble, Earl Bailey, Ruth Palmquist, Kaitlin Costello, Kathy Brennan, Anita Crescenzi, and others.' 
+acknowledgements: '' 
 
 license: 'All content licensed under a <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.'
 
@@ -32,7 +32,7 @@ license-img: '<a target="_blank" rel="license" href="https://creativecommons.org
 
 license-img-lrg: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="CC-BY-NC-SA" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
 
-license-summary: 'You may redistribute (but not remix or copy) content on this site under the same license as above for non-commercial purposes provided that you provide attribution and link back to the source.'
+license-summary: 'You may redistribute, remix, or copy content on this site under the same license as above for non-commercial purposes provided that you provide attribution and link back to the source.'
 
 theme-license: '<a href="https://github.com/clayh53/tufte-jekyll">Tufte-Jekyll theme</a> is &copy; <a href="http://www.clayharmon.com/">Clay Harmon</a> and distributed under the MIT license. This site theme is also distributed under the MIT license.'
 

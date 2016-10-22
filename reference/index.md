@@ -95,7 +95,7 @@ I find Dr. Pacheco-Vega's guides and suggestions to be very helpful.
 
 # Writing style
 
-The <a target="_blank" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2330-1643;jsessionid=15EB4081160D59A1716249BAFF1D4EAA.f04t03">Journal of the Association for Information Science and Technology (JASIS&T)</a>, the flagship journal for the field of information science, uses the style of the American Psychological Association (APA) as the basis for it's own style. 
+The <a target="_blank" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2330-1643;jsessionid=15EB4081160D59A1716249BAFF1D4EAA.f04t03">Journal of the Association for Information Science and Technology (JASIS&T)</a>, the flagship journal for the field of information science, uses the style of the American Psychological Association (APA) as the basis for its own style. 
 
 Given that, we will use the <a target="_blank" href="https://www.amazon.com/Publication-Manual-American-Psychological-Association/dp/1433805618/ref=sr_1_1?ie=UTF8&qid=1473617254&sr=8-1&keywords=apa+manual+6th+edition">*Publication Manual of the American Psychological Association, 6th Edition*</a> (APA, 2009) in all of the writing for this class. 
 It is important to understand this style in the immediate period, because some aspect of your grade will be related to the use of the style. 

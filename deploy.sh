@@ -1,11 +1,11 @@
 #!/bin/bash
 ### Set the following variables for your repository
 GITHUBUSERNAME=jdmar3
-REPONAME=inls500
+REPONAME=inls718
 REMOTEADDR=github.com
 REMOTEUSERNAME=git
 BUILDBRANCH=gh-pages
-WORKDIR=~/workspace/inls500 # Local directory of source repo 
+WORKDIR=~/workspace/inls718 # Local directory of source repo 
 
 ### Display help text
 if [[ "$1" = [-][hH] || "$1" = [-][hH] || "$1" = [-][-][Hh][Ee][Ll][Pp] ]]
