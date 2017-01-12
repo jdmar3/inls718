@@ -12,6 +12,10 @@ nav_include: true
 The purpose of this course is to allow students to engage with the interfaces between human beings and information systems in a critical way. 
 The course content covers a range of topics, organized around a few main principles *design thinking, user experience,* and *design critique.*
 
+We will also engage with critical discussion of principles of accessibility, collective action and social design, and social justice expressed through design. 
+It is important in this day and age to consider that while no design can be universal because of the properties and biases embedded by designers, we should be aiming to create interfaces, interactions, and experiences that do not specifically marginialize people. 
+In the spirit of this, a good portion of our design critique and readings on affordances will be oriented toward addressing structural inequalities embedded in the built world. 
+
 ### Design Thinking
 
 Design thinking is a holistic way of looking at the design process as a set of creative strategies to solve problems. 
@@ -40,16 +44,21 @@ The structure of the course will alternate between a discussion format and a lab
 
 ### Readings
 
+There will be something to read every week. This will provide the basis for our discussions. 
+
 ### Design critique
+
+We will engage in continuous design critique of the world around us. This will take the form of students posting to a shared class blog with pictures, video, or audio recordings of interactions and interfaces along with critical assessment and suggestions for redesigns. We will discuss most of these in class as well. 
 
 ## Lab
 
 ### Hands-on learning
 
+Doing is often more instructive than talking about something. In that spirit, much of the time that we spend together will be spent working together and learning from one another. Sometimes we will work in our teams, sometimes teams will collaborate together. 
 
 ### Project
 
-
+We will be working as an entire class on a single project. This experience is meant to mirror that of working on a design and development team where people from disparate backgrounds bring a variety of skillsets together to contribute to a single product. See the Project page for details about what we will be doing. 
 
 ## Session Notes
 
@@ -71,7 +80,7 @@ Readings for the upcoming session will be included on the schedule page and in t
 Evaluation for this course will be based on your agreement to a specific set of tasks at the beginning of the semester and successful completion thereof. 
 This will happen in the form of a contract between you and me which you will sign on the first day of class. 
 
-A copy of the contract is avaialable [here](./inls718-sp2017-grade.pdf).
+[A copy of the contract is avaialable here](./inls718-sp2017-gradecontract.pdf).
 
 A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the contract.
 
@@ -149,8 +158,8 @@ However, academic dishonesty in any form is unacceptable, because any breach in 
 Plagiarism is not tolerated in this or any course or academic context. 
 Your work for this course will be your own, though almost everything that we do in class will be collaborative. 
 
-We will also be using and writing open source software in this class. 
-Proper crediting of work and adherence to open licensing requirements is an important part of this course and will help us to better understand and avoid plagiarism. 
+We will also be using and writing open source software and documentation in this class. 
+Proper crediting of work and adherence to open licensing requirements is an important part of this course and will help us to better understand and avoid plagiarism and license violation.
 
 Please go through this tutorial and then <a href="mailto:john.d.martin.iii@unc.edu?=Plagiarism tutorial">email me</a> the result: [UNC LIbraries Plagiarism Tutorial](http://www.lib.unc.edu/plagiarism/).
 
