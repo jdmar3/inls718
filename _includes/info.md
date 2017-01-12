@@ -10,6 +10,6 @@
 <span class="{{ site.data.info.location.icon }}">&nbsp;**Location:**</span> {{ site.data.info.location.var }}<br/>
 <span class="ico-calendar-open">&nbsp;**Dates:**</span> {{ site.data.dates.begin.date | date: "%-d %B %Y" }} - {{ site.data.dates.end.date | date: "%-d %B %Y" }}<br/>
 <span class="ico-pencil">&nbsp;**Exam period:**</span> {{ site.data.dates.exam.time  }} {{ site.data.dates.exam.date | date: "%-d %B %Y" }}<br/>
-<span class="{{ site.data.info.sakai.icon }}">&nbsp;**Sakai**</span>: [{{ site.data.info.sakai.link }}]({{ site.data.info.sakai.link }})<br/>
+<span class="{{ site.data.info.github.icon }}">&nbsp;**GitHub**</span>: [{{ site.data.info.github.link }}]({{ site.data.info.github.link }})<br/>
 <span class="{{ site.data.info.rss.icon }}">&nbsp;**Schedule feed**</span>: [{{ site.url }}{{ site.data.info.rss.link }}]({{ site.data.info.rss.link }})<br/>
 </span>

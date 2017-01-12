@@ -9,26 +9,47 @@ nav_include: true
 
 {% include info.md %}
 
-{% newthought 'INLS 500 is a course that surveys human information interactions' %} through broad examination of information science literature. 
-Students examine cognitive, social, organizational/institutional, and behavioral approaches to understanding interactions between people and information.
-Emphasis is placed on the role of the information professional or information scientist as mediator, and students are encouraged to apply analyze current events and situations.
+The purpose of this course is to allow students to engage with the interfaces between human beings and information systems in a critical way. 
+The course content covers a range of topics, organized around a few main principles *design thinking, user experience,* and *design critique.*
 
-This course undergirds much of the SILS curriculum because it introduces students to core concepts that have implications for the practice of information science and librarianship. 
-It is expected that it will be taken during the first or second semester of the student's career at SILS.
+### Design Thinking
 
-### Information Behavior
+Design thinking is a holistic way of looking at the design process as a set of creative strategies to solve problems. 
+It emphasizes consideration of social and other contexts that have an impact on stepping away from a "one-size-fits-all" approach. 
+We will attempt to instill in ourselves a design mentality so that when we take on a problem, we can work through and around it rather than simply running into it. 
+
+### User Experience
+
+User experience is a broader way of looking at user interfaces. 
+Rather than considering only what is on the screen or just the parts of an interface that a user directly interacts with, this mode of thinking about how users and systems interact takes into account how and why people do things. 
+It also helps us to think about how people feel, consider their motivations, and attempt to understand their frustrations when we engage in design. 
+
+### Designe Critique
+
+In order to become designers, we have to look into the built world and consider everything that we see to be the output of a design process. 
+We will learn to ask questions of the everyday objects, interfaces, and experiences we interact with to better understand why a designer made one choice over another. 
+We will also use our critical acumen to better understand how user experiences might be improved. 
 
 {% include syllabus-nav.html %}
 
-# Readings
+# Structure
 
-This is a survey course, which means that it is very reading-intensive.
-There will be something to read for each session. 
-Students are expected to complete readings in preparation for each class meeting. 
+The structure of the course will alternate between a discussion format and a lab format. 
 
-Most readings will be available either on the open web or through the univerity's proxy. Any that are not will be made available in Sakai. 
+## Discussions
 
-No textbook is required.
+### Readings
+
+### Design critique
+
+## Lab
+
+### Hands-on learning
+
+
+### Project
+
+
 
 ## Session Notes
 
@@ -37,94 +58,34 @@ Session notes will be posted just prior to each class and you would do well to l
 
 These are, however, not a substitute for lectures, discussions, or any other in-class activity.
 They are meant to provide an overview and summary of the readings and concepts discussed in class.
+You may use them however you like.
 
-Readings for the upcoming session will be included in the schedule and in the session notes. 
-
-{% include syllabus-nav.html %}
-
-# Lectures
-
-What follows is a typical plan. 
-All sessions will not look like this, but many will.
-
-Our sessions for this course are 75 minutes long. 
-
-The first ~5 minutes will be reviewing the material from the previous session. 
-This will be mostly done by you. 
-You will talk about what you learned and I will listen.
-
-The next 30 to 40 minutes will consist of lecture (a fair amount); whole-group discussion (a lot).
-
-20 to 30 minutes will be devoted to an active learning exercise, typically performed in small groups. 
-These exercises will reinforce conceptual material, or be directed at helping to work through part of an assignment or practical skill required for the course.
-
-The last 10 minutes will be reserved for conceptual wrap-up and questions regarding assignments, future readings, etc.
-
-## Session Notes
-
-Class sessions will have online lecture notes (which will include links to supplementary readings). 
-
-Some lecture notes will be very detailed and loaded with images and text; some lecture notes will be spare and loaded with hyperlinks (recognize that links may change over time).
-
-Refer to the lecture notes either to prepare for what you are going to learn or to review what you have learned.
-Lecture notes will be made available just before each class session. 
-See the [schedule]({{ site.url }}/schedule/) for links to lecture notes. 
+Readings for the upcoming session will be included on the schedule page and in the session notes. 
 
 {% include syllabus-nav.html %}
 
 # Evaluation
 
-This class has no exams, but there are several major tasks that will correspond to one of the major objectives in the course. 
- 
-All of the tasks are interconnected, so it is important to complete the tasks in succession by the due dates listed in the chart below. 
+## Grade contract
 
-## Assignment Tasks
+Evaluation for this course will be based on your agreement to a specific set of tasks at the beginning of the semester and successful completion thereof. 
+This will happen in the form of a contract between you and me which you will sign on the first day of class. 
 
-See [this page]({{ site.url }}/assignments/) for a list of assignments and links to individual assignment instructions. 
+A copy of the contract is avaialable [here](./inls718-sp2017-grade.pdf).
 
-## Assignment Breakdown
-
-{% include assignment-table.md %} 
-
-## Due Dates
-
-Each task is due by the end of the day (midnight) on the date specified. 
-It would be a good idea to complete assignments before that deadline so that you can get a jump on the next section. 
-The final assignment will be due at noon on the final exam day ({{ site.data.dates.exam.date | date: "%-d&nbsp;%B" }}). 
-
-## Submitting Assignments
-
-All of your assignments will be submitted using the assignments feature in Sakai.
-
-All written assignments will be uploaded in PDF format or submitted using the text interface in Sakai. 
-
-*Final deliverables must be uploaded in PDF.*
-
-**DOCX or other formats will not be accepted.**
-
-You will use the following format in uploading your files:
-
-`SURNAME-REVERSE_ORDER_DATE-ASSIGNMENT-SHORT_DESCRIPTION-DELIVERABLE.FILE_EXTENSION`
-
-For example: 
-
-`Martin-20160815-Observation-Description-intermediate.pdf`
-
-`Martin-20160830-Observation-Analysis-final.pdf`
+A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the contract.
 
 ## Participation
 
-In addition to the major assignments, participation will be evaluated and included in the evaluation scheme. 
-Participation, of course, means coming to class: that is mandatory. 
+In addition to the major project work and other assignments, participation will be evaluated and included in the evaluation scheme. 
+Participation, of course, means coming to class: that is mandatory (see below). 
 It also means contributing to discussions both in class and online.
 
 ## Attendance
 
 Attendance is mandatory. 
-Absence will affect your grade in the class. 
-There is no way to make up for this. 
-
-Attendance is graded out of 25 points (one per session). 
+We have around 28 sessions this semester. 
+You will be graded for attendance out of 25 of those sessions. 
 
 {% include syllabus-nav.html %}
 
@@ -132,15 +93,9 @@ Attendance is graded out of 25 points (one per session).
 
 {% marginnote 'tab2' '*Table 2*: Course grades<br/><br/>Explanation of UNC grading systems: http://registrar.unc.edu/academic-services/grades/explanation-of-grading-system/.' %}
 
+We will use the standard UNC grading scales for this course. 
+
 {% include grades-table.md %}
-
-## Grades and Progress
-
-We will use the standard UNC grading scale for this course. 
-Assignment tasks are rubricated and points will be assigned by the instructor after the completion of each task. 
-Rubrics are not published, but are based on the assignment descriptions. 
-
-Grades will be made available on a rolling basis via Sakai.
 
 {% include syllabus-nav.html %}
 
@@ -167,6 +122,8 @@ It shall be the further responsibility of every student to abide by the [philoso
 
 I have a role to play as well, and I will fulfill [these responsibilities](http://studentconduct.unc.edu/instructors).
 
+## Shared Responsibilities
+
 The system rests on several central tenets:
 
 The university community, including faculty and students, share a commitment to the pursuit of truth, and the dissemination of knowledge to succeeding generations of citizens devoted to the high ideals of personal honor and respect for the rights of others.
@@ -186,6 +143,16 @@ Your reward is in the practice of these principles.
 *You are encouraged to work together with your fellow students and to share knowledge and learning.*
 
 However, academic dishonesty in any form is unacceptable, because any breach in academic integrity, however small, strikes destructively at the University's life and work.
+
+## Plagiarism
+
+Plagiarism is not tolerated in this or any course or academic context. 
+Your work for this course will be your own, though almost everything that we do in class will be collaborative. 
+
+We will also be using and writing open source software in this class. 
+Proper crediting of work and adherence to open licensing requirements is an important part of this course and will help us to better understand and avoid plagiarism. 
+
+Please go through this tutorial and then <a href="mailto:john.d.martin.iii@unc.edu?=Plagiarism tutorial">email me</a> the result: [UNC LIbraries Plagiarism Tutorial](http://www.lib.unc.edu/plagiarism/).
 
 ## Diversity and Inclusion
 
@@ -223,10 +190,10 @@ Think, before you speak or act, about how your words and actions affect those ar
 Symbolic violence is real and can be committed very easily. 
 It is usually not recognized as such by those committing it.
 Take care that your words and actions are not marginalizing those who find themselves regularly marginalized. 
-Instead, use your words to empower and avocate for each other.  
+Instead, use your words and actions to empower and avocate for each other.  
 
 ## Dinosaurs
 
-Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu">click here</a> to email me a picture of a dinosaur.
+Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu?=Dinosaur">click here</a> to email me a picture of a dinosaur.
 
 {% include syllabus-nav.html %}

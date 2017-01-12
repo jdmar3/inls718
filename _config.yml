@@ -1,12 +1,15 @@
+# Language
+lang: en # this can be any two-letter language code that conforms to W3C recommendation 3.1.1 https://www.w3.org/TR/2008/REC-WCAG20-20081211/#meaning-doc-lang-id
 # Site settings
 title: User Interface Design
 subtitle: "INLS 718-001 (Spring)"
-description: ""
-baseurl: ""
+description: "Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems."
+longdescription: "Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems. Major topics: users' conceptual models of systems, human information processing capabilities, styles of interfaces, and evaluation methods."
+baseurl:
 url: "https://inls500.johndmart.in"
 enforce-ssl: "inls500.johndmart.in"
 
-mainicon: "/assets/img/500icon.png"
+mainicon: "/assets/img/718icon.png"
 
 university: University of North Carolina at Chapel Hill
 university_url: http://unc.edu
@@ -21,8 +24,6 @@ course-number: "718"
 course-section: "001"
 course-term: Spring
 course-year: "2017"
-#dates: "24 August 2016 - 7 December 2016"
-#exam: "16 December 2016 (8:00-11:00)"
 
 acknowledgements: '' 
 

@@ -7,13 +7,13 @@ $body-font:   ETBembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book A
 $sans-font:  "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
 $code-font: Consolas, "Liberation Mono", Menlo, Courier, monospace;
 $url-font: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
-$text-color: #2A1706;
-$bg-color: #E3D8BC;
-$contrast-color: #657960;
-$contrast-color-dark: #BD3B1B; 
-$code-color: #F6B654;
-$code-color-block: #F6B654;
-$code-background-block: #6C276A;
-$border-color: #A16C36;
+$text-color: #060B51;
+$bg-color: #E9D981;
+$contrast-color: #B4301B;
+$contrast-color-dark: #D98545; 
+$code-color: #bbb;
+$code-color-block: #bbb;
+$code-background-block: #222;
+$border-color: #1E387E;
 $link-style: color; // choices are 'color' or 'underline'. Default is color using $contrast-color set above
-$hr-linear-gradient: left, rgba(161,108,54,0), rgba(161,108,54,0.9), rgba(161,108,54,0); //left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0);
+$hr-linear-gradient: left, rgba(30,56,126,0), rgba(30,56,126,0.9), rgba(30,56,126,0); //left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0);

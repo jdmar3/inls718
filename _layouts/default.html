@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//{% if site.lang %}{{ site.lang | upcase }}{% else %}{{ 'en' | upcase }}{% endif %}" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="{% if site.lang %}{{ site.lang | downcase }}{% else %}{{ 'en' | downcase }}{% endif %}">
   {% include head.html %}
   <body>
     {% include header.html %}

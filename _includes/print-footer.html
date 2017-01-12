@@ -1,1 +1,12 @@
-<span class="print-footer">{% if page.date %}{{ page.title }} - {{ page.date | date: "%B %-d, %Y" }} - {{site.author}}{% else %}{{ page.title }} - {{site.author}}{% endif %}</span>
+<span class="print-footer">This version of the INLS718 syllabus was printed on <a href="#today" id="todaydate">{{ site.time | date: "%A, %-d %B" }}</a>. Be aware that the schedule and other elements of the site are subject to continuous update.</span>
+
+    <script>
+     // set an element
+     //$("#todaydate").val( moment().format('D MMM YYYY') );
+
+     // set a variable
+     var todaydate = moment().format('dddd, D MMMM, YYYY');
+     
+     // insert today into 
+     document.getElementById("todaydate").innerHTML = todaydate
+    </script>
