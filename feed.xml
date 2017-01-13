@@ -19,5 +19,51 @@ This is a course about the design of user interfaces, interactions, and experien
 				<guid isPermaLink="true">https://inls500.johndmart.in/basic%20concepts/2017/01/11/course-overview/</guid>
 			</item>
 		
+			<item>
+				<title>Social design and collaboration</title>
+				        
+				
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Granfield2016-ua&quot;&gt;Granfield, M. (2016). A design by any other name would be so delightful. &lt;i&gt;ACM Interactions Blog&lt;/i&gt;. \urlhttps://interactions.acm.org/blog/view/a-design-by-any-other-name-would-be-so-delightful. Retrieved from &lt;a href=&quot;https://interactions.acm.org/blog/view/a-design-by-any-other-name-would-be-so-delightful&quot;&gt;https://interactions.acm.org/blog/view/a-design-by-any-other-name-would-be-so-delightful&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Le_Dantec2016-br&quot;&gt;Le Dantec, C. A. (2016). Design through collective action / collective action through
+           design. &lt;i&gt;Interactions&lt;/i&gt;, &lt;i&gt;24&lt;/i&gt;(1), 24–30. &lt;a href=&quot;http://doi.org/10.1145/3018005&quot;&gt;http://doi.org/10.1145/3018005&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Adams2001-um&quot;&gt;Adams, J. L. (2001). &lt;i&gt;Conceptual blockbusting: A guide to better ideas&lt;/i&gt;. Cambridge, Massachusetts: Perseus Publishing.&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read the following chapters in &lt;em&gt;Conceptual Blockbusting&lt;/em&gt;: &lt;/li&gt;
+&lt;li&gt;1 (&amp;quot;Introduction,&amp;quot; pp. 1-14) and&lt;/li&gt;
+&lt;li&gt;8 (&amp;quot;Groups,&amp;quot; 159-174).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today we will discuss the importance of collaboration in the design process. 
+No design is every completed alone. 
+The targets are too complex for this to be possible, but we often treat design as though it is something that starts and ends with one designer.
+We will attempt to reorient our thinking around this concept. &lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 17 Jan 2017 00:00:00 -0500</pubDate>
+				<link>https://inls500.johndmart.in/collaboration/2017/01/17/social-design-collaboration/</link>
+				<guid isPermaLink="true">https://inls500.johndmart.in/collaboration/2017/01/17/social-design-collaboration/</guid>
+			</item>
+		
+			<item>
+				<title>Design Lab 1: Collaboration</title>
+				        
+				
+					<description>&lt;p&gt;&lt;a href=&quot;http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf&quot; target=&quot;_blank&quot;&gt;Git - The Simple Guide (PDF)&lt;/a&gt; &lt;a href=&quot;https://rogerdudler.github.io/git-guide/&quot; target=&quot;_blank&quot;&gt;(WEB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot; target=&quot;_blank&quot;&gt;Hello World - GitHub Guides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today we will have a crash course in using Git and GitHub for collaborative development. I recommend that you look over the above tutorials and cheat sheets before coming to class. &lt;/p&gt;
+
+&lt;p&gt;We will also talk about downloading and running &lt;a href=&quot;https://www.kali.org/&quot;&gt;Kali Linux&lt;/a&gt; either in VirtualBox, from a live disk, or natively (if you are really adventurous).&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 19 Jan 2017 00:00:00 -0500</pubDate>
+				<link>https://inls500.johndmart.in/design%20lab/2017/01/19/design-lab-collaboration/</link>
+				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/01/19/design-lab-collaboration/</guid>
+			</item>
+		
 	</channel>
 </rss>
