@@ -206,3 +206,7 @@ Instead, use your words and actions to empower and avocate for each other. 
 Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu?=Dinosaur">click here</a> to email me a picture of a dinosaur.
 
 {% include syllabus-nav.html %}
+
+# Beginning of Semester Questionnaire
+
+If you have gotten this far and haven't filled out the beginning questionnaire yet, follow this link: [https://unc.az1.qualtrics.com/SE/?SID=SV_1LLrgWcsaNnYslf](https://unc.az1.qualtrics.com/SE/?SID=SV_1LLrgWcsaNnYslf). 
