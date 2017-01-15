@@ -26,6 +26,10 @@ slack:
   link: "https://inls718.slack.com"
   alt: "Join the Slack conversations for this course"
   icon: ico-slack
+blog:
+  link: "https://inls718userinterfacedesign.blogspot.com/"
+  alt: "INLS718 design critique blog"
+  icon: ico-blogger
 sakai:
   icon: ico-target
   alt: "UNC Sakai site for this course"

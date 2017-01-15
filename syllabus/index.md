@@ -92,7 +92,7 @@ We will also use Slack to manage communications between members of teams, intern
 Evaluation for this course will be based on your agreement to a specific set of tasks at the beginning of the semester and successful completion thereof. 
 This will happen in the form of a contract between you and me which you will sign on the first day of class. 
 
-A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the [contract](/syllabus/inls718-sp2017-gradecontract.pdf) and [here](/syllabus/evaluation/). 
+A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the [contract](/syllabus/inls718-sp2017-gradecontract.pdf) and [on the course website](/syllabus/evaluation/). 
 
 ## Participation
 

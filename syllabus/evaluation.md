@@ -27,8 +27,11 @@ Individually, you will write a brief essay (NO MORE THAN 2000 words/5 pages sing
 
 # Variable Assignments
 
-Self/peer evaluations (20%, due on the last working day of every month)
+## Self/peer evaluations (20%, due at the end of every month)
+
 At the end of every month, you will be asked to fill out a self and peer evaluation for your team. This is similar to a performance review. These will be submitted through an online interface. Peer evaluations will be anonymized and shared with your team members so that everyone may benefit from praise and suggestions to enhance our collective engagement.
+
+{% marginnote 'tab1' '*Table 1*: Self/peer evaluations' %}
 
 | Self/peer evaluations   | Undergrad | Grad |
 |:------------- | --:| --:|
@@ -40,7 +43,9 @@ At the end of every month, you will be asked to fill out a self and peer evaluat
 
 ## Design critiques (15%)
 
-These are simply posts to the class blog (which is a running institution from previous iterations of this class) that include a picture, audio, or video recording of an interface, experience, or interaction and a critical assessment, as well as suggestions for improvement. You are expected to engage in this activity over the course of the semester. 
+These are simply posts to the class blog (which is a running institution from previous iterations of this class) that include a picture, audio, or video recording of an interface, experience, or interaction and a critical assessment, as well as suggestions for improvement. You are expected to engage in this activity over the course of the semester. [You can find instructions on the class blog](https://inls718userinterfacedesign.blogspot.com/2017/01/instructions-for-design-critique.html).
+
+{% marginnote 'tab2' '*Table 2*: Design critiques' %}
 
 | Design critiques  | Undergrad | Grad |
 |:------------- | --:| --:|
@@ -53,6 +58,8 @@ These are simply posts to the class blog (which is a running institution from pr
 ## Attendance (20%)
 
 There are approximately 28 sessions in this semester. This is how the attendance grade breaks down. You can’t participate if you are not in class. About half of our time spent in class will be hands-on, so it behooves you to take advantage of this time to work with your teams. 
+
+{% marginnote 'tab3' '*Table 3*: Attendance' %}
 
 | Class sessions attended  | Undergrad | Grad |
 |:------------- | --:| --:|

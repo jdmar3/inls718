@@ -19,9 +19,11 @@ This book is all about the psychology of design and how subtle changes can make 
 
 Luke Miller is a graduate from the SILS MSIS program. He takes a hands-on, practical approach to user experience. We will use this book as a reference and resource for designing workflows, creating prototypes, and evaluating our design output and process. 
 
-## Where to buy
+## Where to acquire
 
 These books are all available at the [UNC Student Stores](http://unc.bncollege.com/webapp/wcs/stores/servlet/TBWizardView?catalogId=10001&langId=-1&storeId=88196) or on [Amazon.com](https://www.amazon.com/gp/registry/wishlist/2C6GNL399JC6J/).
+
+There will also be copies of all of these books (in various editions) on reserve at the SILS library. 
 
 # Other readings
 
