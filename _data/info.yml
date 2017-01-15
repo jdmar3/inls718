@@ -18,18 +18,18 @@ days:
 location: 
   icon: ico-library
   var: "014 Manning Hall"
-#sakai:
-#  icon: ico-target
-#  alt: "UNC Sakai site for this course"
-#  link: "https://sakai.unc.edu/portal/site/inls718-001s17"
 github:
   link: "https://github.com/inls718"
   alt: "GitHub organization for this course"
   icon: ico-github
-#slack: 
-#  link: "https://inls500.slack.com"
-#  alt: "Join the Slack conversations for this course"
-#  icon: ico-slack
+slack: 
+  link: "https://inls718.slack.com"
+  alt: "Join the Slack conversations for this course"
+  icon: ico-slack
+sakai:
+  icon: ico-target
+  alt: "UNC Sakai site for this course"
+  link: "https://sakai.unc.edu/portal/site/inls718sp2017"
 rss:
   link: "/feed"
   alt: "Add RSS feed"

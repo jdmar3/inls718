@@ -71,6 +71,16 @@ You may use them however you like.
 
 Readings for the upcoming session will be included on the schedule page and in the session notes. 
 
+## Communication and workflow
+
+### GitHub
+
+We will be using GitHub to manage the collaborative workflow for this course. If you do not have a GitHub account, [please sign up for one](https://github.com). 
+
+### Slack
+
+We will also use Slack to manage communications between members of teams, internally within teams, and with the entire class. Please sign up for the class Slack at: [https://inls718.slack.com/signup](https://inls718.slack.com/x-127870538261-127870558421/signup).
+
 {% include syllabus-nav.html %}
 
 # Evaluation
@@ -82,7 +92,7 @@ This will happen in the form of a contract between you and me which you will sig
 
 [A copy of the contract is avaialable here](./inls718-sp2017-gradecontract.pdf).
 
-A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the contract.
+A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the contract. It is also available [here](/syllabus/evaluation/).
 
 ## Participation
 
