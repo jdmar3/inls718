@@ -4,6 +4,8 @@ title: Evaluation
 weight: 1
 ---
 
+{% marginnote 'contract' '<a href="/syllabus/inls718-sp2017-gradecontract.pdf"><img src="/syllabus/inls718-sp2017-gradecontract.png"></a><br/><br/>[Download the grade contract](/syllabus/inls718-sp2017-gradecontract.pdf).' %}
+
 This course is not like other courses you have taken. The course will operate as if we are all working as part of a design and development team for a small company. We will have a client, whose project will be the focus of the work for this course. 
 
 The course is as much about practice as it is about theoretical knowledge and we will not privilege one over another. The only way to develop good practice in any applied field is to try and “fail.” Failure is a crucial aspect of succeeding. In this course the only way to properly fail is not to try. 
@@ -19,7 +21,7 @@ All mandatory assignments must be completed to assignment specifications to rece
 
 You are required to meet with me at the midterm session in your team. In this meeting we will discuss how your team is progressing in your work on the semester-long project and consider things that might need to be improved and address need for additional resources or shifts in focus. 
 
-## Final reflective essay (10%, due on the day of the exam period, {{ site.data.dates.exam.date | date: "%-d %B %Y" }})
+## Final reflective essay (10%, due on exam day, {{ site.data.dates.exam.date | date: "%-d %B %Y" }})
 
 Individually, you will write a brief essay (NO MORE THAN 2000 words/5 pages single-spaced, 12pt, serif-typeface) on design thinking and user experience. There are a number of ways that you can focus this. : 1) How will you incorporate design thinking into your future work?; 2) What is a design problem that you have encountered that you might approach differently after taking this course?; 3) Critique a user experience that has a social impact or that does not act as a social equalizer. Consider ways that you might improve this experience from a design perspective to help remove an instance of structural or systematic inequality created by a designed experience or interaction.
 

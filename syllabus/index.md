@@ -87,12 +87,12 @@ We will also use Slack to manage communications between members of teams, intern
 
 ## Grade contract
 
+{% marginnote 'contract' '<a href="/syllabus/inls718-sp2017-gradecontract.pdf"><img src="/syllabus/inls718-sp2017-gradecontract.png"></a><br/><br/>[The breakdown of grades in the contract is also available here](/syllabus/evaluation/).' %}
+
 Evaluation for this course will be based on your agreement to a specific set of tasks at the beginning of the semester and successful completion thereof. 
 This will happen in the form of a contract between you and me which you will sign on the first day of class. 
 
-[A copy of the contract is avaialable here](./inls718-sp2017-gradecontract.pdf).
-
-A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the contract. It is also available [here](/syllabus/evaluation/).
+A detailed breakdown of how your grade will be rendered based on participation and contribution is included in the [contract](/syllabus/inls718-sp2017-gradecontract.pdf) and [here](/syllabus/evaluation/). 
 
 ## Participation
 
@@ -171,7 +171,7 @@ Your work for this course will be your own, though almost everything that we do 
 We will also be using and writing open source software and documentation in this class. 
 Proper crediting of work and adherence to open licensing requirements is an important part of this course and will help us to better understand and avoid plagiarism and license violation.
 
-Please go through this tutorial and then <a href="mailto:john.d.martin.iii@unc.edu?=Plagiarism tutorial">email me</a> the result: [UNC LIbraries Plagiarism Tutorial](http://www.lib.unc.edu/plagiarism/).
+Please go through this tutorial and then <a href="mailto:john.d.martin.iii@unc.edu?subject=Plagiarism Tutorial">email me</a> the result: [UNC LIbraries Plagiarism Tutorial](http://www.lib.unc.edu/plagiarism/).
 
 ## Diversity and Inclusion
 
@@ -213,7 +213,7 @@ Instead, use your words and actions to empower and avocate for each other. 
 
 ## Dinosaurs
 
-Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu?=Dinosaur">click here</a> to email me a picture of a dinosaur.
+Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu?subject=Dinosaur">click here</a> to email me a picture of a dinosaur.
 
 {% include syllabus-nav.html %}
 
