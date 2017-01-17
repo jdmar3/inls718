@@ -75,11 +75,12 @@ Readings for the upcoming session will be included on the schedule page and in t
 
 ### GitHub
 
-We will be using GitHub to manage the collaborative workflow for this course. If you do not have a GitHub account, [please sign up for one](https://github.com). 
+We will be using GitHub {% marginnote 'gh' '<a href="https://github.com/inls718/" target="_blank"><img src="/assets/img/logos/github.png" width="225"></a>' %} to manage the collaborative workflow for this course. 
+If you do not have a GitHub account, [please sign up for one](https://github.com). 
 
 ### Slack
 
-We will also use Slack to manage communications between members of teams, internally within teams, and with the entire class. Please sign up for the class Slack at: [https://inls718.slack.com/signup](https://inls718.slack.com/x-127870538261-127870558421/signup).
+We will also use Slack {% marginnote 'slack' '<a href="https://inls718.slack.com/" target="_blank"><img src="/assets/img/logos/slack.png" width="225"></a>' %} to manage communications between members of teams, internally within teams, and with the entire class. Please sign up for the class Slack at: [https://inls718.slack.com/signup](https://inls718.slack.com/x-127870538261-127870558421/signup).
 
 {% include syllabus-nav.html %}
 

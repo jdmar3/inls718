@@ -18,6 +18,8 @@ categories: [resource, linux, unix]
 
 <a href="http://linuxnewbieguide.org/?page_id=5">The Ultimate Linux Newbie Guide</a>
 
+{% marginnote 'kali' '<a href="https://www.kali.org/" target="_blank"><img src="/assets/img/logos/kali.png" width="225"></a>' %}
+
 ## Bash (UNIX shell)
 
 {% marginnote 'bash' '**Bash** is the name of the shell and command language that we use most frequently in Linux and other UNIX clones. It is a text-interface command line envrionment but it can also read commands from files in the form of scripts.' %}
