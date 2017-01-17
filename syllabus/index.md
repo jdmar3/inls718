@@ -132,6 +132,7 @@ We'll discuss what we expect in terms of cooperative, collaborative, shared work
 
 ## Honor Code
 
+{% marginfigure 'div' 'assets/img/uncseal.png' %}
 It shall be the responsibility of every student at The University of North Carolina at Chapel Hill to obey and support the enforcement of the [Honor Code](http://studentconduct.unc.edu/), which prohibits lying, cheating, or stealing when these actions involve academic processes or University, student or academic personnel acting in an official capacity.
 
 ## Campus Code
@@ -166,6 +167,7 @@ However, academic dishonesty in any form is unacceptable, because any breach in 
 
 ## Plagiarism
 
+{% marginfigure 'dnc' 'assets/img/donotcopy.png' %}
 Plagiarism is not tolerated in this or any course or academic context. 
 Your work for this course will be your own, though almost everything that we do in class will be collaborative. 
 
@@ -176,6 +178,7 @@ Please go through this tutorial and then <a href="mailto:john.d.martin.iii@unc.e
 
 ## Diversity and Inclusion
 
+{% marginfigure 'div' 'assets/img/diversity.png' %}
 In support of the University's diversity goals and the mission of the School of Information and Library Science, SILS embraces diversity as an ethical and societal value.
 
 We broadly define diversity to include race, gender, national origin, ethnicity, religion, social class, age, sexual orientation and physical and learning ability.
@@ -214,6 +217,7 @@ Instead, use your words and actions to empower and avocate for each other. 
 
 ## Dinosaurs
 
+{% marginfigure 'dino' 'assets/img/dinosaur.png' %}
 Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu?subject=Dinosaur">click here</a> to email me a picture of a dinosaur.
 
 {% include syllabus-nav.html %}
