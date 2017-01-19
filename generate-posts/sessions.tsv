@@ -1,34 +1,34 @@
 SESSION	DATE	CATEGORY	TITLE	TAGS	DESCRIPTION	READINGS	READINGNOTES
-01	2017-01-12	Course Overview	Course overview: What is user interface design?				
-02	2017-01-17	Collaboration	Social design and collaboration				
-03	2017-01-19	Design lab	Design lab 1: Collaboration				
-04	2017-01-24	Design thinking	The design process				
-05	2017-01-26	Design lab	Design lab 2: Project planning				
-06	2017-01-31	Users	Understanding users				
-07	2017-02-02	Design lab	Design lab 3: Developing user profiles				
-08	2017-02-07	Users	Users imagined and real				
-09	2017-02-09	Design lab	Design lab 4: User analyses				
-10	2017-02-14	Tasks	Understanding tasks and their contexts				
-11	2017-02-16	Design lab	Design lab 5: Mapping information				
-12	2017-02-21	Tasks	Culture, language and context				
-13	2017-02-23	Design lab	Design lab 6: Internationalization				
-14	2017-02-28	Tasks	Information architecture 				
-15	2017-03-02	Design lab	Design lab 7: Developing design requirements				
-16	2017-03-07	Development	Visual design: Aesthetics and function				
+01	2017-01-12	Course Overview	Course overview: What is user interface design?	overview, user experience, collaboration, project			
+02	2017-01-17	Collaboration	Social design and collaboration	social design, collaboration, project			
+03	2017-01-19	Design lab	Design lab 1: Collaboration	Git, GitHub, collaboration, teams, project			
+04	2017-01-24	Design thinking	The design process	design thinking, planning, forecasting			
+05	2017-01-26	Design lab	Design lab 2: Project planning	design thinking, planning, design charette, backcasting			
+06	2017-01-31	Users	Understanding users	users, profiles, research			
+07	2017-02-02	Design lab	Design lab 3: Developing user profiles	users, research, profiles			
+08	2017-02-07	Users	Users imagined and real	users, misconceptions, research, analysis			
+09	2017-02-09	Design lab	Design lab 4: User analyses	users, analysis, research			
+10	2017-02-14	Tasks	Understanding tasks and their contexts	tasks, context			
+11	2017-02-16	Design lab	Design lab 5: Mapping information	tasks, information, context			
+12	2017-02-21	Tasks	Culture, language and context	tasks, language, culture, context, humanism			
+13	2017-02-23	Design lab	Design lab 6: Internationalization and localization	tasks, internationalization, culture, language, context, i18n, l10n			
+14	2017-02-28	Tasks	Information architecture 	tasks, information, structures, context			
+15	2017-03-02	Design lab	Design lab 7: Developing design requirements	tasks, requirements, design thinking, constraints			
+16	2017-03-07	Development	Visual design: Aesthetics and function	development, visual design, aesthetics			
 17	2017-03-09	Mid-term	Mid-term team review				
 Break-01	2017-03-14	Spring break	Spring break				
 Break-02	2017-03-16	Spring break	Spring break				
-18	2017-03-21	Development	Tools and their epistemology				
-19	2017-03-23	Dedisng lab	Design lab 8: 				
-20	2017-03-28	Development	Affordances, conventions, errors				
-21	2017-03-30	Design lab	Design lab 8: Developing features				
-22	2017-04-04	Development	Documentation and user education				
-23	2017-04-06	Design lab	Design lab 9: Writing and maintatining documentation				
-24	2017-04-11	Prototyping	Make it pretty: Prototyping for stakeholders				
-25	2017-04-13	Design lab	Design lab 10: Make it work				
-26	2017-04-18	Evaluation	Evaluation framework				
-27	2017-04-20	Design lab	Design lab 11: Tools for evaluation				
-28	2017-04-25	Evaluation	User testing and analysis of data				
-29	2017-04-27	Design lab	Design lab 12: Guerrilla testing				
+18	2017-03-21	Development	Tools and their epistemology	development, tools, epistemology, worldview			
+19	2017-03-23	Dedisng lab	Design lab 8: Choosing and using the right tools for the job	development, tools, design choices, design thinking			
+20	2017-03-28	Development	Affordances, conventions, errors	development, design thinking, error, convention, affordance			
+21	2017-03-30	Design lab	Design lab 9: Developing features	development, features, affordance, convention, error			
+22	2017-04-04	Development	Documentation and user education	development, error tolerance, users, education, documentation			
+23	2017-04-06	Design lab	Design lab 10: Writing and maintatining documentation	development, error tolerance, users, education, documentation			
+24	2017-04-11	Prototyping	Make it pretty: Prototyping for stakeholders	prototyping, visual design, aesthetics, pitch, design thinking			
+25	2017-04-13	Design lab	Design lab 11: Make it work	prototyping, functional design, design thinking, testing			
+26	2017-04-18	Evaluation	Evaluation framework	evaulation, testing, users			
+27	2017-04-20	Design lab	Design lab 12: Tools for evaluation	evaulation, methods, tools, users, testing			
+28	2017-04-25	Evaluation	User testing and analysis of data	evaulation, testing, users, analysis, methods, research			
+29	2017-04-27	Design lab	Design lab 13: Guerrilla testing	evaulation, testing, users, analysis, methods, research			
 Exam	2017-05-05	Final	Reflective essay due today				
 NULL	NULL	NULL	NULL	NULL	NULL		
