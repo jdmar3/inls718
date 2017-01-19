@@ -4,7 +4,7 @@ session: '06'
 date: '2017-01-31' 
 category: 'Users' 
 title: 'Understanding users' 
-tags: [] 
+tags: [users, profiles, research			] 
 noreading: true
 --- 
 
