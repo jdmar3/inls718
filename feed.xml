@@ -191,25 +191,14 @@ This will help us to envision the future of our project and allow us to develop 
 			</item>
 		
 			<item>
-				<title>Design lab 6: Internationalization and localization</title>
+				<title>Design lab 6: i18n and l10n</title>
 				        
 				
 					<description></description>
 				
 				<pubDate>Thu, 23 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/design%20lab/2017/02/23/design-lab-6-internationalization-and-localization/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/02/23/design-lab-6-internationalization-and-localization/</guid>
-			</item>
-		
-			<item>
-				<title>Design lab 6: Internationalization</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 23 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://inls500.johndmart.in/design%20lab/2017/02/23/design-lab-6-internationalization/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/02/23/design-lab-6-internationalization/</guid>
+				<link>https://inls500.johndmart.in/design%20lab/2017/02/23/design-lab-6-i18n-and-l10n/</link>
+				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/02/23/design-lab-6-i18n-and-l10n/</guid>
 			</item>
 		
 			<item>
@@ -263,8 +252,8 @@ This will help us to envision the future of our project and allow us to develop 
 					<description></description>
 				
 				<pubDate>Tue, 14 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/spring%20break/2017/03/14/spring-break/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/spring%20break/2017/03/14/spring-break/</guid>
+				<link>https://inls500.johndmart.in/break/2017/03/14/spring-break/</link>
+				<guid isPermaLink="true">https://inls500.johndmart.in/break/2017/03/14/spring-break/</guid>
 			</item>
 		
 			<item>
@@ -274,8 +263,8 @@ This will help us to envision the future of our project and allow us to develop 
 					<description></description>
 				
 				<pubDate>Thu, 16 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/spring%20break/2017/03/16/spring-break/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/spring%20break/2017/03/16/spring-break/</guid>
+				<link>https://inls500.johndmart.in/break/2017/03/16/spring-break/</link>
+				<guid isPermaLink="true">https://inls500.johndmart.in/break/2017/03/16/spring-break/</guid>
 			</item>
 		
 			<item>
@@ -301,17 +290,6 @@ This will help us to envision the future of our project and allow us to develop 
 			</item>
 		
 			<item>
-				<title>Design lab 8: </title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 23 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/dedisng%20lab/2017/03/23/design-lab-8/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/dedisng%20lab/2017/03/23/design-lab-8/</guid>
-			</item>
-		
-			<item>
 				<title>Affordances, conventions, errors</title>
 				        
 				
@@ -320,17 +298,6 @@ This will help us to envision the future of our project and allow us to develop 
 				<pubDate>Tue, 28 Mar 2017 00:00:00 -0400</pubDate>
 				<link>https://inls500.johndmart.in/development/2017/03/28/affordances-conventions-errors/</link>
 				<guid isPermaLink="true">https://inls500.johndmart.in/development/2017/03/28/affordances-conventions-errors/</guid>
-			</item>
-		
-			<item>
-				<title>Design lab 8: Developing features</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 30 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/design%20lab/2017/03/30/design-lab-8-developing-features/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/03/30/design-lab-8-developing-features/</guid>
 			</item>
 		
 			<item>
@@ -367,17 +334,6 @@ This will help us to envision the future of our project and allow us to develop 
 			</item>
 		
 			<item>
-				<title>Design lab 9: Writing and maintatining documentation</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 06 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/design%20lab/2017/04/06/design-lab-9-writing-and-maintatining-documentation/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/04/06/design-lab-9-writing-and-maintatining-documentation/</guid>
-			</item>
-		
-			<item>
 				<title>Make it pretty: Prototyping for stakeholders</title>
 				        
 				
@@ -386,17 +342,6 @@ This will help us to envision the future of our project and allow us to develop 
 				<pubDate>Tue, 11 Apr 2017 00:00:00 -0400</pubDate>
 				<link>https://inls500.johndmart.in/prototyping/2017/04/11/make-it-pretty-prototyping-for-stakeholders/</link>
 				<guid isPermaLink="true">https://inls500.johndmart.in/prototyping/2017/04/11/make-it-pretty-prototyping-for-stakeholders/</guid>
-			</item>
-		
-			<item>
-				<title>Design lab 10: Make it work</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 13 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/design%20lab/2017/04/13/design-lab-10-make-it-work/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/04/13/design-lab-10-make-it-work/</guid>
 			</item>
 		
 			<item>
@@ -422,17 +367,6 @@ This will help us to envision the future of our project and allow us to develop 
 			</item>
 		
 			<item>
-				<title>Design lab 11: Tools for evaluation</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/design%20lab/2017/04/20/design-lab-11-tools-for-evaluation/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/04/20/design-lab-11-tools-for-evaluation/</guid>
-			</item>
-		
-			<item>
 				<title>Design lab 12: Tools for evaluation</title>
 				        
 				
@@ -455,17 +389,6 @@ This will help us to envision the future of our project and allow us to develop 
 			</item>
 		
 			<item>
-				<title>Design lab 12: Guerrilla testing</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/design%20lab/2017/04/27/design-lab-12-guerrilla-testing/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/design%20lab/2017/04/27/design-lab-12-guerrilla-testing/</guid>
-			</item>
-		
-			<item>
 				<title>Design lab 13: Guerrilla testing</title>
 				        
 				
@@ -483,8 +406,8 @@ This will help us to envision the future of our project and allow us to develop 
 					<description></description>
 				
 				<pubDate>Fri, 05 May 2017 00:00:00 -0400</pubDate>
-				<link>https://inls500.johndmart.in/final/2017/05/05/reflective-essay-due-today/</link>
-				<guid isPermaLink="true">https://inls500.johndmart.in/final/2017/05/05/reflective-essay-due-today/</guid>
+				<link>https://inls500.johndmart.in/break/2017/05/05/reflective-essay-due-today/</link>
+				<guid isPermaLink="true">https://inls500.johndmart.in/break/2017/05/05/reflective-essay-due-today/</guid>
 			</item>
 		
 	</channel>
