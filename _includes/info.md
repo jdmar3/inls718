@@ -14,5 +14,6 @@
 <span class="{{ site.data.info.slack.icon }}">&nbsp;**Slack**</span>: [{{ site.data.info.slack.link }}]({{ site.data.info.slack.link }})<br/>
 <span class="{{ site.data.info.blog.icon }}">&nbsp;**Blog**</span>: [{{ site.data.info.blog.link }}]({{ site.data.info.blog.link }})<br/>
 <span class="{{ site.data.info.sakai.icon }}">&nbsp;**Sakai**</span>: [{{ site.data.info.sakai.link }}]({{ site.data.info.sakai.link }})<br/>
-<span class="{{ site.data.info.rss.icon }}">&nbsp;**Schedule feed**</span>: [{{ site.url }}{{ site.data.info.rss.link }}]({{ site.data.info.rss.link }})<br/>
+<span class="{{ site.data.info.rss.icon }}">&nbsp;**Schedule feed**</span>: [{{ site.url }}{{ site.data.info.rss.link }}]({{ site.data.info.rss.link }})<br/><br/>
+Site updated {{ site.time | time_tag }}
 </span>
