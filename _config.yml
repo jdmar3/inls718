@@ -6,8 +6,8 @@ subtitle: "INLS 718-001 (Spring)"
 description: "Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems."
 longdescription: "Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems. Major topics: users' conceptual models of systems, human information processing capabilities, styles of interfaces, and evaluation methods."
 baseurl:
-url: "https://inls500.johndmart.in"
-enforce-ssl: "inls500.johndmart.in"
+url: "https://inls718.johndmart.in"
+enforce-ssl: "inls718.johndmart.in"
 
 mainicon: "/assets/img/718icon.png"
 
