@@ -24,26 +24,27 @@ As we saw in class today, there is compelling reason for this since it was very 
 ## Windows instructions
 
 First download and install VirtualBox. 
-It is available for Windows <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-Win.exe">here</a>. 
+It is available for Windows <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-Win.exe" target="_blank">here</a>. 
 
 Run the installer, click next to use the default settings. 
 
 At the end it may ask you if you want to install a new version of the Extension Pack. 
 You do want this. 
 The extension pack is what allows you to access the USB from inside the virtual machine. 
+Download it <a href="http://download.virtualbox.org/virtualbox/5.1.14/Oracle_VM_VirtualBox_Extension_Pack-5.1.14-112924.vbox-extpack" target="_blank">here.</a>
 
 ## Mac instructions
 
 First download and install VirtualBox. 
-It is available for Mac <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-OSX.dmg">here</a>. 
+It is available for Mac <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-OSX.dmg" target="_blank">here</a>. 
 
 # Kali Linux
 
 Once we have VirtualBox installed, we will need to get and import a disk image for Kali Linux. 
 
-For 64-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-amd64.ova">this OVA file</a> from Kali. 
+For 64-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-amd64.ova" target="_blank">this OVA file</a> from Kali. 
 
-For 32-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-i686.ova">this OVA file</a> from Kali. 
+For 32-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-i686.ova" target="_blank">this OVA file</a> from Kali. 
 
 You *should* probably use 64-bit. 
 
