@@ -6,7 +6,7 @@ category: 'Design lab'
 title: 'Design lab 3: Setting up environments' 
 tags: [users, research, profiles			
 ] 
-
+noreading: true
 --- 
 
 We're going to try today to set up environments so that we can start playing with hardware and looking at existing interfaces. 
@@ -75,7 +75,7 @@ This may take a while. The `-y` means that the upgrade will happen without askin
 
 It will still ask you some things. Reply `<Yes>` or `<Ok>` to all of them. Use the cursor keys to move around and the enter key to confirm. 
 
-There will be a screen that asks you about GRUB (it is the booloader). Just press `space` and an asterisk will show up next to the first option and then use the cursor keys to get to `<Ok>` and hit `enter`.
+There will be a screen that asks you about GRUB (it is the booloader). Just press `SPACE` and an asterisk will show up next to the first option and then use the cursor keys to get to `<Ok>` and hit `ENTER`.
 
 `apt-get -y dist-upgrade #This does an full version upgrade of the installed software packages.`
 
