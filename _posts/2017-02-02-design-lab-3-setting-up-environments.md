@@ -50,17 +50,38 @@ You *should* probably use 64-bit.
 
 In VirtualBox select **File > Import Appliance...** and then select. 
 
-Start up the virtual box. Login with *root* as the user and *toor* as the password. These are the default. 
+Start up the virtual box. Login with *root* as the user and *toor* as the password. 
+These are the default. 
+
+## Troubleshooting BIOS issues on Windows. 
+
+If you receive an error that says something about VT-X when you attempt to start your virtual machine, or if it only shows a black screen with an unblinking white underline cursor, we need to change a setting in your BIOS. 
+
+To get into the BIOS, you have to restart your system, and when it comes up the first screen you see will have something that says maybe `BIOS SETTINGS` and a function key. Hit that function key. 
+
+Once inside the text interface of the BIOS. Look around for something that says `Vt-D`. This allows for for virtualization to happen. It may be disabled. If it is, enable it. 
+
+Then exit the BIOS and it will start up. After that you should be able to use VirtualBox with Kali Linux. 
+
+## Upgrade Kali Linux and install GNURadio.
 
 Once inside Kali Linux, open a terminal and type the following commands:
 
-*apt-get update* #This updates the software repositories.
+`apt-get update #This updates the software repositories.`
 
-*apt-get upgrade* #This updates the installed software packages.
+`apt-get -y upgrade #This does an intermediate upgrade of the installed software packages.` 
 
-*apt-get gqrx* #This installs GNURadio.
+This may take a while. The `-y` means that the upgrade will happen without asking you to confirm a bunch of things. It will just do them. 
 
-*apt-get kali-linux-sdr* #This installs other SDR-related packages.
+It will still ask you some things. Reply `<Yes>` or `<Ok>` to all of them. Use the cursor keys to move around and the enter key to confirm. 
+
+There will be a screen that asks you about GRUB (it is the booloader). Just press `space` and an asterisk will show up next to the first option and then use the cursor keys to get to `<Ok>` and hit `enter`.
+
+`apt-get -y dist-upgrade #This does an full version upgrade of the installed software packages.`
+
+`apt-get gqrx #This installs GNURadio.`
+
+`apt-get kali-linux-sdr #This installs other SDR-related packages.`
 
 Now you should be able to go to open GNURadio companion and get started!
 
