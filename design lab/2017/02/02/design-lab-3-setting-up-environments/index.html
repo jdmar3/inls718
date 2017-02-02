@@ -270,42 +270,64 @@
 <h2 id="windows-instructions">Windows instructions</h2>
 
 <p>First download and install VirtualBox. 
-It is available for Windows <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-Win.exe">here</a>. </p>
+It is available for Windows <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-Win.exe" target="_blank">here</a>. </p>
 
 <p>Run the installer, click next to use the default settings. </p>
 
 <p>At the end it may ask you if you want to install a new version of the Extension Pack. 
 You do want this. 
-The extension pack is what allows you to access the USB from inside the virtual machine. </p>
+The extension pack is what allows you to access the USB from inside the virtual machine. 
+Download it <a href="http://download.virtualbox.org/virtualbox/5.1.14/Oracle_VM_VirtualBox_Extension_Pack-5.1.14-112924.vbox-extpack" target="_blank">here.</a></p>
 
 <h2 id="mac-instructions">Mac instructions</h2>
 
 <p>First download and install VirtualBox. 
-It is available for Mac <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-OSX.dmg">here</a>. </p>
+It is available for Mac <a href="http://download.virtualbox.org/virtualbox/5.1.14/VirtualBox-5.1.14-112924-OSX.dmg" target="_blank">here</a>. </p>
 
 <h1 id="kali-linux">Kali Linux</h1>
 
 <p>Once we have VirtualBox installed, we will need to get and import a disk image for Kali Linux. </p>
 
-<p>For 64-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-amd64.ova">this OVA file</a> from Kali. </p>
+<p>For 64-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-amd64.ova" target="_blank">this OVA file</a> from Kali. </p>
 
-<p>For 32-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-i686.ova">this OVA file</a> from Kali. </p>
+<p>For 32-bit systems download <a href="https://images.offensive-security.com/virtual-images/Kali-Linux-2016.2-vbox-i686.ova" target="_blank">this OVA file</a> from Kali. </p>
 
 <p>You <em>should</em> probably use 64-bit. </p>
 
 <p>In VirtualBox select <strong>File &gt; Import Appliance...</strong> and then select. </p>
 
-<p>Start up the virtual box. Login with <em>root</em> as the user and <em>toor</em> as the password. These are the default. </p>
+<p>Start up the virtual box. Login with <em>root</em> as the user and <em>toor</em> as the password. 
+These are the default. </p>
+
+<h2 id="troubleshooting-bios-issues-on-windows">Troubleshooting BIOS issues on Windows.</h2>
+
+<p>If you receive an error that says something about VT-X when you attempt to start your virtual machine, or if it only shows a black screen with an unblinking white underline cursor, we need to change a setting in your BIOS. </p>
+
+<p>To get into the BIOS, you have to restart your system, and when it comes up the first screen you see will have something that says maybe <code>BIOS SETTINGS</code> and a function key. Hit that function key. </p>
+
+<p>Once inside the text interface of the BIOS. Look around for something that says <code>Vt-D</code>. This allows for for virtualization to happen. It may be disabled. If it is, enable it. </p>
+
+<p>Then exit the BIOS and it will start up. After that you should be able to use VirtualBox with Kali Linux. </p>
+
+<h2 id="upgrade-kali-linux-and-install-gnuradio">Upgrade Kali Linux and install GNURadio.</h2>
 
 <p>Once inside Kali Linux, open a terminal and type the following commands:</p>
 
-<p><em>apt-get update</em> #This updates the software repositories.</p>
+<p><code>apt-get update #This updates the software repositories.</code></p>
 
-<p><em>apt-get upgrade</em> #This updates the installed software packages.</p>
+<p><code>apt-get -y upgrade #This does an intermediate upgrade of the installed software packages.</code> </p>
 
-<p><em>apt-get gqrx</em> #This installs GNURadio.</p>
+<p>This may take a while. The <code>-y</code> means that the upgrade will happen without asking you to confirm a bunch of things. It will just do them. </p>
 
-<p><em>apt-get kali-linux-sdr</em> #This installs other SDR-related packages.</p>
+<p>It will still ask you some things. Reply <code>&lt;Yes&gt;</code> or <code>&lt;Ok&gt;</code> to all of them. Use the cursor keys to move around and the enter key to confirm. </p>
+
+<p>There will be a screen that asks you about GRUB (it is the booloader). Just press <code>space</code> and an asterisk will show up next to the first option and then use the cursor keys to get to <code>&lt;Ok&gt;</code> and hit <code>enter</code>.</p>
+
+<p><code>apt-get -y dist-upgrade #This does an full version upgrade of the installed software packages.</code></p>
+
+<p><code>apt-get gqrx #This installs GNURadio.</code></p>
+
+<p><code>apt-get kali-linux-sdr #This installs other SDR-related packages.</code></p>
 
 <p>Now you should be able to go to open GNURadio companion and get started!</p>
 
@@ -321,7 +343,7 @@ It is available for Mac <a href="http://download.virtualbox.org/virtualbox/5.1.1
   </ul> 
 </p>
     </article>
-    <span class="print-footer">This version of the INLS 718-001 (Spring) syllabus was updated 2017-02-02 16:01:29 -0500. Be aware that the schedule and other elements of the site are subject to continuous update.</span>
+    <span class="print-footer">This version of the INLS 718-001 (Spring) syllabus was updated 2017-02-02 17:30:11 -0500. Be aware that the schedule and other elements of the site are subject to continuous update.</span>
 
     <script>
      // set an element
