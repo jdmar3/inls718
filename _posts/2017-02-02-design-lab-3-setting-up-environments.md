@@ -93,7 +93,7 @@ apt-get -o Dpkg::Options::="--force-confnew" --force-yes -fuy dist-upgrade \
 apt-get install gqrx kali-linux-sdr
 ```
 
-OR if you are feeling adventurous, you can use git to download and run this script: 
+OR if you are feeling adventurous, you can use git to download and run this script: https://github.com/inls718/environment-setup
 
 Now you should be able to go to open GNURadio companion and get started!
 
