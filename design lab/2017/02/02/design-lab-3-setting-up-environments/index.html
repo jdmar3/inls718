@@ -323,6 +323,15 @@ These are the default. </p>
 
 <p><code>apt-get kali-linux-sdr #This installs other SDR-related packages.</code></p>
 
+<p>For a COMPLETELY interaction-free upgrade and install, you can just copy and paste the following:</p>
+<div class="highlight"><pre><code class="language-" data-lang="">DEBIAN_FRONTEND=noninteractive \
+apt-get update \
+apt-get -o Dpkg::Options::="--force-confnew" --force-yes -fuy upgrade \
+apt-get -o Dpkg::Options::="--force-confnew" --force-yes -fuy dist-upgrade \
+apt-get gqrx kali-linux-sdr
+</code></pre></div>
+<p>OR if you are feeling adventurous, you can use git to </p>
+
 <p>Now you should be able to go to open GNURadio companion and get started!</p>
 
 <h1 id="for-next-time">For Next Time</h1>
@@ -337,7 +346,7 @@ These are the default. </p>
   </ul> 
 </p>
     </article>
-    <span class="print-footer">This version of the INLS 718-001 (Spring) syllabus was updated 2017-02-02 17:53:52 -0500. Be aware that the schedule and other elements of the site are subject to continuous update.</span>
+    <span class="print-footer">This version of the INLS 718-001 (Spring) syllabus was updated 2017-02-02 19:35:17 -0500. Be aware that the schedule and other elements of the site are subject to continuous update.</span>
 
     <script>
      // set an element
