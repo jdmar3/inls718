@@ -79,9 +79,9 @@ There will be a screen that asks you about GRUB (it is the booloader). Just pres
 
 `apt-get -y dist-upgrade #This does an full version upgrade of the installed software packages.`
 
-`apt-get gqrx #This installs GNURadio.`
+`apt-get install gqrx #This installs GNURadio.`
 
-`apt-get kali-linux-sdr #This installs other SDR-related packages.`
+`apt-get install kali-linux-sdr #This installs other SDR-related packages.`
 
 For a COMPLETELY interaction-free upgrade and install, you can just copy and paste the following:
 
@@ -90,10 +90,10 @@ DEBIAN_FRONTEND=noninteractive \
 apt-get update \
 apt-get -o Dpkg::Options::="--force-confnew" --force-yes -fuy upgrade \
 apt-get -o Dpkg::Options::="--force-confnew" --force-yes -fuy dist-upgrade \
-apt-get gqrx kali-linux-sdr
+apt-get install gqrx kali-linux-sdr
 ```
 
-OR if you are feeling adventurous, you can use git to 
+OR if you are feeling adventurous, you can use git to download and run this script: 
 
 Now you should be able to go to open GNURadio companion and get started!
 
