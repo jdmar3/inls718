@@ -44,13 +44,21 @@ nav_include: true
           <h2>Assigned reading</h2>
 {% bibliography --template bibliography-annote --query @*[keywords ^= {{ post.session }}] %}
 {% endunless %}
-
+          {% if post.excerpt %} 
+          <div>
+            {{ post.excerpt }}
+            <p>
+              <a href="{{ post.url | prepend: site.baseurl }}">More notes...</a>  
+            </p>
+          </div>
+          {% endif %}
+          {% if post.tags %}
           <br/>
-          <div>{{ post.excerpt }}</div>
           <br/>
           <ul class="tags">
             {% for tag in post.tags %}<li><a href="/topics#{{ tag | cgi_escape }}" class="tag">{{ tag | replace: " ", "-" }}</a></li>{% endfor %}
           </ul>
+          {% endif %}
         </li>
     {% endfor %}
   </ul>
