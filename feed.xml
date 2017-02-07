@@ -155,7 +155,15 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 				<title>Users imagined and real</title>
 				        
 				
-					<description></description>
+					<description>&lt;p&gt;Today we&amp;#39;re going to do two things: &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Make sure that we are all up and running with VirtualBox, Kali, and GNURadio. &lt;/li&gt;
+&lt;li&gt;Actually do a walk through with Erica and set up a receiver on our own devices. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today we become the user. We&amp;#39;ll want to keep some questions in mind as we do. &lt;/p&gt;
+</description>
 				
 				<pubDate>Tue, 07 Feb 2017 00:00:00 -0500</pubDate>
 				<link>https://inls718.johndmart.in/users/2017/02/07/users-imagined-and-real/</link>
@@ -166,7 +174,23 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 				<title>Design lab 4: User personas and analyses</title>
 				        
 				
-					<description></description>
+					<description>&lt;p&gt;Be sure to look again at the parts of Tuesday&amp;#39;s readings for examples of user personas. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Miller2015-qa&quot;&gt;Miller, L. (2015). &lt;i&gt;The Practitioner’s Guide To User Experience Design&lt;/i&gt;. New York: Grand Central Publishing.&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Heading: &amp;quot;Getting to know your users,&amp;quot; pp. 20-29. &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Lidwell2010-pg&quot;&gt;Lidwell, W., Holden, K., &amp;amp; Butler, J. (2010). &lt;i&gt;Universal Principles of Design&lt;/i&gt; (2nd ed.). Beverly, Massachussetts: Rockport. Retrieved from &lt;a href=&quot;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&quot;&gt;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&lt;/a&gt;&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;quot;Personas,&amp;quot; p. 182.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will analyze our self-observations from last time to create some personas for novice users. &lt;/p&gt;
+</description>
 				
 				<pubDate>Thu, 09 Feb 2017 00:00:00 -0500</pubDate>
 				<link>https://inls718.johndmart.in/design%20lab/2017/02/09/design-lab-4-user-analyses/</link>
