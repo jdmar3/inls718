@@ -67,3 +67,9 @@ Try your hand at making a working FM radio receiver by following [this tutorial 
 Once you are through the tutorial, you should have something that "works." 
 One of the tarred GRC files in v3l0c1r4pt0r's works better than the other.
 Download them and see if you can spot the diffrences and figure out what the blocks and settings are doing. 
+
+## John's attempt at FM radio
+
+I experimented with this myself and came up with a working configuration to listen to WUNC 91.5. 
+
+You can download it and try it out yourselves by looking in the GitHub repo under our Organization called "[gnuradio-sandbox](https://github.com/inls718/gnuradio-sandbox)."
