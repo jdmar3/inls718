@@ -72,4 +72,19 @@ Download them and see if you can spot the diffrences and figure out what the blo
 
 I experimented with this myself and came up with a working configuration to listen to WUNC 91.5. 
 
-You can download it and try it out yourselves by looking in the GitHub repo under our Organization called "[gnuradio-sandbox](https://github.com/inls718/gnuradio-sandbox)."
+You can download it and try it out yourselves by looking in the GitHub repo under our Organization called "[gnuradio-sandbox](https://github.com/inls718/gnuradio-sandbox)." 
+
+In a terminal you should be able to `git clone` that repo on your Kali system and then run the GRC files in GNURadio. 
+
+```
+
+git clone https://github.com/inls718/gnuradio-sandbox.git
+cd gnuradio-sandbox/fm-radio
+gnuradio-companion fm-radio-receiver-not-working.grc
+
+```
+
+The "not-working" file _sort of_  works. 
+Try to see if you can figure out what is going on that made the other configuration actually work.
+
+In the process of thinking about this, consider how we might communicate to a user, inside an interface, what they could do to get from "not-working" to "working."
