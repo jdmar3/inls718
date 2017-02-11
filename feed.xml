@@ -143,7 +143,8 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 				<title>Design lab 3: Setting up environments</title>
 				        
 				
-					<description>&lt;p&gt;We&amp;#39;re going to try today to set up environments so that we can start playing with hardware and looking at existing interfaces. &lt;/p&gt;
+					<description>&lt;p&gt;We&amp;#39;re going to try today to set up environments so that we can start playing with hardware and looking at existing interfaces. 
+Instructions for setting up VirtualBox and Kali Linux can be found in the notes below. &lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
@@ -201,7 +202,25 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 				<title>Understanding tasks and their contexts</title>
 				        
 				
-					<description></description>
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Miller2015-qa&quot;&gt;Miller, L. (2015). &lt;i&gt;The Practitioner’s Guide To User Experience Design&lt;/i&gt;. New York: Grand Central Publishing.&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read chapter 2, &amp;quot;Creativity Loves Constraints,&amp;quot; pp. 44-69. &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Lidwell2010-pg&quot;&gt;Lidwell, W., Holden, K., &amp;amp; Butler, J. (2010). &lt;i&gt;Universal Principles of Design&lt;/i&gt; (2nd ed.). Beverly, Massachussetts: Rockport. Retrieved from &lt;a href=&quot;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&quot;&gt;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&lt;/a&gt;&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read &amp;quot;Heirarchy,&amp;quot; p. 122, &lt;/li&gt;
+&lt;li&gt;&amp;quot;Heirarchy of Needs,&amp;quot; p. 124, &lt;/li&gt;
+&lt;li&gt;&amp;quot;Nudge,&amp;quot; p. 172,&lt;/li&gt;
+&lt;li&gt;&amp;quot;Operant Conditioning,&amp;quot; p. 174.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the last few weeks we have been focused on users, and they will remain in our sphere of attention for the rest of the semester. 
+This week, however, we are going to turn our focus to tasks and put our systems analysis skills to use by tbreaking down the actual tasks that users go through in the context of our larger set of project tasks. &lt;/p&gt;
+</description>
 				
 				<pubDate>Tue, 14 Feb 2017 00:00:00 -0500</pubDate>
 				<link>https://inls718.johndmart.in/tasks/2017/02/14/understanding-tasks-and-their-contexts/</link>
@@ -212,33 +231,25 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 				<title>Design lab 5: Mapping information</title>
 				        
 				
-					<description></description>
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Wei2004-kh&quot;&gt;Wei, J., &amp;amp; Salvendy, G. (2004). The cognitive task analysis methods for job and task design:
+           review and reappraisal. &lt;i&gt;Behaviour &amp;amp; Information Technology&lt;/i&gt;, &lt;i&gt;23&lt;/i&gt;(4), 273–299. &lt;a href=&quot;http://doi.org/10.1080/01449290410001673036&quot;&gt;http://doi.org/10.1080/01449290410001673036&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Lidwell2010-pg&quot;&gt;Lidwell, W., Holden, K., &amp;amp; Butler, J. (2010). &lt;i&gt;Universal Principles of Design&lt;/i&gt; (2nd ed.). Beverly, Massachussetts: Rockport. Retrieved from &lt;a href=&quot;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&quot;&gt;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&lt;/a&gt;&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read &amp;quot;Flexibility-Usability Tradeoff,&amp;quot; p. 124,&lt;/li&gt;
+&lt;li&gt;&amp;quot;Mapping,&amp;quot; p. 152.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Presently, the interface offered by GNURadio Companion effectively gives a user a path to all of the information available about the varibles and settings related to their task, provided they already know the path. 
+This is sub-optimal for novice users, and for some experienced users. 
+Today we will work on breaking down those tasks into information maps to lead users operating at different levels through and applying them in our various areas of specialization. &lt;/p&gt;
+</description>
 				
 				<pubDate>Thu, 16 Feb 2017 00:00:00 -0500</pubDate>
 				<link>https://inls718.johndmart.in/design%20lab/2017/02/16/design-lab-5-mapping-information/</link>
 				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/02/16/design-lab-5-mapping-information/</guid>
-			</item>
-		
-			<item>
-				<title>Culture, language and context</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Tue, 21 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://inls718.johndmart.in/tasks/2017/02/21/culture-language-and-context/</link>
-				<guid isPermaLink="true">https://inls718.johndmart.in/tasks/2017/02/21/culture-language-and-context/</guid>
-			</item>
-		
-			<item>
-				<title>Design lab 6: i18n and l10n</title>
-				        
-				
-					<description></description>
-				
-				<pubDate>Thu, 23 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://inls718.johndmart.in/design%20lab/2017/02/23/design-lab-6-i18n-and-l10n/</link>
-				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/02/23/design-lab-6-i18n-and-l10n/</guid>
 			</item>
 		
 			<item>
@@ -247,20 +258,42 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 				
 					<description></description>
 				
-				<pubDate>Tue, 28 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://inls718.johndmart.in/tasks/2017/02/28/information-architecture/</link>
-				<guid isPermaLink="true">https://inls718.johndmart.in/tasks/2017/02/28/information-architecture/</guid>
+				<pubDate>Tue, 21 Feb 2017 00:00:00 -0500</pubDate>
+				<link>https://inls718.johndmart.in/tasks/2017/02/21/information-architecture/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/tasks/2017/02/21/information-architecture/</guid>
 			</item>
 		
 			<item>
-				<title>Design lab 7: Developing design requirements</title>
+				<title>Design lab 6: Developing design requirements from user and task analyses</title>
+				        
+				
+					<description></description>
+				
+				<pubDate>Thu, 23 Feb 2017 00:00:00 -0500</pubDate>
+				<link>https://inls718.johndmart.in/design%20lab/2017/02/23/design-lab-6-developing-design-requirements/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/02/23/design-lab-6-developing-design-requirements/</guid>
+			</item>
+		
+			<item>
+				<title>Culture, language, and accessibility</title>
+				        
+				
+					<description></description>
+				
+				<pubDate>Tue, 28 Feb 2017 00:00:00 -0500</pubDate>
+				<link>https://inls718.johndmart.in/tasks/2017/02/28/culture-language-and-accessibility/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/tasks/2017/02/28/culture-language-and-accessibility/</guid>
+			</item>
+		
+			<item>
+				<title>Design lab 7: Accessible design, internationalization and localization</title>
 				        
 				
 					<description></description>
 				
 				<pubDate>Thu, 02 Mar 2017 00:00:00 -0500</pubDate>
-				<link>https://inls718.johndmart.in/design%20lab/2017/03/02/design-lab-7-developing-design-requirements/</link>
-				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/03/02/design-lab-7-developing-design-requirements/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/03/02/design-lab-7-accessibility-culture-language/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/03/02/design-lab-7-accessibility-culture-language/</guid>
 			</item>
 		
 			<item>
