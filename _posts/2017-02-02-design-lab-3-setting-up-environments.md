@@ -10,6 +10,7 @@ noreading: true
 --- 
 
 We're going to try today to set up environments so that we can start playing with hardware and looking at existing interfaces. 
+Instructions for setting up VirtualBox and Kali Linux can be found in the notes below. 
 
 <excerpt/>
 
