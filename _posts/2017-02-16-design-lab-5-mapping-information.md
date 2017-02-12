@@ -12,7 +12,9 @@ noreading: false
   - {% reference Wei2004-kh %}
     - Skim this for reference purposes. Some of the concepts might be useful to you. 
   - {% reference Lidwell2010-pg %}
-    - Read "Flexibility-Usability Tradeoff," p. 124,
+    - Read "Five Hat Racks," p. 100,
+    - "Iconic Representation," p. 132,
+    - "Flexibility-Usability Tradeoff," p. 124,
     - "Mapping," p. 152.
 
 Presently, the interface offered by GNURadio Companion effectively gives a user a path to all of the information available about the varibles and settings related to their task, provided they already know the path. 
