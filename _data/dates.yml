@@ -10,6 +10,8 @@ midterm:
   date: "2017-03-09"
 office: 
   dow: Tuesday
-  time: "14:00-15:30"
+  dow2: Thursday
+  time: "14:00-15:00"
+  time2: "11:00-12:00"
   location: "216 Manning Hall"
   note: "or by appointment."
