@@ -10,6 +10,7 @@ noreading: false
 --- 
 
   - {% reference Wei2004-kh %}
+    - Skim this for reference purposes. Some of the concepts might be useful to you. 
   - {% reference Lidwell2010-pg %}
     - Read "Flexibility-Usability Tradeoff," p. 124,
     - "Mapping," p. 152.

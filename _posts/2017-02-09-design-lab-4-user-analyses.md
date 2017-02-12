@@ -6,7 +6,6 @@ category: 'Design lab'
 title: 'Design lab 4: User personas and analyses' 
 tags: [users, analysis, research			
 ] 
-noreading: true
 --- 
 
 Be sure to look again at the parts of Tuesday's readings for examples of user personas. 
