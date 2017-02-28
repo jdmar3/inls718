@@ -8,7 +8,7 @@ tags: [tasks, accessibility, language, culture, context, humanism
 ] 
 --- 
 
-  - {% reference Klein2010-vk %}
+  - {% reference Klein2010-vk %} [Link](https://paperpile.com/app/p/f3976629-0568-0dad-afd3-5bba9aa0c99f)
   - {% reference Cyr2004-zc %}
   - {% reference Adams2001-um %}
     - Read the following chapters in *Conceptual Blockbusting*: 
