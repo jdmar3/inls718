@@ -382,7 +382,10 @@ Today we will work on breaking down those tasks into information maps to lead us
 				<title>Mid-term team review</title>
 				        
 				
-					<description></description>
+					<description>&lt;p&gt;Today we will meet in groups and I would like you to fill out the evaluation form linked below. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/docs/midterm-self-eval.pdf&quot;&gt;Mid-term self-evaluation&lt;/a&gt;&lt;/p&gt;
+</description>
 				
 				<pubDate>Thu, 09 Mar 2017 00:00:00 -0500</pubDate>
 				<link>https://inls718.johndmart.in/mid-term/2017/03/09/mid-term-team-review/</link>
@@ -415,7 +418,14 @@ Today we will work on breaking down those tasks into information maps to lead us
 				<title>Tools and their epistemology</title>
 				        
 				
-					<description></description>
+					<description>&lt;p&gt;Today we will discuss tool choice and what it means when we use one tool over another. 
+We&amp;#39;ll also talk about how tools are not an accident of circumstance. 
+They all have specific design constraints that came along with their development and the worldview of their authors embedded within. &lt;/p&gt;
+
+&lt;p&gt;We will watch this &lt;a href=&quot;https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government&quot;&gt;TED talk by Clay Shirky on open source government&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://embed.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+</description>
 				
 				<pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/development/2017/03/21/tools-and-their-epistemology/</link>
@@ -437,7 +447,15 @@ Today we will work on breaking down those tasks into information maps to lead us
 				<title>Affordances, conventions, errors</title>
 				        
 				
-					<description></description>
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Norman2013-ko&quot;&gt;Norman, D. A. (2013). &lt;i&gt;The Design of Everyday Things: Revised and Expanded Edition&lt;/i&gt;. New York: Basic Books.&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read chapter 4, &amp;quot;Knowing What to Do: Constraints, Discoverability, and Feedback,&amp;quot; pp. 123-161, and&lt;/li&gt;
+&lt;li&gt;chapter 6, &amp;quot;Design Thinking,&amp;quot; pp. 217-257.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 				
 				<pubDate>Tue, 28 Mar 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/development/2017/03/28/affordances-conventions-errors/</link>
@@ -459,7 +477,16 @@ Today we will work on breaking down those tasks into information maps to lead us
 				<title>Documentation and user education</title>
 				        
 				
-					<description>&lt;p&gt;Important comic about documentation: &lt;a href=&quot;http://www.commitstrip.com/en/2017/02/20/no-ones-fault/&quot;&gt;http://www.commitstrip.com/en/2017/02/20/no-ones-fault/&lt;/a&gt;&lt;/p&gt;
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Norman2013-ko&quot;&gt;Norman, D. A. (2013). &lt;i&gt;The Design of Everyday Things: Revised and Expanded Edition&lt;/i&gt;. New York: Basic Books.&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read chapter 3, &amp;quot;Knowledge in the Head and in the World,&amp;quot; pp. 74-122, and&lt;/li&gt;
+&lt;li&gt;chapter 5, &amp;quot;Human Error? No, Bad Design,&amp;quot; pp. 162-216.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Important comic about documentation: &lt;a href=&quot;http://www.commitstrip.com/en/2017/02/20/no-ones-fault/&quot;&gt;http://www.commitstrip.com/en/2017/02/20/no-ones-fault/&lt;/a&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 04 Apr 2017 00:00:00 -0400</pubDate>
@@ -490,37 +517,36 @@ Today we will work on breaking down those tasks into information maps to lead us
 			</item>
 		
 			<item>
-				<title>Design lab 11: Make it work</title>
+				<title>Design lab 11: Pretty Prototpying</title>
 				        
 				
 					<description></description>
 				
 				<pubDate>Thu, 13 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://inls718.johndmart.in/design%20lab/2017/04/13/design-lab-11-make-it-work/</link>
-				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/13/design-lab-11-make-it-work/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/04/13/design-lab-11-pretty-prototyping/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/13/design-lab-11-pretty-prototyping/</guid>
 			</item>
 		
 			<item>
-				<title>Evaluation framework</title>
+				<title>Make it work: The place of the minimum working example (MWE)</title>
 				        
 				
-					<description>&lt;p&gt;&lt;a href=&quot;http://www.smbc-comics.com/comic/the-multiverse-explained&quot;&gt;Read this relevant comic from Saturday Morning Breakfast Cereal.&lt;/a&gt;&lt;/p&gt;
-</description>
+					<description></description>
 				
 				<pubDate>Tue, 18 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://inls718.johndmart.in/evaluation/2017/04/18/evaluation-framework/</link>
-				<guid isPermaLink="true">https://inls718.johndmart.in/evaluation/2017/04/18/evaluation-framework/</guid>
+				<link>https://inls718.johndmart.in/prototyping/2017/04/18/make-it-work/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/prototyping/2017/04/18/make-it-work/</guid>
 			</item>
 		
 			<item>
-				<title>Design lab 12: Tools for evaluation</title>
+				<title>Design lab 12: Functional prototyping</title>
 				        
 				
 					<description></description>
 				
 				<pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://inls718.johndmart.in/design%20lab/2017/04/20/design-lab-12-tools-for-evaluation/</link>
-				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/20/design-lab-12-tools-for-evaluation/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/04/20/design-lab-12-functional-prototyping/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/20/design-lab-12-functional-prototyping/</guid>
 			</item>
 		
 			<item>
