@@ -9,4 +9,8 @@ tags: [development, design thinking, error, convention, affordance, skeuomorphis
 noreading: true
 --- 
 
+  - {% reference Norman2013-ko %}
+    - Read chapter 4, "Knowing What to Do: Constraints, Discoverability, and Feedback," pp. 123-161, and
+    - chapter 6, "Design Thinking," pp. 217-257.
+
 <excerpt/>
