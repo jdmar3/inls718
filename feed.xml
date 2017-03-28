@@ -466,7 +466,20 @@ They all have specific design constraints that came along with their development
 				<title>Design lab 9: Developing features</title>
 				        
 				
-					<description></description>
+					<description>&lt;p&gt;For today I would like you to think about one feature for our GNURadio-based project and describe it in an issue on GitHub in the repository where you are primarily working. 
+Be responsive to the following: &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What does this feature afford users?&lt;/li&gt;
+&lt;li&gt;What are its constraints and how do they help or hinder users?&lt;/li&gt;
+&lt;li&gt;How does the feature signify its affordance or how to use it to users?&lt;/li&gt;
+&lt;li&gt;What conventions does this feature either respond to, incorporate, or reject, either in the context of interface design generally or GNURadio specifically?&lt;/li&gt;
+&lt;li&gt;How will you go about arguing for the inclusion of this feature?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Get creative with this, but make it a very, very specific feature, rather than a general one. 
+You can upload pictures, code snippets, or anything else you want along with the issue. &lt;/p&gt;
+</description>
 				
 				<pubDate>Thu, 30 Mar 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/design%20lab/2017/03/30/design-lab-9-developing-features/</link>
