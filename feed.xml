@@ -533,7 +533,16 @@ You can upload pictures, code snippets, or anything else you want along with the
 				<title>Design lab 10: Writing and maintatining documentation</title>
 				        
 				
-					<description></description>
+					<description>&lt;p&gt;Today we&amp;#39;re going to sketch up the features that we looked at last week and write a piece of documentation for them. &lt;/p&gt;
+
+&lt;p&gt;In the documentation, I want to see you describe:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What the feature does (functionally) for a user.&lt;/li&gt;
+&lt;li&gt;Expected user inputs (what does the user do?) and program outputs (what can the user expect in response?).&lt;/li&gt;
+&lt;li&gt;Possible errors that may result (if any) and corrective suggestions for user. &lt;/li&gt;
+&lt;/ol&gt;
+</description>
 				
 				<pubDate>Thu, 06 Apr 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/design%20lab/2017/04/06/design-lab-10-writing-and-maintatining-documentation/</link>
