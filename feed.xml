@@ -542,6 +542,9 @@ You can upload pictures, code snippets, or anything else you want along with the
 &lt;li&gt;Expected user inputs (what does the user do?) and program outputs (what can the user expect in response?).&lt;/li&gt;
 &lt;li&gt;Possible errors that may result (if any) and corrective suggestions for user. &lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;Put this all in comments on the issue that you created last week. 
+Alternatively, you can do the work elsewhere and link to the files in the comments. &lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 06 Apr 2017 00:00:00 -0400</pubDate>
