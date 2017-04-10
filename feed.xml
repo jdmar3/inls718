@@ -312,7 +312,9 @@ Today we will work on breaking down those tasks into information maps to lead us
 					<description>&lt;ul&gt;
 &lt;li&gt;&lt;span id=&quot;Klein2010-vk&quot;&gt;Klein, H. A., Lippa, K., &amp;amp; Lin, M.-H. (2010). As Human-Computer Interactions Go Global. In C. C. Hayes &amp;amp; C. A. Miller (Eds.), &lt;i&gt;Human-computer etiquette: Cultural expectations and the design
            implications the place on computers and technology&lt;/i&gt; (pp. 15–33). Boca Raton, Florida: Auerbach Books.&lt;/span&gt; &lt;a href=&quot;https://paperpile.com/app/p/f3976629-0568-0dad-afd3-5bba9aa0c99f&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(missing reference)&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Cyr2004-zc&quot;&gt;Cyr, D., &amp;amp; Trevor-Smith, H. (2004). Localization of Web design: An empirical comparison of German,
+           Japanese, and United States Web site characteristics. &lt;i&gt;Journal of the American Society for Information Science.
+           American Society for Information Science&lt;/i&gt;, &lt;i&gt;55&lt;/i&gt;(13), 1199–1208. &lt;a href=&quot;http://doi.org/10.1002/asi.20075&quot;&gt;http://doi.org/10.1002/asi.20075&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;Adams2001-um&quot;&gt;Adams, J. L. (2001). &lt;i&gt;Conceptual blockbusting: A guide to better ideas&lt;/i&gt;. Cambridge, Massachusetts: Perseus Publishing.&lt;/span&gt;
 
 &lt;ul&gt;
@@ -556,7 +558,18 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 				<title>Make it pretty: Prototyping for stakeholders</title>
 				        
 				
-					<description></description>
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Nielsen2003-bq&quot;&gt;Nielsen, J. (2003). Paper Prototyping: Getting User Data Before You Code. &lt;i&gt;Nielsen Norman Group&lt;/i&gt;. \urlhttps://&lt;a href=&quot;http://www.nngroup.com/articles/paper-prototyping/&quot;&gt;www.nngroup.com/articles/paper-prototyping/&lt;/a&gt;. Retrieved from &lt;a href=&quot;https://www.nngroup.com/articles/paper-prototyping/&quot;&gt;https://www.nngroup.com/articles/paper-prototyping/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Farrell2015-rj&quot;&gt;Farrell, S. (2015). Test Paper Prototypes to Save Time and Money: The Mozilla
+              Case Study. &lt;i&gt;Nielsen Norman Group&lt;/i&gt;. \urlhttps://&lt;a href=&quot;http://www.nngroup.com/articles/mozilla-paper-prototype/&quot;&gt;www.nngroup.com/articles/mozilla-paper-prototype/&lt;/a&gt;. Retrieved from &lt;a href=&quot;https://www.nngroup.com/articles/mozilla-paper-prototype/&quot;&gt;https://www.nngroup.com/articles/mozilla-paper-prototype/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will watch these two videos on rapid prototyping in class. &lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JMjozqJS44M?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KWGBGTGryFk?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
 				
 				<pubDate>Tue, 11 Apr 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/prototyping/2017/04/11/make-it-pretty-prototyping-for-stakeholders/</link>
@@ -567,7 +580,19 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 				<title>Design lab 11: Pretty Prototpying</title>
 				        
 				
-					<description></description>
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Lidwell2010-pg&quot;&gt;Lidwell, W., Holden, K., &amp;amp; Butler, J. (2010). &lt;i&gt;Universal Principles of Design&lt;/i&gt; (2nd ed.). Beverly, Massachussetts: Rockport. Retrieved from &lt;a href=&quot;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&quot;&gt;http://site.ebrary.com.libproxy.lib.unc.edu/lib/uncch/detail.action?docID=10715587&lt;/a&gt;&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read &amp;quot;Archetypes,&amp;quot; p. 28 and&lt;/li&gt;
+&lt;li&gt;&amp;quot;Prototyping,&amp;quot; p. 74.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today we&amp;#39;re going to translate our paper prototype into a screen-based prototype using the online tool: &lt;a href=&quot;http://concept.ly&quot;&gt;http://concept.ly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sign up for an account before class at &lt;a href=&quot;https://app.concept.ly/home/signup.vz&quot;&gt;https://app.concept.ly/home/signup.vz&lt;/a&gt; &lt;/p&gt;
+</description>
 				
 				<pubDate>Thu, 13 Apr 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/design%20lab/2017/04/13/design-lab-11-pretty-prototyping/</link>
@@ -578,7 +603,14 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 				<title>Make it work: The place of the minimum working example (MWE)</title>
 				        
 				
-					<description></description>
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Wimberly2015-fx&quot;&gt;Wimberly, C. (2015). 5 prototyping tips that will improve your process. &lt;i&gt;InVision Blog&lt;/i&gt;. \urlhttp://blog.invisionapp.com/5-prototyping-tips-that-will-improve-your-process/. Retrieved from &lt;a href=&quot;http://blog.invisionapp.com/5-prototyping-tips-that-will-improve-your-process/&quot;&gt;http://blog.invisionapp.com/5-prototyping-tips-that-will-improve-your-process/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Odysseos2016-yx&quot;&gt;Odysseos, A. (2016). 10 Indispensible App Prototyping Tips from Successful
+              Designers. &lt;i&gt;Proto.io Blog&lt;/i&gt;. \urlhttp://blog.proto.io/10-indispensible-app-prototyping-tips-from-successful-designers/. Retrieved from &lt;a href=&quot;http://blog.proto.io/10-indispensible-app-prototyping-tips-from-successful-designers/&quot;&gt;http://blog.proto.io/10-indispensible-app-prototyping-tips-from-successful-designers/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lusOgox4xMI?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
 				
 				<pubDate>Tue, 18 Apr 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/prototyping/2017/04/18/make-it-work/</link>
@@ -600,7 +632,18 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 				<title>User testing and analysis of data</title>
 				        
 				
-					<description></description>
+					<description>&lt;ul&gt;
+&lt;li&gt;&lt;span id=&quot;Muldoon2011-hb&quot;&gt;Muldoon, N. (2011). Usability Testing with Paper Prototyping. &lt;i&gt;Atlassian Blogs&lt;/i&gt;. \urlhttps://&lt;a href=&quot;http://www.atlassian.com/blog/archives/usability-testing-with-paper-prototyping&quot;&gt;www.atlassian.com/blog/archives/usability-testing-with-paper-prototyping&lt;/a&gt;. Retrieved from &lt;a href=&quot;https://www.atlassian.com/blog/archives/usability-testing-with-paper-prototyping&quot;&gt;https://www.atlassian.com/blog/archives/usability-testing-with-paper-prototyping&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Naji2016-jn&quot;&gt;Naji, C. (2016). Usability Testing With Prototypes. &lt;i&gt;Usability Geek&lt;/i&gt;. \urlhttp://usabilitygeek.com/usability-testing-prototypes/. Retrieved from &lt;a href=&quot;http://usabilitygeek.com/usability-testing-prototypes/&quot;&gt;http://usabilitygeek.com/usability-testing-prototypes/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Cao2016-iz&quot;&gt;Cao, J. (2016). Paper Prototyping: The 10-Minute Practical Guide. &lt;i&gt;Studio by UXPin&lt;/i&gt;. \urlhttps://&lt;a href=&quot;http://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/&quot;&gt;www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/&lt;/a&gt;. Retrieved from &lt;a href=&quot;https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/&quot;&gt;https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Watch this walkthrough of a paper prototype user test. 
+Pay attention to what is happening at each stage and in each scenario. 
+How might this technique be used in our project?&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_g4GGtJ8NCY?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
 				
 				<pubDate>Tue, 25 Apr 2017 00:00:00 -0400</pubDate>
 				<link>https://inls718.johndmart.in/evaluation/2017/04/25/user-testing-and-analysis-of-data/</link>
