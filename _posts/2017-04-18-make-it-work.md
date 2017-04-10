@@ -12,6 +12,10 @@ noreading: false
 - {% reference Wimberly2015-fx %}
 - {% reference Odysseos2016-yx %}
 
+The third video in the Google series on prototyping deals with native prototyping, or building prototypes using actual code and devices. 
+
+We'll watch it together in class, but it is a good idea to have a look at it beforehand as well. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lusOgox4xMI?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <excerpt/>

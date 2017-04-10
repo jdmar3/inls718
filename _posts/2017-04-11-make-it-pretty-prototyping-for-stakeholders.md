@@ -11,12 +11,14 @@ noreading: false
 
 - {% reference Nielsen2003-bq %}
 - {% reference Farrell2015-rj %}
- 
 
+We will watch several of the videos in this 3-part series on prototyping from Google.
 
-We will watch these two videos on rapid prototyping in class. 
+The first deals with paper prototyping:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMjozqJS44M?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+The second looks at translating into screen prototypes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWGBGTGryFk?ecver=1" frameborder="0" allowfullscreen></iframe>
 
