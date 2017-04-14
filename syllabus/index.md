@@ -28,7 +28,7 @@ User experience is a broader way of looking at user interfaces.
 Rather than considering only what is on the screen or just the parts of an interface that a user directly interacts with, this mode of thinking about how users and systems interact takes into account how and why people do things. 
 It also helps us to think about how people feel, consider their motivations, and attempt to understand their frustrations when we engage in design. 
 
-### Designe Critique
+### Design Critique
 
 In order to become designers, we have to look into the built world and consider everything that we see to be the output of a design process. 
 We will learn to ask questions of the everyday objects, interfaces, and experiences we interact with to better understand why a designer made one choice over another. 
@@ -218,7 +218,7 @@ Instead, use your words and actions to empower and avocate for each other. 
 ## Dinosaurs
 
 {% marginfigure 'dino' 'assets/img/dinosaur.png' %}
-Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu?subject=Dinosaur">click here</a> to email me a picture of a dinosaur.
+Once you have read this syllabus in full, please <a href="mailto:john.d.martin.iii@unc.edu?subject=Dinosaur">click here</a> and email me a picture of a dinosaur.
 
 {% include syllabus-nav.html %}
 
