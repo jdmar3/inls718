@@ -1,7 +1,9 @@
+<!--
 <label for='info' class='margin-toggle'> &#8853;</label>
 <input type='checkbox' id='info' class='margin-toggle'/>
-<span class='marginnote'>
-<span class="date larger">{{ "Course Info" | upcase }}</span><br/><br/>
+-->
+<span class='marginnote-contact'>
+<span class="date">{{ "Course Info" | upcase }}</span><br/><br/>
 <span class="{{ site.data.info.instructor.icon }}">&nbsp;**Instructor:**</span> [{{ site.data.info.instructor.var }}]({{ site.data.info.instructor.link }})<br/>
 <span class="{{ site.data.info.email.icon }}">&nbsp;**Email:**</span> <a href="{{ site.data.info.email.link }}">{{ site.data.info.email.var }}</a><br/>
 <span class="ico-book">&nbsp;**Office hours:**</span> {{ site.data.dates.office.dow }}, {{ site.data.dates.office.time }} {% if site.data.dates.office.dow2 %} and {{ site.data.dates.office.dow2 }}, {{ site.data.dates.office.time2 }}{% endif %}, {{ site.data.dates.office.place }} {{ site.data.dates.office.note }}<br/>

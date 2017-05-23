@@ -5,9 +5,20 @@ title: User Interface Design
 subtitle: "INLS 718-001 (Spring)"
 description: "Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems."
 longdescription: "Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems. Major topics: users' conceptual models of systems, human information processing capabilities, styles of interfaces, and evaluation methods."
+
+## Comment this section if setting up an archive site ##################
 baseurl:
 url: "https://inls718.johndmart.in"
 enforce-ssl: "inls718.johndmart.in"
+########################################################################
+
+## Uncomment this section if setting up an archive site ################
+#url: "https://ils.unc.edu"
+#baseurl: "/courses/2017_spring/inls718_001"
+#enforce-ssl: "ils.unc.edu"
+# When mothballed assignments link to statics and there is a GH link
+mothballed: true  
+########################################################################
 
 mainicon: "/assets/img/718icon.png"
 
