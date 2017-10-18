@@ -3,8 +3,8 @@
 	<channel>
 		<title></title>
 		<description>Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems.</description>		
-		<link>https://ils.unc.edu</link>
-		<atom:link href="https://ils.unc.edu/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://inls718.johndmart.in</link>
+		<atom:link href="https://inls718.johndmart.in/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Course overview: what is user interface design?</title>
@@ -15,8 +15,8 @@ This is a course about the design of user interfaces, interactions, and experien
 </description>
 				
 				<pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/basic%20concepts/2017/01/11/course-overview/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/basic%20concepts/2017/01/11/course-overview/</guid>
+				<link>https://inls718.johndmart.in/basic%20concepts/2017/01/11/course-overview/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/basic%20concepts/2017/01/11/course-overview/</guid>
 			</item>
 		
 			<item>
@@ -43,8 +43,8 @@ We will attempt to reorient our thinking around this concept. &lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 17 Jan 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/collaboration/2017/01/17/social-design-collaboration/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/collaboration/2017/01/17/social-design-collaboration/</guid>
+				<link>https://inls718.johndmart.in/collaboration/2017/01/17/social-design-collaboration/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/collaboration/2017/01/17/social-design-collaboration/</guid>
 			</item>
 		
 			<item>
@@ -67,8 +67,8 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 </description>
 				
 				<pubDate>Thu, 19 Jan 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/01/19/design-lab-collaboration/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/01/19/design-lab-collaboration/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/01/19/design-lab-collaboration/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/01/19/design-lab-collaboration/</guid>
 			</item>
 		
 			<item>
@@ -96,8 +96,8 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 </description>
 				
 				<pubDate>Tue, 24 Jan 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20thinking/2017/01/24/the-design-process/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20thinking/2017/01/24/the-design-process/</guid>
+				<link>https://inls718.johndmart.in/design%20thinking/2017/01/24/the-design-process/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20thinking/2017/01/24/the-design-process/</guid>
 			</item>
 		
 			<item>
@@ -109,8 +109,8 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 </description>
 				
 				<pubDate>Thu, 26 Jan 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/01/26/design-lab-2-project-planning/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/01/26/design-lab-2-project-planning/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/01/26/design-lab-2-project-planning/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/01/26/design-lab-2-project-planning/</guid>
 			</item>
 		
 			<item>
@@ -135,8 +135,8 @@ I recommend that you look over the above tutorials and cheat sheets before comin
 </description>
 				
 				<pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/users/2017/01/31/understanding-users/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/users/2017/01/31/understanding-users/</guid>
+				<link>https://inls718.johndmart.in/users/2017/01/31/understanding-users/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/users/2017/01/31/understanding-users/</guid>
 			</item>
 		
 			<item>
@@ -148,8 +148,8 @@ Instructions for setting up VirtualBox and Kali Linux can be found in the notes 
 </description>
 				
 				<pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/02/02/design-lab-3-setting-up-environments/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/02/02/design-lab-3-setting-up-environments/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/02/02/design-lab-3-setting-up-environments/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/02/02/design-lab-3-setting-up-environments/</guid>
 			</item>
 		
 			<item>
@@ -167,8 +167,8 @@ Instructions for setting up VirtualBox and Kali Linux can be found in the notes 
 </description>
 				
 				<pubDate>Tue, 07 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/users/2017/02/07/users-imagined-and-real/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/users/2017/02/07/users-imagined-and-real/</guid>
+				<link>https://inls718.johndmart.in/users/2017/02/07/users-imagined-and-real/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/users/2017/02/07/users-imagined-and-real/</guid>
 			</item>
 		
 			<item>
@@ -194,8 +194,8 @@ Instructions for setting up VirtualBox and Kali Linux can be found in the notes 
 </description>
 				
 				<pubDate>Thu, 09 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/02/09/design-lab-4-user-analyses/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/02/09/design-lab-4-user-analyses/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/02/09/design-lab-4-user-analyses/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/02/09/design-lab-4-user-analyses/</guid>
 			</item>
 		
 			<item>
@@ -223,8 +223,8 @@ This week, however, we are going to turn our focus to tasks and put our systems 
 </description>
 				
 				<pubDate>Tue, 14 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/tasks/2017/02/14/understanding-tasks-and-their-contexts/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/tasks/2017/02/14/understanding-tasks-and-their-contexts/</guid>
+				<link>https://inls718.johndmart.in/tasks/2017/02/14/understanding-tasks-and-their-contexts/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/tasks/2017/02/14/understanding-tasks-and-their-contexts/</guid>
 			</item>
 		
 			<item>
@@ -254,8 +254,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 </description>
 				
 				<pubDate>Thu, 16 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/02/16/design-lab-5-mapping-information/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/02/16/design-lab-5-mapping-information/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/02/16/design-lab-5-mapping-information/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/02/16/design-lab-5-mapping-information/</guid>
 			</item>
 		
 			<item>
@@ -281,8 +281,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 </description>
 				
 				<pubDate>Tue, 21 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/tasks/2017/02/21/information-architecture/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/tasks/2017/02/21/information-architecture/</guid>
+				<link>https://inls718.johndmart.in/tasks/2017/02/21/information-architecture/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/tasks/2017/02/21/information-architecture/</guid>
 			</item>
 		
 			<item>
@@ -301,8 +301,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 </description>
 				
 				<pubDate>Thu, 23 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/02/23/design-lab-6-developing-design-requirements/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/02/23/design-lab-6-developing-design-requirements/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/02/23/design-lab-6-developing-design-requirements/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/02/23/design-lab-6-developing-design-requirements/</guid>
 			</item>
 		
 			<item>
@@ -326,8 +326,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 </description>
 				
 				<pubDate>Tue, 28 Feb 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/tasks/2017/02/28/culture-language-and-accessibility/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/tasks/2017/02/28/culture-language-and-accessibility/</guid>
+				<link>https://inls718.johndmart.in/tasks/2017/02/28/culture-language-and-accessibility/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/tasks/2017/02/28/culture-language-and-accessibility/</guid>
 			</item>
 		
 			<item>
@@ -346,8 +346,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 </description>
 				
 				<pubDate>Thu, 02 Mar 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/03/02/design-lab-7-accessibility-culture-language/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/03/02/design-lab-7-accessibility-culture-language/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/03/02/design-lab-7-accessibility-culture-language/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/03/02/design-lab-7-accessibility-culture-language/</guid>
 			</item>
 		
 			<item>
@@ -376,8 +376,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 </description>
 				
 				<pubDate>Tue, 07 Mar 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/development/2017/03/07/visual-design-aesthetics-and-function/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/development/2017/03/07/visual-design-aesthetics-and-function/</guid>
+				<link>https://inls718.johndmart.in/development/2017/03/07/visual-design-aesthetics-and-function/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/development/2017/03/07/visual-design-aesthetics-and-function/</guid>
 			</item>
 		
 			<item>
@@ -390,8 +390,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 </description>
 				
 				<pubDate>Thu, 09 Mar 2017 00:00:00 -0500</pubDate>
-				<link>https://ils.unc.edu/mid-term/2017/03/09/mid-term-team-review/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/mid-term/2017/03/09/mid-term-team-review/</guid>
+				<link>https://inls718.johndmart.in/mid-term/2017/03/09/mid-term-team-review/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/mid-term/2017/03/09/mid-term-team-review/</guid>
 			</item>
 		
 			<item>
@@ -401,8 +401,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 					<description></description>
 				
 				<pubDate>Tue, 14 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/break/2017/03/14/spring-break/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/break/2017/03/14/spring-break/</guid>
+				<link>https://inls718.johndmart.in/break/2017/03/14/spring-break/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/break/2017/03/14/spring-break/</guid>
 			</item>
 		
 			<item>
@@ -412,8 +412,8 @@ Today we will work on breaking down those tasks into information maps to lead us
 					<description></description>
 				
 				<pubDate>Thu, 16 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/break/2017/03/16/spring-break/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/break/2017/03/16/spring-break/</guid>
+				<link>https://inls718.johndmart.in/break/2017/03/16/spring-break/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/break/2017/03/16/spring-break/</guid>
 			</item>
 		
 			<item>
@@ -430,8 +430,8 @@ They all have specific design constraints that came along with their development
 </description>
 				
 				<pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/development/2017/03/21/tools-and-their-epistemology/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/development/2017/03/21/tools-and-their-epistemology/</guid>
+				<link>https://inls718.johndmart.in/development/2017/03/21/tools-and-their-epistemology/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/development/2017/03/21/tools-and-their-epistemology/</guid>
 			</item>
 		
 			<item>
@@ -441,8 +441,8 @@ They all have specific design constraints that came along with their development
 					<description></description>
 				
 				<pubDate>Thu, 23 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/03/23/design-lab-8-choosing-and-using-the-right-tools-for-the-job/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/03/23/design-lab-8-choosing-and-using-the-right-tools-for-the-job/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/03/23/design-lab-8-choosing-and-using-the-right-tools-for-the-job/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/03/23/design-lab-8-choosing-and-using-the-right-tools-for-the-job/</guid>
 			</item>
 		
 			<item>
@@ -460,8 +460,8 @@ They all have specific design constraints that came along with their development
 </description>
 				
 				<pubDate>Tue, 28 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/development/2017/03/28/affordances-conventions-errors/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/development/2017/03/28/affordances-conventions-errors/</guid>
+				<link>https://inls718.johndmart.in/development/2017/03/28/affordances-conventions-errors/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/development/2017/03/28/affordances-conventions-errors/</guid>
 			</item>
 		
 			<item>
@@ -484,8 +484,8 @@ You can upload pictures, code snippets, or anything else you want along with the
 </description>
 				
 				<pubDate>Thu, 30 Mar 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/03/30/design-lab-9-developing-features/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/03/30/design-lab-9-developing-features/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/03/30/design-lab-9-developing-features/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/03/30/design-lab-9-developing-features/</guid>
 			</item>
 		
 			<item>
@@ -527,8 +527,8 @@ You can upload pictures, code snippets, or anything else you want along with the
 </description>
 				
 				<pubDate>Tue, 04 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/development/2017/04/04/documentation-and-user-education/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/development/2017/04/04/documentation-and-user-education/</guid>
+				<link>https://inls718.johndmart.in/development/2017/04/04/documentation-and-user-education/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/development/2017/04/04/documentation-and-user-education/</guid>
 			</item>
 		
 			<item>
@@ -550,8 +550,8 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 </description>
 				
 				<pubDate>Thu, 06 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/04/06/design-lab-10-writing-and-maintatining-documentation/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/04/06/design-lab-10-writing-and-maintatining-documentation/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/04/06/design-lab-10-writing-and-maintatining-documentation/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/06/design-lab-10-writing-and-maintatining-documentation/</guid>
 			</item>
 		
 			<item>
@@ -576,8 +576,8 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 </description>
 				
 				<pubDate>Tue, 11 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/prototyping/2017/04/11/make-it-pretty-prototyping-for-stakeholders/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/prototyping/2017/04/11/make-it-pretty-prototyping-for-stakeholders/</guid>
+				<link>https://inls718.johndmart.in/prototyping/2017/04/11/make-it-pretty-prototyping-for-stakeholders/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/prototyping/2017/04/11/make-it-pretty-prototyping-for-stakeholders/</guid>
 			</item>
 		
 			<item>
@@ -599,8 +599,8 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 </description>
 				
 				<pubDate>Thu, 13 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/04/13/design-lab-11-pretty-prototyping/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/04/13/design-lab-11-pretty-prototyping/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/04/13/design-lab-11-pretty-prototyping/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/13/design-lab-11-pretty-prototyping/</guid>
 			</item>
 		
 			<item>
@@ -621,8 +621,8 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 </description>
 				
 				<pubDate>Tue, 18 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/prototyping/2017/04/18/make-it-work/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/prototyping/2017/04/18/make-it-work/</guid>
+				<link>https://inls718.johndmart.in/prototyping/2017/04/18/make-it-work/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/prototyping/2017/04/18/make-it-work/</guid>
 			</item>
 		
 			<item>
@@ -632,8 +632,8 @@ Alternatively, you can do the work elsewhere and link to the files in the commen
 					<description></description>
 				
 				<pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/04/20/design-lab-12-functional-prototyping/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/04/20/design-lab-12-functional-prototyping/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/04/20/design-lab-12-functional-prototyping/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/20/design-lab-12-functional-prototyping/</guid>
 			</item>
 		
 			<item>
@@ -654,8 +654,8 @@ How might this technique be used in our project?&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 25 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/evaluation/2017/04/25/user-testing-and-analysis-of-data/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/evaluation/2017/04/25/user-testing-and-analysis-of-data/</guid>
+				<link>https://inls718.johndmart.in/evaluation/2017/04/25/user-testing-and-analysis-of-data/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/evaluation/2017/04/25/user-testing-and-analysis-of-data/</guid>
 			</item>
 		
 			<item>
@@ -666,8 +666,8 @@ How might this technique be used in our project?&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/design%20lab/2017/04/27/design-lab-13-guerrilla-testing/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/design%20lab/2017/04/27/design-lab-13-guerrilla-testing/</guid>
+				<link>https://inls718.johndmart.in/design%20lab/2017/04/27/design-lab-13-guerrilla-testing/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/design%20lab/2017/04/27/design-lab-13-guerrilla-testing/</guid>
 			</item>
 		
 			<item>
@@ -677,8 +677,8 @@ How might this technique be used in our project?&lt;/p&gt;
 					<description></description>
 				
 				<pubDate>Fri, 05 May 2017 00:00:00 -0400</pubDate>
-				<link>https://ils.unc.edu/break/2017/05/05/reflective-essay-due-today/</link>
-				<guid isPermaLink="true">https://ils.unc.edu/break/2017/05/05/reflective-essay-due-today/</guid>
+				<link>https://inls718.johndmart.in/break/2017/05/05/reflective-essay-due-today/</link>
+				<guid isPermaLink="true">https://inls718.johndmart.in/break/2017/05/05/reflective-essay-due-today/</guid>
 			</item>
 		
 	</channel>
