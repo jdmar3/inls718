@@ -13,11 +13,15 @@ longdescription: "Basic principles for designing the human interface to informat
 ########################################################################
 
 ## Uncomment this section if setting up an archive site ################
-url: "https://ils.unc.edu"
-baseurl: "/courses/2017_spring/inls718_001"
-enforce-ssl: "ils.unc.edu"
+url: https://inls718.johndmart.in
+#baseurl: "/courses/2016_fall/inls1_001"
+enforce-ssl: https://inls718.johndmart.in
+#url: "https://ils.unc.edu"
+#baseurl: "/courses/2017_spring/inls718_001"
+#enforce-ssl: "ils.unc.edu"
 # When mothballed assignments link to statics and there is a GH link
-mothballed: true  
+#mothballed: true  
+fork-link: true
 ########################################################################
 
 mainicon: "/assets/img/718icon.png"
