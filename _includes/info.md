@@ -2,7 +2,7 @@
 <label for='info' class='margin-toggle'> &#8853;</label>
 <input type='checkbox' id='info' class='margin-toggle'/>
 -->
-<span class='marginnote-contact'>
+<span class='marginnote contact'>
 <span class="date">{{ "Course Info" | upcase }}</span><br/><br/>
 <span class="{{ site.data.info.instructor.icon }}">&nbsp;**Instructor:**</span> [{{ site.data.info.instructor.var }}]({{ site.data.info.instructor.link }})<br/>
 <span class="{{ site.data.info.email.icon }}">&nbsp;**Email:**</span> <a href="{{ site.data.info.email.link }}">{{ site.data.info.email.var }}</a><br/>
